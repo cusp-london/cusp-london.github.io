@@ -6,4 +6,4 @@ layout: home
 title: Centre for Urban Science and Progress London (CUSP London)
 ---
 
-Education stuff
+*Content is coming soon*
