@@ -6,6 +6,8 @@ layout: home
 title: Centre for Urban Science and Progress London (CUSP London)
 ---
 
+![Students paying attention]({% link images/Students_Paying_Attention.jpg %})
+
 #### Upcoming seminars
 
 All our seminars are currently being held online.
