@@ -21,7 +21,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 2 June 4pm | Joanna Kusiak |  | 
 | 9 June 4pm | Vishal Kumar | Data Science for Arts and Culture | 
 | 17 June 4pm | Alison Heppenstall | Building cities from slime mould, agents and quantum field theory | 
-| 23 June 4pm | Shane Mitchell | The future of Work, and implications for organisations, cities and local communities | 
+| 23 June 4pm | Shane Mitchell | The future of work, and implications for organisations, cities and local communities | 
 | 7 July 4pm | Moritz Godel |  | 
 | 15 July 4pm | Zac Ioannidis |  | 
 | 21 July 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing | 
