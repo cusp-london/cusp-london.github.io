@@ -6,4 +6,5 @@ layout: home
 title: Centre for Urban Science and Progress London (CUSP London)
 ---
 
-*Content is coming soon*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wViccZq1jLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1">&nbsp;</iframe>
+
