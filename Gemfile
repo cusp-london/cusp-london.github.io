@@ -10,6 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 3.8.6"
 
+gem "activesupport", ">= 6.0.3.1"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-theme-slate", "~> 0.1.1"
 gem "minima"
