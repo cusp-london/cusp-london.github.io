@@ -22,7 +22,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 26 May 4pm | David Hunter | Data Walking Project | [Watch the recording here](https://www.youtube.com/watch?v=LYXxaqUb9WY) |
 |28th May 10am |Karl Roberts, James Slessor, Paul Dawson, Lawrence Sherman | Crime and Policing Post COVID-19 Webinar | [Watch the recording here](https://web.microsoftstream.com/video/5854c8b6-7052-4ce8-a338-ef98df165175)|
 | 2 June 4pm |Joanna Kusiak |  |  
-| 9 June 4pm | Vishal Kumar | Data Science for Arts and Culture |  |
+| 9 June 4pm | Vishal Kumar | Data Science for Arts and Culture | [Watch the recording here](https://www.youtube.com/watch?v=dyNa_QqplCc) |
 | 17 June 4pm | Alison Heppenstall | Building cities from slime mould, agents and quantum field theory |  |
 | 23 June 4pm | Shane Mitchell | The future of work, and implications for organisations, cities and local communities |  |
 | 7 July 4pm | Moritz Godel |  |  |
