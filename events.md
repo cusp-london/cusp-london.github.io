@@ -16,9 +16,9 @@ To join our mailing list and receive details on how to attend these seminars, pl
 
 | Date | Speaker | Title | Recording |
 |-----------|---------|-------|-----------|
-| 5 May 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | <https://youtu.be/7BN8FQLXoyI> |
-| 12 May 4pm | Anant Jani | Mapping interventions to address social factors related to health | <https://youtu.be/zELbpKa6wKw> |
-| 19 May 4pm | Giovanni Quattrone | Social Interactions or Business Transactions? What customer reviews disclose about Airbnb marketplace | <https://youtu.be/OPdvX1CMaLM> |
+| 5 May 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | [Watch the recording here]（https://youtu.be/7BN8FQLXoyI） |
+| 12 May 4pm | Anant Jani | Mapping interventions to address social factors related to health | [Watch the recording here]（https://youtu.be/zELbpKa6wKw） |
+| 19 May 4pm | Giovanni Quattrone | Social Interactions or Business Transactions? What customer reviews disclose about Airbnb marketplace | [Watch the recording here]（https://youtu.be/OPdvX1CMaLM） |
 | 26 May 4pm | David Hunter | Data Walking Project | [Watch the recording here](https://www.youtube.com/watch?v=LYXxaqUb9WY) |
 |28th May 10am |Karl Roberts, James Slessor, Paul Dawson, Lawrence Sherman | Crime and Policing Post COVID-19 Webinar | [Watch the recording here](https://web.microsoftstream.com/video/5854c8b6-7052-4ce8-a338-ef98df165175)|
 | 2 June 4pm |Joanna Kusiak |  |  
