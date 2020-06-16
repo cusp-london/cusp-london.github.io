@@ -23,7 +23,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |28th May 10am |Karl Roberts, James Slessor, Paul Dawson, Lawrence Sherman | Crime and Policing Post COVID-19 Webinar | [Watch the recording here](https://web.microsoftstream.com/video/5854c8b6-7052-4ce8-a338-ef98df165175)|
 | 2 June 4pm |Joanna Kusiak | PropTech for the Public Good |[Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%285%29A+PropTech+for+the+Public+Good_Joanna+Kusiak/1_oj2tjb1f)|
 | 9 June 4pm | Vishal Kumar | Data Science for Arts and Culture | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%286%29A+Data+Science+for+Arts+and+Culture_Vishal+Kumar/1_enc0ak0x) |
-| 16 June 4pm | Jali Packer | Personality, Perception and Place | [Watch the recording here] (https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%286%29A+Personality%2C+Perception+and+Place_Jali+Packer/1_idrsnx33) |
+| 16 June 4pm | Jali Packer | Personality, Perception and Place | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%286%29A+Personality%2C+Perception+and+Place_Jali+Packer/1_idrsnx33) |
 | 17 June 4pm | Alison Heppenstall | Building cities from slime mould, agents and quantum field theory |  |
 | 23 June 4pm | Shane Mitchell | The future of work, and implications for organisations, cities and local communities |  |
 | 7 July 4pm | Moritz Godel |  |  |
