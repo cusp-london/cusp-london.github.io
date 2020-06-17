@@ -24,7 +24,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 2 June 4pm |Joanna Kusiak | PropTech for the Public Good | |
 | 9 June 4pm | Vishal Kumar | Data Science for Arts and Culture | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%286%29A+Data+Science+for+Arts+and+Culture_Vishal+Kumar/1_enc0ak0x) |
 | 16 June 4pm | Jali Packer | Personality, Perception and Place | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%286%29A+Personality%2C+Perception+and+Place_Jali+Packer/1_idrsnx33) |
-| 17 June 4pm | Alison Heppenstall | Building cities from slime mould, agents and quantum field theory |  |
+| 17 June 4pm | Alison Heppenstall | Building cities from slime mould, agents and quantum field theory | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%288%29A+Building+cities+from+slime+mould%2C+agents+and+quantum+field+theory_Professor+Alison+Heppenstall/1_k9wrlud6) |
 | 23 June 4pm | Shane Mitchell | The future of work, and implications for organisations, cities and local communities |  |
 | 7 July 4pm | Moritz Godel |  |  |
 | 15 July 4pm | Zac Ioannidis |  |  |
