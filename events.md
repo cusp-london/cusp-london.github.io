@@ -30,3 +30,4 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 15 July 4pm | Zac Ioannidis |  |  |
 | 21 July 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
 | 22 July 11am | Claire Papaix |  |  |
+| 26 July 4pm | Mike Batty | The New Normal
