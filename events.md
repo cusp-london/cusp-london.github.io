@@ -26,7 +26,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 16 June 4pm | Jali Packer | Personality, Perception and Place | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%286%29A+Personality%2C+Perception+and+Place_Jali+Packer/1_idrsnx33) |
 | 17 June 4pm | Alison Heppenstall | Building cities from slime mould, agents and quantum field theory | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%288%29A+Building+cities+from+slime+mould%2C+agents+and+quantum+field+theory_Professor+Alison+Heppenstall/1_k9wrlud6) |
 | 23 June 4pm | Shane Mitchell | The future of work, and implications for organisations, cities and local communities |  |
-| 26 July 4pm | Mike Batty | The New Normal |  |  |
+| 26 June 4pm | Mike Batty | The New Normal |  |  |
 | 7 July 4pm | Moritz Godel |  |  |
 | 15 July 4pm | Zac Ioannidis |  |  |
 | 21 July 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
