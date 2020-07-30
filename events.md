@@ -28,8 +28,8 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 23 June 4pm | Shane Mitchell | The future of work, and implications for organisations, cities and local communities | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%289%29A+The+Future+of+Work_Shane+Mitchell/1_1lliwrr3) |
 | 26 June 4pm | Mike Batty | The New Normal: Embedding Social Distancing into Urban Models | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%2810%29A+The+New+NormalA+Embedding+Social+Distancing+into+Urban+Models_Michael+Batty/1_8bkv4y0q) |
 | 30 June 4pm | Surayyn Uthaya Selvan | Dynamic Urban Nodes Emotion Simulator | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%2811%29A+Dynamic+Urban+Nodes+Emotion+Simulator_Surayyn+Uthaya+Selvan/1_q5e9qzl8) |
-| 7 July 4pm | Moritz Godel |  |  |
-| 15 July 4pm | Zac Ioannidis |  |  |
-| 21 July 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
-| 22 July 11am | Claire Papaix |  |  |
+| 7 July 4pm | Moritz Godel | Future Cities |      |
+| 15th July | Toby Thornton | Future of Mobility Sprint |    |
+| 4th August 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
+|  |  |  |  |
 
