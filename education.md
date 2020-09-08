@@ -42,9 +42,13 @@ UoW’s MSc Urban Analytics and Visualisation emphasises the following:
 * Provides a breadth of options allowing students to select the path best matching their particular interests
 * Access to specialist expertise and data on urban culture, resilience and spatial analysis
 
-#### 2019/20 Student Projects: -
+#### Examples of the Student Projects for MSc Urban Informatics 2019/20 Student Projects
 
 Exciting interim update from a current student: [Trust, but verify – working with administrative data](https://kingsgeocomputation.org/2020/02/19/trust-but-verify-working-with-administrative-data/)
+
+[The Next Place Prediction Using Social Networks](https://media.kcl.ac.uk/media/The+Next+Place+Prediction+Using+Social+Networks/1_3h5y59nn)
+[Dynamic Evaluation on Violent Crime in London]()
+[No Space Like Home: Enriching Evidence Base on Shrinking Homes in London]()
 
 *“The teaching and facilities are amazing at King’s but choosing CUSP London is way more than that,  I really feel like I’m part of the community that brings together people who are eager to learn and grow. The way that CUSP London is set up has made it really easy to meet and collaborate with people from partners of CUSP, since there are a variety of events happening in CUSP such as Data Dive, Coffee Catchup and Guest Seminars. I enjoyed my time at King’s and beyond the urban analytics knowledge and data science skill-set I acquired, I was able to boost a growth mindset which is needed for a career I’m truly passionate about.”* – MSc Urban Informatics Student – Zhouyue
 
