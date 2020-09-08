@@ -46,11 +46,11 @@ UoW’s MSc Urban Analytics and Visualisation emphasises the following:
 
 Exciting interim update from a current student: [Trust, but verify – working with administrative data](https://kingsgeocomputation.org/2020/02/19/trust-but-verify-working-with-administrative-data/)
 
-*[The Next Place Prediction Using Social Networks](https://media.kcl.ac.uk/media/The+Next+Place+Prediction+Using+Social+Networks/1_3h5y59nn)
+[The Next Place Prediction Using Social Networks](https://media.kcl.ac.uk/media/The+Next+Place+Prediction+Using+Social+Networks/1_3h5y59nn)
 
-*[Dynamic Evaluation on Violent Crime in London]()
+[Dynamic Evaluation on Violent Crime in London]()
 
-*[No Space Like Home: Enriching Evidence Base on Shrinking Homes in London]()
+[No Space Like Home: Enriching Evidence Base on Shrinking Homes in London]()
 
 
 
