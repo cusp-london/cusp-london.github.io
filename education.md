@@ -48,7 +48,7 @@ Exciting interim update from a current student: [Trust, but verify – working w
 
 [The Next Place Prediction Using Social Networks](https://media.kcl.ac.uk/media/The+Next+Place+Prediction+Using+Social+Networks/1_3h5y59nn)
 
-[Dynamic Evaluation on Violent Crime in London]()
+[Dynamic Evaluation on Violent Crime in London](https://media.kcl.ac.uk/media/Dynamic+Evaluation+on+Violent+Crime+in+London/1_1ijbxpva)
 
 [No Space Like Home: Enriching Evidence Base on Shrinking Homes in London](https://media.kcl.ac.uk/media/No+Space+Like+HomeA+Enriching+Evidence+Base+on+Shrinking+Homes+in+London/1_1ygnl78v)
 
