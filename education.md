@@ -52,25 +52,25 @@ Exciting interim update from a current student: [Trust, but verify – working w
 
 [No Space Like Home: Enriching Evidence Base on Shrinking Homes in London](https://media.kcl.ac.uk/media/No+Space+Like+HomeA+Enriching+Evidence+Base+on+Shrinking+Homes+in+London/1_1ygnl78v)
 
-*Age Specific Fatal Accidents Study in UK
-*Crime-deterrent effect from Stop & Search, is it true?
-*Crime Displacement and Diffusion of Crime Control Benefits in Central London
-*How natural language processing approaches can be used to automatically label attendances as related to self-harm or not’
-*Geospatial analysis of referral patterns for Child and Adolescent Mental Health (CAMHS) services
-*Air pollution and mental health
-*Predicting future need for social care
-*Food consumption's environmental impact
-*Spatial pattern of hotels and Airbnb in Tourist Cities
-*Location Selection Strategy for Restaurants in the Online Food Delivery Era
-*Identifying the key environmental factors of 'robbery' in a City Council
-*Typologies of Fuel Poverty: understanding built environment and household determinants of fuel poverty in a City Council
-*Understanding Energy Consumption at Kingís College London
-*Dynamic Dispatch: Prioritisation and allocation of ambulances to patients (London Ambulance Service)
-*Patient see, patient do; impact of BBC Ambulance television broadcast on patient behaviour and emergency ambulance demand
-*Ambulance demand during heatwaves
-*Exploring associations between patient reported housing problems,  information on local housing stock, and mental health
-*Patterns of school attendance: Exploring dynamic responses to changing levels of provision and demand
-*British School and Adolescent Suicide Ideation- A Multilevel Analysis Based on Suicidal Adolescents Identified from Mental Health Records
+* Age Specific Fatal Accidents Study in UK
+* Crime-deterrent effect from Stop & Search, is it true?
+* Crime Displacement and Diffusion of Crime Control Benefits in Central London
+* How natural language processing approaches can be used to automatically label attendances as related to self-harm or not’
+* Geospatial analysis of referral patterns for Child and Adolescent Mental Health (CAMHS) services
+* Air pollution and mental health
+* Predicting future need for social care
+* Food consumption's environmental impact
+* Spatial pattern of hotels and Airbnb in Tourist Cities
+* Location Selection Strategy for Restaurants in the Online Food Delivery Era
+* Identifying the key environmental factors of 'robbery' in a City Council
+* Typologies of Fuel Poverty: understanding built environment and household determinants of fuel poverty in a City Council
+* Understanding Energy Consumption at Kingís College London
+* Dynamic Dispatch: Prioritisation and allocation of ambulances to patients (London Ambulance Service)
+* Patient see, patient do; impact of BBC Ambulance television broadcast on patient behaviour and emergency ambulance demand
+* Ambulance demand during heatwaves
+* Exploring associations between patient reported housing problems,  information on local housing stock, and mental health
+* Patterns of school attendance: Exploring dynamic responses to changing levels of provision and demand
+* British School and Adolescent Suicide Ideation- A Multilevel Analysis Based on Suicidal Adolescents Identified from Mental Health Records
 
 
 *“The teaching and facilities are amazing at King’s but choosing CUSP London is way more than that,  I really feel like I’m part of the community that brings together people who are eager to learn and grow. The way that CUSP London is set up has made it really easy to meet and collaborate with people from partners of CUSP, since there are a variety of events happening in CUSP such as Data Dive, Coffee Catchup and Guest Seminars. I enjoyed my time at King’s and beyond the urban analytics knowledge and data science skill-set I acquired, I was able to boost a growth mindset which is needed for a career I’m truly passionate about.”* – MSc Urban Informatics Student – Zhouyue
