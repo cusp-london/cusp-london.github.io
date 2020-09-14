@@ -52,6 +52,8 @@ Exciting interim update from a current student: [Trust, but verify – working w
 
 [No Space Like Home: Enriching Evidence Base on Shrinking Homes in London](https://media.kcl.ac.uk/media/No+Space+Like+HomeA+Enriching+Evidence+Base+on+Shrinking+Homes+in+London/1_1ygnl78v)
 
+[Exploring associations between patient reported housing problems,  information on local housing stock, and mental health](https://media.kcl.ac.uk/media/A+comparison+of+different+machine+learning+approaches+to+extracting+mentions+of+housing+issues+from+the+clinical+record+interactive+search+%28CRIS%29case/1_oqp03ity)
+
 * Age Specific Fatal Accidents Study in UK
 * Crime-deterrent effect from Stop & Search, is it true?
 * Crime Displacement and Diffusion of Crime Control Benefits in Central London
@@ -68,7 +70,6 @@ Exciting interim update from a current student: [Trust, but verify – working w
 * Dynamic Dispatch: Prioritisation and allocation of ambulances to patients (London Ambulance Service)
 * Patient see, patient do; impact of BBC Ambulance television broadcast on patient behaviour and emergency ambulance demand
 * Ambulance demand during heatwaves
-* Exploring associations between patient reported housing problems,  information on local housing stock, and mental health
 * Patterns of school attendance: Exploring dynamic responses to changing levels of provision and demand
 * British School and Adolescent Suicide Ideation- A Multilevel Analysis Based on Suicidal Adolescents Identified from Mental Health Records
 
