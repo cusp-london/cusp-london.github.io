@@ -31,5 +31,5 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 7 July 4pm | Moritz Godel | Future Cities |      |
 | 15th July | Toby Thornton | Future of Mobility Sprint |    |
 | 4th August 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
-|  |  |  |  |
+| 29th September 4pm | Movement | Social Distancing | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%2815%29A+Social+distancing_Movement/1_chks90y6) |
 
