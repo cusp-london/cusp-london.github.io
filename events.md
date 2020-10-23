@@ -32,4 +32,8 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 15th July | Toby Thornton | Future of Mobility Sprint |    |
 | 4th August 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
 | 29th September 4pm | Aoife Hunt, Steve Gwynne and Pete Thompson @ Movement | Social Distancing & Designing for Life| [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%2815%29A+Social+distancing_Movement/1_chks90y6) |
-
+|29th October 12pm | Dr Matt Thomas| British Red Cross|
+|12th November 12pm | Menna El-Assady| Konstanz University|
+|19th November 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
+|3rd December 12pm | Joanna S Kao|The Financial Times|
+|10th December 12pm | Alex Wielochowski| London Ambulance Service|
