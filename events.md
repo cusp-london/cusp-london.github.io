@@ -35,6 +35,5 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |29th October 12pm | Dr Matt Thomas| British Red Cross|
 |12th November 12pm | Menna El-Assady| Konstanz University|
 |19th November 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
-|26th November 12pm | Joanna S Kao| Financial Times|
-|3rd December 12pm | Chris S Payne|ONS|
+|26th November 12pm | Joanna S Kao| Financial Times||
 |10th December 12pm | Alex Wielochowski| London Ambulance Service|
