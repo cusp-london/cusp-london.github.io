@@ -24,7 +24,7 @@ CUSP London’s expertise spans Computer Science, Computational Social Science a
 These activities are underpinned by a commitment to transparency and openness with respect to how we develop and document analytical pipelines and results from end-to-end.
 
 ### Latest Research Collaborations
-CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government
+**CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government**
 
 ![group lighter1]({% link images/group lighter1.jpg %})
 
