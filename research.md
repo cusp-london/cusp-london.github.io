@@ -25,6 +25,9 @@ These activities are underpinned by a commitment to transparency and openness wi
 
 ### Latest Research Collaborations
 CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government
+![group lighter]({% link images/group lighter.jpg %})
+
+Group photo taken in 2018 at the official signing of the Statement of Intent between CUSP London and Westminster City Council.
 
 The work of students and researchers at CUSP London in using data to improve Londoner’s lives has won the 2020 Geography in Government Awards.
 
