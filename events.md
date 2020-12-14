@@ -36,4 +36,4 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |12th November 12pm | Menna El-Assady| Konstanz University|
 |19th November 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
 |26th November 12pm | Joanna S Kao| Financial Times||
-|10th December 12pm | Alex Wielochowski| London Ambulance Service|
+|TBC | Alex Wielochowski| London Ambulance Service|
