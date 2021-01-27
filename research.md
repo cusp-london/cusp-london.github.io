@@ -24,6 +24,11 @@ CUSP London’s expertise spans Computer Science, Computational Social Science a
 These activities are underpinned by a commitment to transparency and openness with respect to how we develop and document analytical pipelines and results from end-to-end.
 
 ### Latest Research Collaborations
+
+**Professor Mark Kleinman Chaired King's Experts Series: Cities of the Future on 26 Jan. 2021**
+
+See more of the event recording from [HERE](https://www.youtube.com/watch?v=xa9BQfbdbek)
+
 **CUSP London Data Dive Output published on GeoConnexion Februray Issue**
 
 Covid and Crime in The Capital by Yijing Li
