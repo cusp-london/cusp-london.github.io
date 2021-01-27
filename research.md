@@ -27,6 +27,7 @@ These activities are underpinned by a commitment to transparency and openness wi
 **CUSP London Data Dive Output published on GeoConnexion Februray Issue**
 
 Covid and Crime in The Capital by Yijing Li
+
 See more from [HERE](https://www.geoconnexion.com/publications/january-february-2021-uk-issue)
 
 **CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government**
