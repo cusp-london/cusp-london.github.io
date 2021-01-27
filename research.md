@@ -24,7 +24,7 @@ CUSP London’s expertise spans Computer Science, Computational Social Science a
 These activities are underpinned by a commitment to transparency and openness with respect to how we develop and document analytical pipelines and results from end-to-end.
 
 ### Latest Research Collaborations
-**CUSP London Data Dive Output published on GeoConnexion Februray Issue
+**CUSP London Data Dive Output published on GeoConnexion Februray Issue**
 
 Covid and Crime in The Capital by Yijing Li
 See more from [HERE](https://www.geoconnexion.com/publications/january-february-2021-uk-issue)
