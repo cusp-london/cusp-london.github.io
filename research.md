@@ -29,11 +29,7 @@ These activities are underpinned by a commitment to transparency and openness wi
 
 See more of the event recording from [HERE](https://www.youtube.com/watch?v=xa9BQfbdbek)
 
-**Dr Yijing Li Research Paper: Health Resilience Against Pandemic Crisis Among European Countries.**
-
-Health resilience against pandemic crisis among European countries. In Shaw SL and Sui D (eds). Covid-19 book series of “human dynamics in smart cities”.2021. Springer (Accepted for Publication).
-
-**CUSP London Data Dive Output published on GeoConnexion Februray Issue**
+**CUSP London - MOPAC Data Dive Output published on GeoConnexion Februray Issue**
 
 Covid and Crime in The Capital by Yijing Li
 
@@ -50,6 +46,10 @@ The work of students and researchers at CUSP London in using data to improve Lon
 See more about the [Award](https://www.kcl.ac.uk/news/cusp-london-urban-lab-partnership-wins-royal-geographical-society-award-for-excellence-in-local-government)
 
 ### Latest Research on COVID-19
+
+**Dr Yijing Li Research Paper: Health Resilience Against Pandemic Crisis Among European Countries.**
+
+Health resilience against pandemic crisis among European countries. In Shaw SL and Sui D (eds). Covid-19 book series of “human dynamics in smart cities”.2021. Springer (Accepted for Publication).
 
 **The Intersection of Cities and COVID-19: What We Learned and What’s Next? (by Dylan Anderson)**
 
