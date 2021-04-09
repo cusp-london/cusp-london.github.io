@@ -36,4 +36,13 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |12th November 12pm | Menna El-Assady| Konstanz University|
 |19th November 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
 |26th November 12pm | Joanna S Kao| Financial Times||
-|TBC | Alex Wielochowski| London Ambulance Service|
+|14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
+|21st April 2021 4pm | Ravi Shroff| NYU Steihardt School|
+|12th May 2021 2pm | Jonathan Reades| CASA, UCL|
+|26th May 2021 2pm |Sophie Johnson|Westminster City Council|
+|2nd June 2021 5pm | Juan Bello| CUSP NYU|
+|9th June 2021 5pm | Yury Dvorkin| NYU 
+|16th June 2021 2pm | Jali Packer|University of Cambridge|
+|16th June 2021 4pm | Neil Kleinman| NYU|
+|7th July 2021 2pm | Scott Caine| RunFriendly|
+|4th August 2021 4pm| Eric Corbett| CUSP NYU|
