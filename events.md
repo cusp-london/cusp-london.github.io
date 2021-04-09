@@ -16,7 +16,6 @@ To join our mailing list and receive details on how to attend these seminars, pl
 
 | Date | Speaker | Title | Recording |
 |------------------|-------------|--------------|------------------|
-
 |12th November 12pm | Menna El-Assady| Konstanz University|
 |19th November 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
 |26th November 12pm | Joanna S Kao| Financial Times||
@@ -30,7 +29,6 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |16th June 2021 4pm | Neil Kleinman| NYU|
 |7th July 2021 2pm | Scott Caine| RunFriendly|
 |4th August 2021 4pm| Eric Corbett| CUSP NYU|
-
 | 5 May 2020 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%281%29A+A+human-centric+overview+of+Future+Mobility_Toby+Thornton/1_tr019g1i)|
 | 12 May 2020 4pm | Anant Jani | Mapping interventions to address social factors related to health | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%282%29A+Mapping+interventions+to+address+social+factors+related+to+health_Anant+Jani+/1_ta1zqm70)|
 | 19 May 2020 4pm | Giovanni Quattrone | Social Interactions or Business Transactions? What customer reviews disclose about Airbnb marketplace | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%283%29A+AirbnbA+Social+Interactions+or+Business+Transaction_Giovanni+Quattrone/1_izputp1d)|
