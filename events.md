@@ -8,6 +8,14 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 ![Students paying attention]({% link images/Students_Paying_Attention.jpg %})
 
+#### Data Dive 2021 Future Mobility
+The week-long Data Dive (or so-called Data Hackathon) is CUSP London's flagship event since 2015. This year in 2021, we run a timely theme on Future Mobility from 15th March to 19th March, in support of partners like, but not limited, Transport for London (TfL), WSP UK, GHD Group, Westminster City Council, Ginger, Chordant Inc., RunFriendly.world, ActiveThings and Reed Mobility.
+
+The 9 divers' teams are comprised by postgraduate students and alumni from CUSP London at King's College London, CASA at UCL, University of Warwick and CUSP New York at New York University; working intensively on respective topics e.g., potentiality for micro-mobility to transform urban mobility in UK cities; and how it changes over time among different UK cities and towns? the Covid-19 impacts on rail demand across London as well as the demand's possible evolvement in the future, might it be more or less active for future commuter travel? The driving behaviour changes in London pre- and post- Covid, and the optimal ways to improve air quality in London through transport changes, and to explore the cycling-relevant street infrastructure changes for future support. Comparatively, how has the driving/commuter behaviours changed in New York city from the past to post-Covid, and what transport-related initiatives could these international cities exchange to make themselves better ready for the future of urban mobility.
+
+[Team 1: Potentiality for Micro-mobility in UK cities: London as a case study](https://media.kcl.ac.uk/media/DataDive2021_Team1_Potential+for+micro-mobility+in+UK+cities_London+as+a+case+study/1_v0w0stwc)
+[Team 2: How has Covid-19 impacted travel demand across London and evolve in the future](https://media.kcl.ac.uk/media/DataDive2021_Team2_How+has+Covid-19+impacted+travel+demand+across+London+and+evolve+in+the+future/1_de2mw3jj)
+
 #### Upcoming seminars
 
 All our seminars are currently being held online.
