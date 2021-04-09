@@ -9,7 +9,7 @@ title: Centre for Urban Science and Progress London (CUSP London)
 ![Students paying attention]({% link images/Students_Paying_Attention.jpg %})
 
 #### Data Dive 2021 Future Mobility
-The week-long Data Dive (or so-called Data Hackathon) is CUSP London's flagship event since 2015. This year in 2021, we run a timely theme on Future Mobility from 15th March to 19th March, in support of partners like, but not limited, Transport for London (TfL), WSP UK, GHD Group, Westminster City Council, Ginger, Chordant Inc., RunFriendly.world, ActiveThings and Reed Mobility.
+The week-long Data Dive (or so-called Data Hackathon) is CUSP London's flagship event since 2015. This year in 2021, we run a timely theme on Future Mobility from 15th March to 19th March, in support of partners like, but not limited, Transport for London (TfL), WSP UK, GHD Group, Westminster City Council, Ginger, Chordant Inc., RunFriendly.world, ActiveThings and Reed Mobility. Detailed coverage from [King's College London news] (https://www.kcl.ac.uk/news/looking-towards-the-future-of-urban-mobility).
 
 The 9 divers' teams are comprised by postgraduate students and alumni from CUSP London at King's College London, CASA at UCL, University of Warwick and CUSP New York at New York University; working intensively on respective topics e.g., potentiality for micro-mobility to transform urban mobility in UK cities; and how it changes over time among different UK cities and towns? the Covid-19 impacts on rail demand across London as well as the demand's possible evolvement in the future, might it be more or less active for future commuter travel? The driving behaviour changes in London pre- and post- Covid, and the optimal ways to improve air quality in London through transport changes, and to explore the cycling-relevant street infrastructure changes for future support. Comparatively, how has the driving/commuter behaviours changed in New York city from the past to post-Covid, and what transport-related initiatives could these international cities exchange to make themselves better ready for the future of urban mobility.
 
@@ -19,6 +19,18 @@ The 9 divers' teams are comprised by postgraduate students and alumni from CUSP 
 
 [Team 3: Will future commuter travel in London be more or less active](https://media.kcl.ac.uk/media/DataDive2021_Team3_Will+future+commuter+travel+in+London+be+more+or+less+activeF/1_cxafiz66)
 
+[Team 4: Investigating the resilience of public transit system in London and New York City](https://media.kcl.ac.uk/media/DataDive2021_Team4_Investigating+the+resilience+of+public+transit+system+in+LDN+%26+NYC/1_9xvazhn3)     
+
+[Team 5: How has cycling relevant street infrastructure changed in London](https://media.kcl.ac.uk/media/DataDive2021_Team5_How+has+cycling+relevant+street+infrastructure+changed+in+London+and+suggest+for+future/1_ilmylago)   
+
+[Team 6: What are the best ways to improve air quality in London through transport changes](https://media.kcl.ac.uk/media/DataDive2021_Team6_What+are+the+best+ways+to+improve+air+quality+in+London+through+transport+changes/1_nxj5m0xo)
+
+[Team 7: How has London driving behaviour changed from past to post Covid](https://media.kcl.ac.uk/media/DataDive2021_Team7_How+has+London+driving+behaviour+changed+from+past+to+post-CovidF/1_la7d6wcl)
+
+[Team 8: How is micro mobility usage changing over time and in different UK towns](https://media.kcl.ac.uk/media/How+is+micro+mobility+usage+changing+over+time+and+in+different+UK+towns/1_wk8mkhkn)
+
+[Team 9: New York City driving behaviour change pre and post COVID-19](https://media.kcl.ac.uk/media/DataDive2021_Team9_New+York+City+Driving+Behaviour+change+pre+%26+post+COVID-19/1_0y9hpc78)
+
 #### Upcoming seminars
 
 All our seminars are currently being held online.
@@ -27,9 +39,6 @@ To join our mailing list and receive details on how to attend these seminars, pl
 
 | Date | Speaker | Title | Recording |
 |------------------|-------------|--------------|------------------|
-|12th November 12pm | Menna El-Assady| Konstanz University|
-|19th November 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
-|26th November 12pm | Joanna S Kao| Financial Times||
 |14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
 |21st April 2021 4pm | Ravi Shroff| NYU Steihardt School|
 |12th May 2021 2pm | Jonathan Reades| CASA, UCL|
@@ -57,3 +66,6 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 4th 2020 August 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
 | 29th 2020 September 4pm | Aoife Hunt, Steve Gwynne and Pete Thompson @ Movement | Social Distancing & Designing for Life| [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%2815%29A+Social+distancing_Movement/1_chks90y6) |
 |29th 2020 October 12pm | Dr Matt Thomas| British Red Cross|
+|12th November 12pm | Menna El-Assady| Konstanz University|
+|19th November 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
+|26th November 12pm | Joanna S Kao| Financial Times||
