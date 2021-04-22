@@ -42,6 +42,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
 |21st April 2021 4pm | Seth G Benzell| Triumph of the City (TOC) Research Seminar|
 |21st April 2021 4pm | Ravi Shroff| NYU Steihardt School|
+|28th April 2021 2pm | Katharine Willis| University of Plymouth|
 |28th April 2021 4pm | Colin Ellard| Triumph of the City (ToC) Research Seminar|
 |12th May 2021 2pm | Jonathan Reades| CASA, UCL|
 |26th May 2021 2pm |Sophie Johnson|Westminster City Council|
