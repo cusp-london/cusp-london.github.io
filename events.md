@@ -55,7 +55,9 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |12th August 2021 2pm| Mark Kleinman| King's College London|
 
 #### Past seminars
+
 | Date | Speaker | Title | Recording |
+|------------------|-------------|--------------|------------------|
 
 | 5 May 2020 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%281%29A+A+human-centric+overview+of+Future+Mobility_Toby+Thornton/1_tr019g1i)|
 | 12 May 2020 4pm | Anant Jani | Mapping interventions to address social factors related to health | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%282%29A+Mapping+interventions+to+address+social+factors+related+to+health_Anant+Jani+/1_ta1zqm70)|
