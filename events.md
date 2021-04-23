@@ -76,6 +76,6 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | 4th 2020 August 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
 | 29th 2020 September 4pm | Aoife Hunt, Steve Gwynne and Pete Thompson @ Movement | Social Distancing & Designing for Life| [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%2815%29A+Social+distancing_Movement/1_chks90y6) |
 |29th 2020 October 12pm | Dr Matt Thomas| British Red Cross|
-|12th November 12pm | Menna El-Assady| Konstanz University|
-|19th November 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
-|26th November 12pm | Joanna S Kao| Financial Times||
+|12th November 2020 12pm | Menna El-Assady| Konstanz University|
+|19th November 2020 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
+|26th November 2020 12pm | Joanna S Kao| Financial Times||
