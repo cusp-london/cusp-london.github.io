@@ -9,9 +9,9 @@ title: Centre for Urban Science and Progress London (CUSP London)
 ![Students paying attention]({% link images/Students_Paying_Attention.jpg %})
 
 #### Data Dive 2021 Future Mobility
-The week-long Data Dive (or so-called Data Hackathon) is CUSP London's flagship event since 2015. This year in 2021, we run a timely theme on Future Mobility from 15th March to 19th March, in support of partners like, but not limited, Transport for London (TfL), WSP UK, GHD Group, Westminster City Council, Ginger, Chordant Inc., RunFriendly.world, ActiveThings and Reed Mobility. Detailed coverage from [King's College London news](https://www.kcl.ac.uk/news/looking-towards-the-future-of-urban-mobility).
+The week-long Data Dive (or "Hackathon") is CUSP London's flagship annual event and has been since 2015. This year in 2021, we ran a timely theme on Future Mobility from 15th March to 19th March, in support of partners such as, but not limited to, Transport for London (TfL), WSP UK, GHD Group, Westminster City Council, Ginger, Chordant Inc., RunFriendly, ActiveThings and Reed Mobility. Detailed coverage from [King's College London news](https://www.kcl.ac.uk/news/looking-towards-the-future-of-urban-mobility).
 
-The 9 divers' teams are comprised by postgraduate students and alumni from CUSP London at King's College London, CASA at UCL, University of Warwick and CUSP New York at New York University; working intensively on respective topics e.g., potentiality for micro-mobility to transform urban mobility in UK cities; and how it changes over time among different UK cities and towns? the Covid-19 impacts on rail demand across London as well as the demand's possible evolvement in the future, might it be more or less active for future commuter travel? The driving behaviour changes in London pre- and post- Covid, and the optimal ways to improve air quality in London through transport changes, and to explore the cycling-relevant street infrastructure changes for future support. Comparatively, how has the driving/commuter behaviours changed in New York city from the past to post-Covid, and what transport-related initiatives could these international cities exchange to make themselves better ready for the future of urban mobility.
+The 9 divers' teams are comprised of postgraduate students and alumni from CUSP London at King's College London, CASA at UCL, University of Warwick and CUSP at New York University; working intensively on topics relating to future urban mobility such as: the potential of micro-mobility to transform urban mobility in UK cities; how it changes over time among different UK cities and towns, the Covid-19 impacts on rail demand across London as well as the possible behavioural change evolvement in the future. Considerations such as whether it might be more or less active for future commuter travel? The driving behaviour changes in London pre- and post- Covid were looked at along with and the optimal ways to improve air quality in London through transport changes, and to explore the cycling-relevant street infrastructure changes for future support. Comparatively, the driving/commuter behaviour changes in New York city from the past to post-Covid were studied, and what transport-related initiatives these international cities could exchange to make themselves better ready for the future of urban mobility.
 
 [Team 1: Potentiality for Micro-mobility in UK cities: London as a case study](https://media.kcl.ac.uk/media/DataDive2021_Team1_Potential+for+micro-mobility+in+UK+cities_London+as+a+case+study/1_v0w0stwc)
 
@@ -52,6 +52,12 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |16th June 2021 4pm | Neil Kleinman| NYU|
 |7th July 2021 2pm | Scott Caine| RunFriendly|
 |4th August 2021 4pm| Eric Corbett| CUSP NYU|
+|12th August 2021 2pm| Mark Kleinman| King's College London|
+
+#### Past seminars
+| Date | Speaker | Title | Recording |
+|------------------|-------------|--------------|------------------|
+
 | 5 May 2020 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%281%29A+A+human-centric+overview+of+Future+Mobility_Toby+Thornton/1_tr019g1i)|
 | 12 May 2020 4pm | Anant Jani | Mapping interventions to address social factors related to health | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%282%29A+Mapping+interventions+to+address+social+factors+related+to+health_Anant+Jani+/1_ta1zqm70)|
 | 19 May 2020 4pm | Giovanni Quattrone | Social Interactions or Business Transactions? What customer reviews disclose about Airbnb marketplace | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%283%29A+AirbnbA+Social+Interactions+or+Business+Transaction_Giovanni+Quattrone/1_izputp1d)|
