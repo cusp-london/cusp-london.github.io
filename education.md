@@ -88,4 +88,6 @@ Exciting interim update from a current student: [Trust, but verify – working w
 * Liveable Streets
 * The role of environment and accessibility in suicidality
 * Predictive models on terrorism vulnerability with local climate
+
+Please see our research pages for further details [Research](https://cusplondon.ac.uk/research.html)
  
