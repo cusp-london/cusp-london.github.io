@@ -4,7 +4,7 @@
 
 layout: home
 title: Centre for Urban Science and Progress London (CUSP London)
-<head> section of your page: <meta name="description" content="CUSP London CUSP London is a centre for interdisciplinary research in urban science and fosters working across subject boundaries content"/>
+<meta name="subject" content="CUSP London CUSP London is a centre for interdisciplinary research in urban science and fosters working across subject boundaries content">
 ---
 #### Welcome to the CUSP London Homepage
 The Centre for Urban Science and Progress London (CUSP London) is an interdisciplinary research and education centre bringing together expertise from across King's College London and the University of Warwick in the area of Urban Informatics, applying quantitative and computational approaches to understanding and improving cities, with extensive collaboration with pubic sector city authorities and other external bodies to ensure strong social impact.  
