@@ -26,7 +26,8 @@ Prof Michael Batty</td>
 <td>
 Prof Michael Batty <br>
 Specialsm: Advanced Spatial Analysis and City Planning <br>
-[Webpage](https://www.ucl.ac.uk/bartlett/casa/prof-michael-batty)<br>
+
+<a href = "https://www.ucl.ac.uk/bartlett/casa/prof-michael-batty">Personal Webpage</a><br>
 Michael Batty is Bartlett Professor of Planning at University College London where he is Chair of the Centre for Advanced Spatial Analysis (CASA). He has worked on computer models of cities and their visualisation since the 1970s and has published several books, such as Cities and Complexity (MIT Press, 2005) and The New Science of Cities (MIT Press, 2013). Both books won the Alonso Prize of the North American Regional Science Association. His most recent book Inventing Future Cities was published by MIT Press in late 2018.  His blogs www.complexcity.info cover the science underpinning the technology of cities and his posts and lectures on big data and smart cities are at www.spatialcomplexity.info. Prior to his current position, he was Professor of City Planning and Dean of the School of Environmental Design at the University of Wales at Cardiff from 1979 to 1990 and then Director of the National Center for Geographic Information and Analysis at the State University of New York at Buffalo from 1990 to 1995.
 </td>
 </tr>
@@ -36,8 +37,8 @@ Michael Batty is Bartlett Professor of Planning at University College London whe
 Erika Brodnock</td>
 <td>
 Erika Brodnock <br>
-Specialism: Digital resources, digital parenting, Social Learning <br>
-[Website](https://www.usekami.com/about) <br>
+Specialism: Digital resources, Digital Parenting, Social Learning <br>
+<a href = "https:////www.usekami.com/about">Personal Webpage</a><br>
 Erika Brodnock is a multi-award winning entrepreneur (including female entrepreneur of the year), philanthropist, life coach, Executive MBA, inspirational speaker, and creator of digital resources covering emotional and social learning, and digital parenting. She is Sky News’ resident parenting expert; and founder of software companies Karisma Kidz and Kami Parents.
 
 Erika is passionate about making sure that every child has the opportunity to reach their potential!
@@ -50,6 +51,9 @@ Her first Tedx talk has been viewed more than 175,000 times and can be found her
 <img src = "{% link images/Joe_Dignan.jpg %}"/>
 Joe Dignan</td>
 <td>
+Joe Dignan <br>
+Specialism: Digital Transformation<br>
+  
 Joe is the Founder of Kintechi Ltd, an independent consultancy based in London focused on delivering digital transformation at local, regional and national levels. He is a recognised subject matter expert in the digital transformation arena. A professional hybrid; at home in both the public and private sector, he has a background in the Public Sector (where he spent seven years as a chief officer in local and regional govt focussed on economic development), ICT, SME linkage, economic development, education and digital enablement in the UK, Europe, the Far and Middle East.  He is on the World Bank’s Smart City Expert Framework, a member of the Stakeholder Group for the European Commission’s Smart Cities and Communities Group, the EU-China smart city expert group, NED,  Advisory Board Chair, Research Fellow, Visiting Programme Director and Special Adviser to the board of Digital Jersey.
 </td>
 </tr>
@@ -59,9 +63,11 @@ Joe is the Founder of Kintechi Ltd, an independent consultancy based in London f
 Sophia Goldberg
 </td>
 <td>
+Dr Sophia Goldberg <br>
+Specialism: Machine Learning <br>
+<a href = "https://www.sophiagoldberg.com/">GitHub</a> and <a href = "https://github.com/SophiaGoldberg">website</a> and <a href = "https://www.sky.com/">Sky website</a> <br>
 Dr Sophia Goldberg is a Data Scientist and Machine Learning Researcher. She is a Data Scientist at Sky, and previously worked at Streetbees and Isaac Physics, and was a Data Science Fellow at Faculty. She studied her PhD in Theoretical Physics at Queen Mary University of London after an undergraduate in Theoretical Physics and master’s in complex networks modelling at Imperial College London. Her research collaborations have led to multiple publications, in informatics, theoretical physics and machine learning, and numerous national and international presentations. Some recent presentations include those at Big Data LDN, Manc ML, and the Treasury. She is experienced in supervising master’s students, and leading and scoping data science projects solutions from R&D to product using techniques in Natural Language Processing, Unsupervised Learning and Deep Learning. She is passionate about Data Science for good and is active in of multiple diversity in STEM and STEM-outreach initiatives.  
 
-<a href = "https://www.sophiagoldberg.com/">GitHub</a> and <a href = "https://github.com/SophiaGoldberg">website</a> and <a href = "https://www.sky.com/">Sky website</a>.
 </td> 
 </tr>
 <tr>
