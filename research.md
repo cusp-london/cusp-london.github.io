@@ -65,4 +65,4 @@ The second wave will likely lead to several new implications and takeaways. For 
 
 As the debate around COVID’s effects continue, the work we did over the summer signified why urban studies is so important. Cities are the bedrock of country-wide economies, and by using quantitative, evidence-based methods to understand how these urban networks function, we can better plan and adapt to unforeseen events like this pandemic. The research is still ongoing, and will likely never end, but as policymakers and politicians make decisions there is no doubt that urban cities are on the top of their minds, making these outputs crucial in helping create impactful policy choices moving forward. 
 
-Please click here to meet some of our CUSP London [Associates] (https://cusplondon.ac.uk/associates.html)
+Please click here to meet some of our CUSP London [Associates](https://cusplondon.ac.uk/associates.html)
