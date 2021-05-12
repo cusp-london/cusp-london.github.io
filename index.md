@@ -11,5 +11,5 @@ The Centre for Urban Science and Progress London (CUSP London) is an interdiscip
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wViccZq1jLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1">&nbsp;</iframe>
 
-Please click here to see more about the events we hold [Events page](https://cusplondon.ac.uk/events.html) 
+Please click here to see more about the events we hold [Events page](https://cusplondon.ac.uk/events.html) and our latest research on Covid-19 [Research] (https://cusplondon.ac.uk/research.html)
 
