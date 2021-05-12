@@ -12,15 +12,21 @@ title: Centre for Urban Science and Progress London (CUSP London)
 <img src = "{% link images/Francesco_Aletta.jpg %}"/>
 Dr Francesco Aletta</td>
 <td>
+Dr Fransesco Aletta <br>
+Specialism: Environmental Acoustics <br>
+<a href = "https://www.ucl.ac.uk/bartlett/environmental-design/people/dr-francesco-aletta">Personal Webpage</a> <br>
+  
 I was born and raised in Naples (Italy), where I also got my Master’s degree in Architecture (2010) and PhD in Environmental Design (2014) . During my PhD I became more and more interested in the relationships between people and everyday sounds, which prompted me to pursue an academic career in the field of environmental acoustics. In 2013, I joined the Acoustics Group of the School of Architecture at the University of Sheffield as a Research Associate to work on the development of soundscape methods within the EU-funded network “SONORUS”. In 2018 I joined UCL IEDE as Research Associate to work with Prof Jian Kang on the Soundscape Indices project, funded by the ERC Advanced Grant scheme.
 
-<a href = "https://www.ucl.ac.uk/bartlett/environmental-design/people/dr-francesco-aletta">Personal Webpage</a>
 </td>
 </tr>
 <tr>
 <td><img src = "{% link images/Mike_Batty.jpg %}"/>
 Prof Michael Batty</td>
 <td>
+Prof Michael Batty <br>
+Specialsm: Advanced Spatial Analysis and City Planning <br>
+[Webpage](https://www.ucl.ac.uk/bartlett/casa/prof-michael-batty)<br>
 Michael Batty is Bartlett Professor of Planning at University College London where he is Chair of the Centre for Advanced Spatial Analysis (CASA). He has worked on computer models of cities and their visualisation since the 1970s and has published several books, such as Cities and Complexity (MIT Press, 2005) and The New Science of Cities (MIT Press, 2013). Both books won the Alonso Prize of the North American Regional Science Association. His most recent book Inventing Future Cities was published by MIT Press in late 2018.  His blogs www.complexcity.info cover the science underpinning the technology of cities and his posts and lectures on big data and smart cities are at www.spatialcomplexity.info. Prior to his current position, he was Professor of City Planning and Dean of the School of Environmental Design at the University of Wales at Cardiff from 1979 to 1990 and then Director of the National Center for Geographic Information and Analysis at the State University of New York at Buffalo from 1990 to 1995.
 </td>
 </tr>
@@ -29,6 +35,9 @@ Michael Batty is Bartlett Professor of Planning at University College London whe
 <img src = "{% link images/Erika_Brodnock.jpg %}"/>
 Erika Brodnock</td>
 <td>
+Erika Brodnock <br>
+Specialism: Digital resources, digital parenting, Social Learning <br>
+[Website](https://www.usekami.com/about) <br>
 Erika Brodnock is a multi-award winning entrepreneur (including female entrepreneur of the year), philanthropist, life coach, Executive MBA, inspirational speaker, and creator of digital resources covering emotional and social learning, and digital parenting. She is Sky News’ resident parenting expert; and founder of software companies Karisma Kidz and Kami Parents.
 
 Erika is passionate about making sure that every child has the opportunity to reach their potential!
