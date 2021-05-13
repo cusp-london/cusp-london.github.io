@@ -1,5 +1,5 @@
-layout: home
-title: Centre for Urban Science and Progress London (CUSP London) News
+
+Centre for Urban Science and Progress London (CUSP London) News
 ---
 
 #### What's happening in CUSP London - News Items<br>
