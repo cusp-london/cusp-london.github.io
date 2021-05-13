@@ -142,10 +142,10 @@ Joanna Kusiak</td>
 <td>
 Dr Joanna Kusiak <br>
 Specialism: Urban Studies <br>
+<a href = "https://www.kings.cam.ac.uk/research/fellows/joanna-kusiak">Personal Webpage</a><br>
 <a href="mailto:jk726@cam.ac.uk">Email</a><br>
 Dr Joanna Kusiak is a Research Fellow in Urban Studies at King’s College, Cambridge. Her work focuses on urban land, property and the role that legal technicalities play in shaping our cities. At CUSP, she hopes to bring perspectives from critical urban studies together with technological innovations in order to experiment with new models of ownership for tackling the housing crisis. A key question for her research is to which extent we can use the data sets and technologies associated with ‘platform capitalism’ to design an efficient and democratic system for allocating socially owned housing? While her research is not confined to any region, Joanna is especially committed – as an activist and as an architecture/urban critic – to the cities of Warsaw and Berlin. In 2019 the International Journal of Urban and Regional Research awarded her essay ‘Legal Technologies of Primitive Accumulation: Judicial Robbery and Dispossession‐by‐Restitution in Warsaw‘ Best Article Prize ‘for the article that makes the most original and outstanding contribution to our understanding of cities and urbanization.’ She tweets at @jkkusiak. 
 
-<a href="mailto:jk726@cam.ac.uk">Email</a>
 </td> 
 </tr>
 <tr>
@@ -153,7 +153,11 @@ Dr Joanna Kusiak is a Research Fellow in Urban Studies at King’s College, Camb
 <img src = "{% link images/Lucas_Lacasa.jpg %}"/>
 Lucas Lacasa</td>
 <td>
+Dr Luca Lacasa <br>
+Specialism: Applied Mathematics; complexity science, time series analysis <br>
+<a href = "https://www.qmul.ac.uk/maths/profiles/lacasal.html">Personal Webpage</a><br>
 Dr Lucas Lacasa is currently Reader in Applied Mathematics at Queen Mary University of London and an EPSRC Early Career Fellow. His research interests are in complexity science, and particularly at the interface between network science and time series analysis, where he has both developed new methods for data analysis and has applied these in a range of scenarios in physics, biology and social sciences. Other interests include nonlinear dynamics and critical phenomena. 
+  
 </td>
 </tr>
 <tr>
