@@ -75,10 +75,12 @@ Dr Sophia Goldberg is a Data Scientist and Machine Learning Researcher. She is a
 <img src = "{% link images/Steve_Gwynne.jpg %}"/>
 Steve Gwynne</td>
 <td>
-Dr. Steven Gwynne is Research Lead at Movement Strategies, UK. He has worked in evacuation and pedestrian dynamics for nearly 25 years, adopting academic, consultant and government roles in the UK, US and Canada. He is a former Senior Research Officer at that National Research Council of Canada and Visiting Researcher at the National Institute of Standards and Technology (US).  He currently on the adjunct staff at the University of Maryland (US), University of Waterloo (Canada), Lund University (Sweden).  As part of his work he has conducted experimental and field observations, and developed and applied modelling/engineering tools to explore issues relating to life safety, security, evacuation dynamics, pedestrian circulation, procedural/structural design, incident investigation, and product design. He has worked in aviation, maritime, rail and the built environment, along with urban-scale scenarios.   
-
+Dr Steven Gwynne <br>
+Specialism: Evactuation and Pedestrian Dynamics <br>
 <a href = "linkedin.com/in/smvgwynne">LinkedIn</a> and <a href = "https://www.researchgate.net/profile/Steve_Gwynne">ResearchGate</a> pages, and 
-<a href = "https://www.movementstrategies.com/">company page</a>.
+<a href = "https://www.movementstrategies.com/">company page</a>. <br>
+  
+Dr. Steven Gwynne is Research Lead at Movement Strategies, UK. He has worked in evacuation and pedestrian dynamics for nearly 25 years, adopting academic, consultant and government roles in the UK, US and Canada. He is a former Senior Research Officer at that National Research Council of Canada and Visiting Researcher at the National Institute of Standards and Technology (US).  He currently on the adjunct staff at the University of Maryland (US), University of Waterloo (Canada), Lund University (Sweden).  As part of his work he has conducted experimental and field observations, and developed and applied modelling/engineering tools to explore issues relating to life safety, security, evacuation dynamics, pedestrian circulation, procedural/structural design, incident investigation, and product design. He has worked in aviation, maritime, rail and the built environment, along with urban-scale scenarios.   
 </td>
 </tr>
 <tr>
@@ -86,11 +88,13 @@ Dr. Steven Gwynne is Research Lead at Movement Strategies, UK. He has worked in 
 <img src = "{% link images/David_Hunter.jpg %}"/>
 David Hunter</td>
 <td>
+David Hunter <br>
+Specialism: Data driven, Computational Design <br>
+Here is <a href="http://davidhunterdesign.com">my website</a> and <a href = "http://datawalking.com">my research project</a>.
 I am a multidisciplinary designer and programmer, creating interactive experiences for spaces and screens, and using data-driven computational design processes. I enjoy working on projects from concept initiation, research, through to final outcome creation, for clients and in collaboration with others. 
 
 I am Course Leader for UX/UI Design BA(Hons) and a Senior Lecturer on Graphic Design BA(Hons) at Ravensbourne University. I am a researcher, working on the Data Walking project which examines creative data gathering and visualisation. 
 
-Here is <a href="http://davidhunterdesign.com">my website</a> and <a href = "http://datawalking.com">my research project</a>.
 </td>  
 </tr>
 <tr>
@@ -98,11 +102,13 @@ Here is <a href="http://davidhunterdesign.com">my website</a> and <a href = "htt
 <img src = "{% link images/Zac_Ioannidis.jpg %}"/>
 Zac Ioannidis</td>
 <td>
+Zac Ioannidis <br>
+Specialism: Creative Technology and Data Visual Engineering <br>
+Additional work can be found <a href="https://portfolio.izac.us/">here</a>. <br>
 I’m a freelance creative technologist and data visualization engineer working with data and tech to design and build platforms and interfaces that solve data-centric business problems and create affective, critical, experiences from physical/digital artifacts. My area of expertise lies in data visualization, information design, and creative uses of data. This involves implementing data-rich UIs that condense and allow for exploration of multi-dimensional datasets. Sometimes it entails developing POCs using emerging technologies and advising on the creative possibilities of tech for communications work. Through this context, I work within multi-disciplinary teams in different stages of product development—from ideation and prototyping to production. 
 
 My work has been awarded (D&AD, Eurobest, Campaign UK etc) and shortlisted (Cannes) for its creative applications of data and storytelling. 
 
-Additional work can be found <a href="https://portfolio.izac.us/">here</a>.
 </td> 
 </tr>
 <tr>
