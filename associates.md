@@ -165,12 +165,14 @@ Dr Lucas Lacasa is currently Reader in Applied Mathematics at Queen Mary Univers
 <img src = "{% link images/Sai_Lakshmi.jpg %}"/>
 Sai Lakshmi</td>
 <td>
+Dr Lakshmi <br>
+Specialism: Business Development and Consultancy <br>
+Links: <a href = "https://caura.com/">https://caura.com/</a> and <br> 
+<a href = "https://www.linkedin.com/in/saislakshmi/">https://www.linkedin.com/in/saislakshmi/</a><br>
 Dr Lakshmi is currently CEO & Founder of Caura which is a payment platform for your car, which removes the admin from vehicle ownership and ensures you never get a fine again. The MVP product is launching in Q220 with MOT, VED, tolls and parking functionality. They are working with Kings, Imperial and Oxford to build hardware to disrupt communications and payments in the age of connected and autonomous vehicles. 
 
 Sai previously founded Echo, which sold to Lloyds Pharmacy owners McKesson Corp in 2019 and previously worked for Apple and Bain after completing a JLR-sponsored PhD in vehicle crash dynamics at Oxford University. He also has a Masters degree in mechanical engineering from Imperial College, London. 
 
-Links: <a href = "https://caura.com/">https://caura.com/</a> and 
-<a href = "https://www.linkedin.com/in/saislakshmi/">https://www.linkedin.com/in/saislakshmi/</a> and 
 <a href = "https://twitter.com/dr_laksai">https://twitter.com/dr_laksai</a>
 </td> 
 </tr>
