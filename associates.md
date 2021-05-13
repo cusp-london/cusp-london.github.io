@@ -226,7 +226,7 @@ Dr Katharine Willis <br>
 Specialism: Digital placemaking and Social Inclusion. <br>
 <a href="mailto:Katharine.willis@plymouth.ac.uk">Email</a> and
 <a href="https://www.plymouth.ac.uk/staff/katharine-willis">Personal Webpage</a><br>
-Dr. Katharine Willis is an Associate Professor (Reader) in the School of Art, Design and Architecture. Her research expertise includes smart cities, digital placemaking and social inclusion. She is the co-author with Alex Aurigi of two key Routledge volumes on Smart Cities, and the 2015 book; Netspaces: Space and Place in a Networked World. She established and leads the MA in Smart Urban Futures at University of Plymouth.
+Dr Katharine Willis is an Associate Professor (Reader) in the School of Art, Design and Architecture. Her research expertise includes smart cities, digital placemaking and social inclusion. She is the co-author with Alex Aurigi of two key Routledge volumes on Smart Cities, and the 2015 book; Netspaces: Space and Place in a Networked World. She established and leads the MA in Smart Urban Futures at University of Plymouth.
 
 </td>
 </tr>
