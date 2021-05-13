@@ -8,6 +8,25 @@ title: Centre for Urban Science and Progress London (CUSP London)
 **CUSP London Visiting Fellows and Associates**<br>
 CUSP London, as a multi-disciplinary Centre in Urban informatics, benefits from a wide range of people engaged in its activities.  With our Associates scheme, King's and in particular CUSP London has atrtracted applicants with PhD level qualifications or extensive industry experience.  This allows us to pursue research topics from different viewpoints, enhance the Inter-disciplinary education of our students and contribute to discussions leading to impact activities.<br>
 
+We are delighted to have the following working with us currently:
+Dr Francesco Aletta <br>
+Prof Michael Batty <br>
+Erika Brodnock <br>
+Joe Dignan <br>
+Dr Sophia Goldberg <br>
+Dr Steven Gwynne <br>
+David Hunter <br>
+Zac Ioannidis <br>
+Dr Anant Jani <br>
+Vishal Kumar <br>
+Dr Joanna Kusiak <br>
+Dr Luca Lacasa <br>
+Dr Sai Lakshmi <br>
+Shane Mitchell <br>
+Jali Packer <br>
+Dr Claire Papaix <br>
+Dr Katharine Willis <br>
+
 Please scroll down the page for full details and links to our Associates.
 
 <table class = "associates">
