@@ -37,7 +37,7 @@ All our seminars are currently being held online.
 To join our mailing list and receive details on how to attend these seminars, please contact
 [cusp-london@kcl.ac.uk](mailto:cusp-london@kcl.ac.uk)
 
-| Date | Speaker | Title | Recording |
+| Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
 |14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
 |21st April 2021 4pm | Seth G Benzell| Triumph of the City (TOC) Research Seminar|
