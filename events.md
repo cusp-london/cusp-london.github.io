@@ -57,6 +57,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |26th November 2020 12pm | Joanna S Kao| Financial Times||
 
 <br>
+Plesae see our News items for CUSP London Events [News](
 
 #### Data Dive 2021 Future Mobility
 The week-long Data Dive (or "Hackathon") is CUSP London's flagship annual event and has been since 2015. This year in 2021, we ran a timely theme on Future Mobility from 15th March to 19th March, in support of partners such as, but not limited to, Transport for London (TfL), WSP UK, GHD Group, Westminster City Council, Ginger, Chordant Inc., RunFriendly, ActiveThings and Reed Mobility. Detailed coverage from [King's College London news](https://www.kcl.ac.uk/news/looking-towards-the-future-of-urban-mobility).
