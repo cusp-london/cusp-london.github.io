@@ -181,6 +181,9 @@ Sai previously founded Echo, which sold to Lloyds Pharmacy owners McKesson Corp 
 <img src = "{% link images/Shane_Mitchell.jpg %}"/>
 Shane Mitchell</td>
 <td>
+Shane Mitchell <br>
+Specialism: Business strategy - Urban focus <br>
+<a href = "https://uk.linkedin.com/in/shanemitchell">Personal Webpage</a><br>
 I am a programme leader and business strategist in collaborative applications of technology, the future of cities, sustainable communities, and the development of global public-private innovation ecosystems. I am currently advising on digital transformation programmes, and the role of standards for cities, infrastructure markets, and service developments.
 
 I am Director of UrbanPeer Ltd, with leadership experience in global enterprises, and start up enterprises. I have led teams, governance and partnership ecosystems in the development of public service innovation and city strategies, developed CSR programmes, market development strategies, and leading sustainability programmes. I have advised industry players, governments and NGOs, from The Climate Group, the EU, the World Bank, and cities associations such as Metropolis, on their smart community strategies and engagement with entrepreneurs and innovators. Shane is currently on the UK5G Advisory Board’s Connected Places Working Group.
@@ -191,10 +194,13 @@ I am Director of UrbanPeer Ltd, with leadership experience in global enterprises
 <img src = "{% link images/Jali_Packer.jpg %}"/>
 Jali Packer</td>
 <td>
+Jali Packer <br>
+Specialism: Behaviour change <br>
+<a href = "https://osf.io/yuegj/">Personal webpage</a> <br>
 Jali is currently studying for an MSc in Behaviour Change at University College London. He is interested in how we can understand residents’ perceptions of their neighbourhoods and how these perceptions relate to broader psychological phenomena. His current research explores how we can increase engagement from marginalised communities in urban regeneration projects, to ensure that urban development is an inclusive and sustainable process.  
 
 His undergraduate thesis, conducted in collaboration with Nokia Bell Labs and the Cambridge Personality & Social Dynamics Research Group, applied Big Data approaches to understanding human behaviour and personality. This paper investigated the relationship between personality and urban ambiance of neighborhoods in New York City, analysing a large-scale personality dataset and inferring urban ambiance from geo-referenced Flickr photos using computerized text analysis. He recently presented this research at the Society for Personality & Social Psychology annual convention in New Orleans:
-<a href = "https://osf.io/yuegj/">Personal webpage</a>
+
 </td> 
 </tr>
 <tr>
