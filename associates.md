@@ -8,6 +8,8 @@ title: Centre for Urban Science and Progress London (CUSP London)
 **CUSP London Visiting Fellows and Associates**<br>
 CUSP London, as a multi-disciplinary Centre in Urban informatics, benefits from a wide range of people engaged in its activities.  With our Associates scheme, King's and in particular CUSP London has atrtracted applicants with PhD level qualifications or extensive industry experience.  This allows us to pursue research topics from different viewpoints, enhance the Inter-disciplinary education of our students and contribute to discussions leading to impact activities.<br>
 
+Please scroll down the page for full details and links to our Associates.
+
 <table class = "associates">
 <tr>
 <td>
