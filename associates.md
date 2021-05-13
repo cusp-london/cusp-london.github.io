@@ -90,7 +90,7 @@ David Hunter</td>
 <td>
 David Hunter <br>
 Specialism: Data driven, Computational Design <br>
-Here is <a href="http://davidhunterdesign.com">my website</a> and <a href = "http://datawalking.com">my research project</a>.
+Here is <a href="http://davidhunterdesign.com">my website</a> and <a href = "http://datawalking.com">my research project</a>. <br>
 I am a multidisciplinary designer and programmer, creating interactive experiences for spaces and screens, and using data-driven computational design processes. I enjoy working on projects from concept initiation, research, through to final outcome creation, for clients and in collaboration with others. 
 
 I am Course Leader for UX/UI Design BA(Hons) and a Senior Lecturer on Graphic Design BA(Hons) at Ravensbourne University. I am a researcher, working on the Data Walking project which examines creative data gathering and visualisation. 
@@ -118,7 +118,7 @@ Anant Jani</td>
 <td>
 Dr Anant Jani <br>
 Specialism: Molecular Immunology <br>
-<a href="mailto:anant.jani@phc.ox.ac.uk">Email</a> and <a href = "https://uk.linkedin.com/pub/anant-jani/4a/545/a38">publications</a>.
+<a href="mailto:anant.jani@phc.ox.ac.uk">Email</a> and <a href = "https://uk.linkedin.com/pub/anant-jani/4a/545/a38">publications</a>. <br>
 Anant is working on the value based healthcare theme within the Nuffield Department of Primary Care Health Sciences and is interested in understanding and implementing value based healthcare. Before working in healthcare, Anant was a molecular immunologist studying gene regulation and epigenetics in B and T cells.  He completed his undergraduate studies at Brandeis University and his doctoral studies at Yale University.
 
 </td>
@@ -140,6 +140,9 @@ Vishal is a Cultural Data Scientist at The Bartlett’s Centre for Advanced Spat
 <img src = "{% link images/Joanna_Kusiak.jpg %}"/>
 Joanna Kusiak</td>
 <td>
+Dr Joanna Kusiak <br>
+Specialism: Urban Studies <br>
+<a href="mailto:jk726@cam.ac.uk">Email</a><br>
 Dr Joanna Kusiak is a Research Fellow in Urban Studies at King’s College, Cambridge. Her work focuses on urban land, property and the role that legal technicalities play in shaping our cities. At CUSP, she hopes to bring perspectives from critical urban studies together with technological innovations in order to experiment with new models of ownership for tackling the housing crisis. A key question for her research is to which extent we can use the data sets and technologies associated with ‘platform capitalism’ to design an efficient and democratic system for allocating socially owned housing? While her research is not confined to any region, Joanna is especially committed – as an activist and as an architecture/urban critic – to the cities of Warsaw and Berlin. In 2019 the International Journal of Urban and Regional Research awarded her essay ‘Legal Technologies of Primitive Accumulation: Judicial Robbery and Dispossession‐by‐Restitution in Warsaw‘ Best Article Prize ‘for the article that makes the most original and outstanding contribution to our understanding of cities and urbanization.’ She tweets at @jkkusiak. 
 
 <a href="mailto:jk726@cam.ac.uk">Email</a>
