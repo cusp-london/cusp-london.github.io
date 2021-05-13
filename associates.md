@@ -208,11 +208,13 @@ His undergraduate thesis, conducted in collaboration with Nokia Bell Labs and th
 <img src = "{% link images/Claire_Papaix.jpg %}"/>
 Dr Claire Papaix</td>
 <td>
+Dr Claire Papaix <br>
+Specialism: Transport and Business Logistics <br>
+<a href = "https://www.gre.ac.uk/people/rep/faculty-of-business/claire-papaix">Personal webpage</a><br>
 Dr Claire Papaix is Senior Lecturer of Transport & Business Logistics at the University of Greenwich (UK), Programme Leader of the MA Logistics & Supply Chain Management, founding member of the Connected Cities Research Group and Associate of the King’s College’s Urban Science And Progress (CUSP). She has experience in business creation and events management in the area if public health and community engagement through wellness and fitness and is a mentor of the University’s Enterprise Challenge. Her research interests include sustainable urban mobility, policy implementation, transport wellbeing appraisal, community engagement, citizen science, smart cities, public health and urban wellness. 
 
 Previously, she obtained a PhD in Economics at The French Institute of Sciences and Technologies for Transport, Development and Networks (IFSTTAR) on the topic: ‘Implementation of low‐carbon mobility policy in urban areas’. For this, she focused on the environmental effectiveness, equity outcomes and acceptability challenges of various policy scenarios for travellers and used a triangulation of quantitative research methods to test her hypotheses. 
 
-<a href = "https://www.gre.ac.uk/people/rep/faculty-of-business/claire-papaix">Personal webpage</a>
 </td> 
 </tr>
 <tr>
@@ -220,10 +222,12 @@ Previously, she obtained a PhD in Economics at The French Institute of Sciences 
 <img src = "{% link images/Katharine_Willis.jpg %}"/>
 Dr Katharine Willis</td>
 <td>
+Dr Katharine Willis <br>
+Specialism: Digital placemaking and Social Inclusion. <br>
+<a href="mailto:Katharine.willis@plymouth.ac.uk">Email</a> and
+<a href="https://www.plymouth.ac.uk/staff/katharine-willis">Personal Webpage</a><br>
 Dr. Katharine Willis is an Associate Professor (Reader) in the School of Art, Design and Architecture. Her research expertise includes smart cities, digital placemaking and social inclusion. She is the co-author with Alex Aurigi of two key Routledge volumes on Smart Cities, and the 2015 book; Netspaces: Space and Place in a Networked World. She established and leads the MA in Smart Urban Futures at University of Plymouth.
 
-<a href="mailto:Katharine.willis@plymouth.ac.uk">Email</a> and
-<a href="https://www.plymouth.ac.uk/staff/katharine-willis">Personal Webpage</a>
 </td>
 </tr>
 <tr>
@@ -231,11 +235,13 @@ Dr. Katharine Willis is an Associate Professor (Reader) in the School of Art, De
 <img src = "{% link images/Jon_Wood.jpg %}"/>
 Jon Wood</td>
 <td>
+Jon Wood <br>
+Specialism: Sustainable architecture <br>
+<a href="https://www.nhbe.org/">Website</a><br>
 Jon is a doctoral researcher at the University of Cambridge. His research is interdisciplinary and explores the intersection of sustainable architecture, ecological restoration and environmental psychology. His work aims to identify the qualities of nature associated with improved mental health and inform design guidelines for architects and landscape architects. He is an environmental entrepreneur, a visiting scholar at Harvard University and he founded and leads a research group entitled Nature, Health and Built Environment (NHBE).  
 
 Previously he read for an MPhil in Architecture (Cantab), MEnt in Environment and Development and BSc in Geography.
 
-<a href="https://www.nhbe.org/">Website</a>
 </td> 
 </tr>
 </table>
