@@ -116,9 +116,11 @@ My work has been awarded (D&AD, Eurobest, Campaign UK etc) and shortlisted (Cann
 <img src = "{% link images/Anant_Jani.jpg %}"/>
 Anant Jani</td>
 <td>
+Dr Anant Jani <br>
+Specialism: Molecular Immunology <br>
+<a href="mailto:anant.jani@phc.ox.ac.uk">Email</a> and <a href = "https://uk.linkedin.com/pub/anant-jani/4a/545/a38">publications</a>.
 Anant is working on the value based healthcare theme within the Nuffield Department of Primary Care Health Sciences and is interested in understanding and implementing value based healthcare. Before working in healthcare, Anant was a molecular immunologist studying gene regulation and epigenetics in B and T cells.  He completed his undergraduate studies at Brandeis University and his doctoral studies at Yale University.
 
-<a href="mailto:anant.jani@phc.ox.ac.uk">Email</a> and <a href = "https://uk.linkedin.com/pub/anant-jani/4a/545/a38">publications</a>.
 </td>
 </tr>
 <tr>
@@ -126,9 +128,11 @@ Anant is working on the value based healthcare theme within the Nuffield Departm
 <img src = "{% link images/Vishal_Kumar.jpg %}"/>
 Vishal Kumar</td>
 <td>
+Vishal Kumar <br>
+Specialism: Cultural Data Scientist <br>
+<a href="https://vishalkumar.london/">Website</a> and <a href="https://twitter.com/vishalkumarldn">Twitter link</a>. <br>
 Vishal is a Cultural Data Scientist at The Bartlett’s Centre for Advanced Spatial Analysis (CASA) at UCL researching the economic and social impact of arts and culture in cities. He uses a combination of data science and visualization, machine learning and computer vision, urban economics and social media analytics having written several blog posts and co-authored an academic paper. Vishal invented the job title Cultural Data Scientist and works as a consultant for a range of public and private cultural institutions and was the lead data scientist for the London Borough of Culture Programme 2019 – Waltham Forest Council, and is part of the Technical Reference Group of the next UK City of Culture, Coventry 2021. He is also a visiting lecturer at the Sotheby’s Institute of Art and Christie’s Education, and is a member of the Museums AI Network and Cities of Culture Research Network. Vishal previously worked at Sotheby’s auction house as the company’s first-ever Data Scientist and holds degrees in BSc Economics & Geography at the London School of Economics, an MA in Art Business at the Sotheby’s Institute of Art, and studies an MRes in Spatial Data Science and Visualization at UCL as The Bartlett Scholar.
 
-<a href="https://vishalkumar.london/">Website</a> and <a href="https://twitter.com/vishalkumarldn">Twitter link</a>.
 </td>
 </tr>
 <tr>
