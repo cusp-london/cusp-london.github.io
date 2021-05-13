@@ -26,7 +26,7 @@ We are delighted to have the following working with us currently:<br>
 <li>Jali Packer <br></li>
 <li>Dr Claire Papaix <br></li>
 <li>Dr Katharine Willis <br></li>
-
+<br>
 Please scroll down the page for full details and links to our Associates.
 
 <table class = "associates">
