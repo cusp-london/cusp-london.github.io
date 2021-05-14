@@ -8,13 +8,11 @@ As part of the MSc Urban Informatics at King's college London, the students prod
 ![group waving]({% link images/group waving.jpg %})
 
 **Examples of the Student Projects for MSc Urban Informatics 2019/20**
-Exciting interim update from a current student: Trust, but verify – working with administrative data
-
-The Next Place Prediction Using Social Networks
-
-<li>Dynamic Evaluation on Violent Crime in London<br>
-<li>No Space Like Home: Enriching Evidence Base on Shrinking Homes in London<br>
-<li>Exploring associations between patient reported housing problems, information on local housing stock, and mental health<br>
+An exciting update from a current student: [Trust, but verify – working with administrative data](https://kingsgeocomputation.org/2020/02/19/trust-but-verify-working-with-administrative-data/)
+<li>[The Next Place Prediction Using Social Networks](https://media.kcl.ac.uk/media/The+Next+Place+Prediction+Using+Social+Networks/1_3h5y59nn)<br>
+<li>[Dynamic Evaluation on Violent Crime in London](https://media.kcl.ac.uk/media/Dynamic+Evaluation+on+Violent+Crime+in+London/1_1ijbxpva)<br>
+<li>[No Space Like Home: Enriching Evidence Base on Shrinking Homes in London]<br>(https://media.kcl.ac.uk/media/No+Space+Like+HomeA+Enriching+Evidence+Base+on+Shrinking+Homes+in+London/1_1ygnl78v)
+li>[Exploring associations between patient reported housing problems,  information on local housing stock, and mental health](https://media.kcl.ac.uk/media/A+comparison+of+different+machine+learning+approaches+to+extracting+mentions+of+housing+issues+from+the+clinical+record+interactive+search+%28CRIS%29case/1_oqp03ity)<br>
 <li>Age Specific Fatal Accidents Study in UK<br>
 <li>Crime-deterrent effect from Stop & Search, is it true?<br>
 <li>Crime Displacement and Diffusion of Crime Control Benefits in Central London<br>
