@@ -27,4 +27,6 @@ Team 8: How is micro mobility usage changing over time and in different UK towns
 
 Team 9: New York City driving behaviour change pre and post COVID-19
 
-Please see further research carried out here research page
+Please see further research carried out here [research page](https://cusplondon.ac.uk/research.html)<br>
+
+
