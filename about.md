@@ -15,7 +15,7 @@ their health and wellbeing. The creation of CUSP London follows the highly succe
 of the Centre for Urban Science and Progress (CUSP) in New York, and it is intended that the two 
 units will work closely together.br
 
-### What We Do
+# What We Do
 
 CUSP London’s expertise spans Computer Science, Computational Social Science and Health & Medicine.  Areas of particular interest include:
 
@@ -35,4 +35,7 @@ In its activities, CUSP London ensures the following:<br>
 * Deliver research to the public through open access papers, open source code, and open data sets
 * Enter into agreements with business, government, public and third-sector organisations to facilitate research
 * Always act ethically and responsibly to benefit the common good
-* Deliver research that is aligned with industry and commerce
+* Deliver research that is aligned with industry and commerce<br>
+
+Please see more about our [research](https://cusplondon.ac.uk/research.html) and [events](https://cusplondon.ac.uk/events.html)<br>
+
