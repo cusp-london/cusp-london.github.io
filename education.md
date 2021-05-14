@@ -74,7 +74,7 @@ Exciting interim update from a current student: [Trust, but verify – working w
 * British School and Adolescent Suicide Ideation- A Multilevel Analysis Based on Suicidal Adolescents Identified from Mental Health Records
 
 
-*“The teaching and facilities are amazing at King’s but choosing CUSP London is way more than that,  I really feel like I’m part of the community that brings together people who are eager to learn and grow. The way that CUSP London is set up has made it really easy to meet and collaborate with people from partners of CUSP, since there are a variety of events happening in CUSP such as Data Dive, Coffee Catchup and Guest Seminars. I enjoyed my time at King’s and beyond the urban analytics knowledge and data science skill-set I acquired, I was able to boost a growth mindset which is needed for a career I’m truly passionate about.”* – MSc Urban Informatics Student – Zhouyue
+>*“The teaching and facilities are amazing at King’s but choosing CUSP London is way more than that,  I really feel like I’m part of the community that brings together people >who are eager to learn and grow. The way that CUSP London is set up has made it really easy to meet and collaborate with people from partners of CUSP, since there are a variety >of events happening in CUSP such as Data Dive, Coffee Catchup and Guest Seminars. I enjoyed my time at King’s and beyond the urban analytics knowledge and data science skill->set I acquired, I was able to boost a growth mindset which is needed for a career I’m truly passionate about.”* – MSc Urban Informatics Student – Zhouyue
 
 #### Examples of the Student Projects for MSc Urban Informatics 2018/19
 
