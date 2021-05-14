@@ -17,6 +17,8 @@ their health and wellbeing. The creation of CUSP London follows the highly succe
 of the Centre for Urban Science and Progress (CUSP) in New York, and it is intended that the two 
 units will work closely together.<br>
 
+![Group waving]({% link images/Group waving 2.jpg %})
+
 **What We Do**
 
 CUSP London’s expertise spans Computer Science, Computational Social Science and Health & Medicine.  Areas of particular interest include:
