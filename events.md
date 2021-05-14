@@ -11,7 +11,10 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 Please click the link to find out more about CUSP London News and Events [News](https://cusplondon.ac.uk/News.html)<br>
 
-#### Upcoming seminars
+#### Upcoming seminars<br>
+
+![Dani Arabas-Bel Speaking]({% link images/.jpg %})
+
 
 All our seminars are currently being held online.
 To join our mailing list and receive details on how to attend these seminars, please contact
