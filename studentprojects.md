@@ -1,12 +1,12 @@
 
 layout: home
-title: About
+title:Education
 ---
 
 
 As part of the MSc Urban Informatics at King's college London, the students produce an important dissertation and, with CUSP London, its Partners and Associates, these projects often lead to further research and real impact.<br>
 
-
+![Group waving]({% link images/Group waving 2.jpg %})
 
 **Examples of the Student Projects for MSc Urban Informatics 2019/20**
 An exciting update from a current student: [Trust, but verify – working with administrative data](https://kingsgeocomputation.org/2020/02/19/trust-but-verify-working-with-administrative-data/)
