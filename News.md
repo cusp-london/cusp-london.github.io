@@ -1,5 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-Centre for Urban Science and Progress London (CUSP London) News
+layout: home
+title: Centre for Urban Science and Progress London (CUSP London)
 ---
 
 #### What's happening in CUSP London - News Items<br>
