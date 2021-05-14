@@ -15,7 +15,7 @@ The programmes are:
 
 [MSc Urban Analytics and Visualisation](https://warwick.ac.uk/fac/cross_fac/cim/study/msc-urban-informatics-analytics/)  – hosted at University of Warwick
 
-#### Common Elements
+#### Common Elements between the Programmes at King's and Warwick: <br>
 
 Some elements offered are common across the two programmes:
 
@@ -41,6 +41,8 @@ UoW’s MSc Urban Analytics and Visualisation emphasises the following:
 * Focus on the application of data analytics and visualization methods for understanding the social, economic and cultural dimensions of cities
 * Provides a breadth of options allowing students to select the path best matching their particular interests
 * Access to specialist expertise and data on urban culture, resilience and spatial analysis
+
+Please see the main university websites for further information on these programmes: [King's](https://www.kcl.ac.uk/study/postgraduate/taught-courses/urban-informatics-msc.aspx) and [Warwick](https://warwick.ac.uk/fac/cross_fac/cim/study/msc-urban-informatics-analytics/)
 
 #### Examples of the Student Projects for MSc Urban Informatics 2019/20 
 
