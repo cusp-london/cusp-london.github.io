@@ -8,7 +8,7 @@ title: Centre for Urban Science and Progress London (CUSP London)- Education
 
 ![Balcony view]({% link images/Balcony_View.jpg %})
 
-####**Master's programmes**<br>
+## **Master's programmes**<br>
 
 The study of cities necessarily spans many areas, sociological, cultural, technological, political, and so forth, and the areas of citizens’ lives that data analytics may help to improve are similarly broad, including health and wellbeing, transport, environment, crime, etc. CUSP London addresses this breadth by offering two complementary MSc programmes, each covering the fundamentals of urban informatics, but each with distinct emphases, making them suitable for applicants looking to develop different skills from their degree.
 The programmes are:
