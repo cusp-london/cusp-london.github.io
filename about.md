@@ -15,7 +15,7 @@ London](https://www.kcl.ac.uk/nms/research/cusp-london) and the [University of W
 authorities and government agencies to apply urban science to improving citizen’s lives, including
 their health and wellbeing. The creation of CUSP London follows the highly successful establishment
 of the Centre for Urban Science and Progress (CUSP) in New York, and it is intended that the two 
-units will work closely together.br
+units will work closely together.<br>
 
 **What We Do**
 
