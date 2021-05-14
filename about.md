@@ -10,8 +10,8 @@ title: About
 
 # **About Us**<br>
 
-The **Centre for Urban Science and Progress London (CUSP London)** is a joint initiative of King’s College
-London and the University of Warwick. Its aim is to bring together researchers, businesses, local
+The **Centre for Urban Science and Progress London (CUSP London)** is a joint initiative of [King’s College
+London](https://www.kcl.ac.uk/nms/research/cusp-london) and the [University of Warwick](https://warwick.ac.uk/northamerica/cusp/warwick/). Its aim is to bring together researchers, businesses, local
 authorities and government agencies to apply urban science to improving citizen’s lives, including
 their health and wellbeing. The creation of CUSP London follows the highly successful establishment
 of the Centre for Urban Science and Progress (CUSP) in New York, and it is intended that the two 
