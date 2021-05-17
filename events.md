@@ -22,12 +22,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
-|21st April 2021 4pm | Seth G Benzell| Triumph of the City (TOC) Research Seminar|
-|21st April 2021 4pm | Ravi Shroff| NYU Steihardt School|
-|28th April 2021 2pm | Katharine Willis| University of Plymouth|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Professor+Katharine+Willis+-+Greening+the+smart+city-+smart+parks/1_ilmay3ag)|
-|28th April 2021 4pm | Colin Ellard| Triumph of the City (ToC) Research Seminar|
-|12th May 2021 2pm | Jonathan Reades| CASA, UCL|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Associate+Prof+Jonathan+Reades+CASA%2C+UCL+-+Making+Big+Data+Small_+Investigating+London%E2%80%99s+Small+and+Social+Housing+Dynamics/1_2h6riw5f)
+
 |26th May 2021 2pm |Sophie Johnson|Westminster City Council|
 |2nd June 2021 5pm | Juan Bello| CUSP NYU|
 |9th June 2021 5pm | Yury Dvorkin| NYU 
@@ -41,6 +36,12 @@ To join our mailing list and receive details on how to attend these seminars, pl
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
+|14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
+|21st April 2021 4pm | Seth G Benzell| Triumph of the City (TOC) Research Seminar|
+|21st April 2021 4pm | Ravi Shroff| NYU Steihardt School|
+|28th April 2021 2pm | Katharine Willis| University of Plymouth|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Professor+Katharine+Willis+-+Greening+the+smart+city-+smart+parks/1_ilmay3ag)|
+|28th April 2021 4pm | Colin Ellard| Triumph of the City (ToC) Research Seminar|
+|12th May 2021 2pm | Jonathan Reades| CASA, UCL|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Associate+Prof+Jonathan+Reades+CASA%2C+UCL+-+Making+Big+Data+Small_+Investigating+London%E2%80%99s+Small+and+Social+Housing+Dynamics/1_2h6riw5f)
 | 5 May 2020 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%281%29A+A+human-centric+overview+of+Future+Mobility_Toby+Thornton/1_tr019g1i)|
 | 12 May 2020 4pm | Anant Jani | Mapping interventions to address social factors related to health | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%282%29A+Mapping+interventions+to+address+social+factors+related+to+health_Anant+Jani+/1_ta1zqm70)|
 | 19 May 2020 4pm | Giovanni Quattrone | Social Interactions or Business Transactions? What customer reviews disclose about Airbnb marketplace | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%283%29A+AirbnbA+Social+Interactions+or+Business+Transaction_Giovanni+Quattrone/1_izputp1d)|
