@@ -4,6 +4,7 @@
 
 layout: home
 title: Centre for Urban Science and Progress London (CUSP London)
+description: CUSP London CUSP London is a centre for interdisciplinary research in urban science and fosters working across subject boundaries
 ---
 
 # Welcome to the CUSP London Homepage
