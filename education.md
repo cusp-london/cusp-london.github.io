@@ -8,7 +8,7 @@ title: Centre for Urban Science and Progress London (CUSP London)- Education
 
 ![Balcony view]({% link images/Balcony_View.jpg %})
 
-# **Master's programmes**<br>
+# Master's programmes
 
 The study of cities necessarily spans many areas, sociological, cultural, technological, political, and so forth, and the areas of citizens’ lives that data analytics may help to improve are similarly broad, including health and wellbeing, transport, environment, crime, etc. CUSP London addresses this breadth by offering two complementary MSc programmes, each covering the fundamentals of urban informatics, but each with distinct emphases, making them suitable for applicants looking to develop different skills from their degree.
 The programmes are:
@@ -17,7 +17,7 @@ The programmes are:
 
 [MSc Urban Analytics and Visualisation](https://warwick.ac.uk/fac/cross_fac/cim/study/msc-urban-informatics-analytics/)  – hosted at University of Warwick
 
-#### Common Elements between the Programmes at King's and Warwick: <br>
+#### Common Elements between the Programmes at King's and Warwick
 
 Some elements offered are common across the two programmes:
 
@@ -46,8 +46,6 @@ UoW’s MSc Urban Analytics and Visualisation emphasises the following:
 
 Please see the main university websites for further information on these programmes: [King's](https://www.kcl.ac.uk/study/postgraduate/taught-courses/urban-informatics-msc.aspx) and [Warwick](https://warwick.ac.uk/fac/cross_fac/cim/study/msc-urban-informatics-analytics/)
 
-#### Trial: Examples of the Student Projects for MSc Urban Informatics [2019/20](Https://cusplondon.ac.uk/studentprojects.html)
-
 Exciting interim update from a current student: [Trust, but verify – working with administrative data](https://kingsgeocomputation.org/2020/02/19/trust-but-verify-working-with-administrative-data/)
 
 [The Next Place Prediction Using Social Networks](https://media.kcl.ac.uk/media/The+Next+Place+Prediction+Using+Social+Networks/1_3h5y59nn)
@@ -56,7 +54,7 @@ Exciting interim update from a current student: [Trust, but verify – working w
 
 [No Space Like Home: Enriching Evidence Base on Shrinking Homes in London](https://media.kcl.ac.uk/media/No+Space+Like+HomeA+Enriching+Evidence+Base+on+Shrinking+Homes+in+London/1_1ygnl78v)
 
-[Exploring associations between patient reported housing problems,  information on local housing stock, and mental health](https://media.kcl.ac.uk/media/A+comparison+of+different+machine+learning+approaches+to+extracting+mentions+of+housing+issues+from+the+clinical+record+interactive+search+%28CRIS%29case/1_oqp03ity)
+[Exploring associations between patient reported housing problems, information on local housing stock, and mental health](https://media.kcl.ac.uk/media/A+comparison+of+different+machine+learning+approaches+to+extracting+mentions+of+housing+issues+from+the+clinical+record+interactive+search+%28CRIS%29case/1_oqp03ity)
 
 * Age Specific Fatal Accidents Study in UK
 * Crime-deterrent effect from Stop & Search, is it true?
@@ -78,7 +76,7 @@ Exciting interim update from a current student: [Trust, but verify – working w
 * British School and Adolescent Suicide Ideation- A Multilevel Analysis Based on Suicidal Adolescents Identified from Mental Health Records
 
 
->*“The teaching and facilities are amazing at King’s but choosing CUSP London is way more than that,  I really feel like I’m part of the community that brings together people >who are eager to learn and grow. The way that CUSP London is set up has made it really easy to meet and collaborate with people from partners of CUSP, since there are a variety >of events happening in CUSP such as Data Dive, Coffee Catchup and Guest Seminars. I enjoyed my time at King’s and beyond the urban analytics knowledge and data science skill->set I acquired, I was able to boost a growth mindset which is needed for a career I’m truly passionate about.”* – MSc Urban Informatics Student – Zhouyue
+> “The teaching and facilities are amazing at King’s but choosing CUSP London is way more than that,  I really feel like I’m part of the community that brings together people >who are eager to learn and grow. The way that CUSP London is set up has made it really easy to meet and collaborate with people from partners of CUSP, since there are a variety >of events happening in CUSP such as Data Dive, Coffee Catchup and Guest Seminars. I enjoyed my time at King’s and beyond the urban analytics knowledge and data science skill->set I acquired, I was able to boost a growth mindset which is needed for a career I’m truly passionate about.” – MSc Urban Informatics Student – Zhouyue
 
 #### Examples of the Student Projects for MSc Urban Informatics 2018/19
 
