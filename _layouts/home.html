@@ -7,6 +7,30 @@
 
 <body>
 
+    <!-- HEADER -->
+<div id="header_wrap" class="outer">
+    <header class="inner">
+        {% if site.github.is_project_page %}
+        <!-- a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a -->
+        {% endif %}
+
+        <h2 id="project_tagline"><a href="{% link index.md %}" style="color:white">{{ site.title | default: site.github.repository_name }}</a></h2>
+        <!-- h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2 -->
+
+        <a href = "{% link about.md %}">ABOUT</a> &nbsp;&nbsp;
+        <a href = "{% link education.md %}">EDUCATION</a> &nbsp;&nbsp;
+        <a href = "{% link research.md %}">RESEARCH</a> &nbsp;&nbsp;
+        <a href = "{% link events.md %}">EVENTS</a> &nbsp;&nbsp;
+        <a href = "{% link associates.md %}">ASSOCIATES</a> &nbsp;&nbsp;
+        <!--a href = "{% link people.md %}">PEOPLE</a> &nbsp;&nbsp; -->
+        <a href = "{% link contact.md %}">CONTACT</a> &nbsp;&nbsp;
+
+        &nbsp;&nbsp;
+
+    </header>
+</div>
+
+    
 <!-- MAIN CONTENT -->
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
