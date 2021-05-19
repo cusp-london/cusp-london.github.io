@@ -270,3 +270,5 @@ Previously he read for an MPhil in Architecture (Cantab), MEnt in Environment an
 </td> 
 </tr>
 </table>
+
+Please see the seminar recordings from several of our asssociates on our [events](https://cusplondon.ac.uk/events.html)page.
