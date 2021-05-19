@@ -27,5 +27,10 @@ The 9 divers’ teams are comprised of postgraduate students and alumni from CUS
 - Team 8: How is micro mobility usage changing over time and in different UK towns
 - Team 9: New York City driving behaviour change pre and post COVID-19
 
+<blockquote>It's a great opportunity for me to work with international attendees with different backgrounds and experiences. Communicating with my groupmates helped me broaden my horizons about how the cities look from various angles and have a macro vision when researching urban science in the future. The 4-day time limit also promoted the high-frequent intense collision of ideas which benefitted me a lot.
+Hope I still have the chance to participate in such a professional and enjoyable event in the future!</blockquote>
+                                                                                                                                              -	Wenting – NYU student 
+
+
 Please see further research carried out here [research page](https://cusplondon.ac.uk/research.html)
 
