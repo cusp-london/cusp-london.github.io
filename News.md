@@ -6,7 +6,7 @@ layout: home
 title: Centre for Urban Science and Progress London (CUSP London) News Items
 ---
 
-### What's happening in CUSP London - News Items
+## What's happening in CUSP London - News Items
 
 ![Data Dive 2021]({% link images/General_large.jpg %})
 
