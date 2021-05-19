@@ -22,7 +22,7 @@ CUSP London at University of Warwick: [enquiries@wisc.warwick.ac.uk](mailto:enqu
 <br>
   
   
-#### Location
+Location
 
 King's College London, 5th floor South Wing, Bush House, London, WC2B 4BG
 
