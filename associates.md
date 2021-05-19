@@ -5,28 +5,29 @@
 layout: home
 title: Centre for Urban Science and Progress London (CUSP London)
 ---
-**CUSP London Visiting Fellows and Associates**<br>
-CUSP London, as a multi-disciplinary Centre in Urban informatics, benefits from a wide range of people engaged in its activities.  With our Associates scheme, King's and in particular CUSP London has atrtracted applicants with PhD level qualifications or extensive industry experience.  This allows us to pursue research topics from different viewpoints, enhance the Inter-disciplinary education of our students and contribute to discussions leading to impact activities.<br>
+**CUSP London Visiting Fellows and Associates**
 
-We are delighted to have the following working with us currently:<br> 
-<li>Dr Francesco Aletta <br></li>
-<li>Prof Michael Batty <br></li>
-<li>Erika Brodnock <br></li>
-<li>Joe Dignan <br></li>
-<li>Dr Sophia Goldberg <br></li>
-<li>[Dr Steven Gwynne](#Steve)<br></li>
-<li>David Hunter <br></li>
-<li>Zac Ioannidis <br></li>
-<li>Dr Anant Jani <br></li>
-<li>Vishal Kumar <br></li>
-<li>Dr Joanna Kusiak <br></li>
-<li>Dr Luca Lacasa <br></li>
-<li>Dr Sai Lakshmi <br></li>
-<li>Shane Mitchell <br></li>
-<li>Jali Packer <br></li>
-<li>Dr Claire Papaix <br></li>
-<li>Dr Katharine Willis <br></li>
-<br>
+CUSP London, as a multi-disciplinary Centre in Urban informatics, benefits from a wide range of people engaged in its activities.  With our Associates scheme, King's and in particular CUSP London has atrtracted applicants with PhD level qualifications or extensive industry experience.  This allows us to pursue research topics from different viewpoints, enhance the Inter-disciplinary education of our students and contribute to discussions leading to impact activities.
+
+We are delighted to have the following working with us currently:
+- Dr Francesco Aletta
+- Prof Michael Batty
+- Erika Brodnock
+- Joe Dignan
+- Dr Sophia Goldberg
+- [Dr Steven Gwynne](#Steve)
+- David Hunter
+- Zac Ioannidis
+- Dr Anant Jani
+- Vishal Kumar
+- Dr Joanna Kusiak
+- Dr Luca Lacasa
+- Dr Sai Lakshmi
+- Shane Mitchell
+- Jali Packer
+- Dr Claire Papaix
+- Dr Katharine Willis
+
 Please scroll down the page for full details and links to our Associates.
 
 <table class = "associates">
