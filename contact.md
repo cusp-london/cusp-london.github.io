@@ -8,6 +8,8 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 #### General enquiries
 
+Should you have any questions at all about the Programmes, or CUSP London research or events, please do not hesitate to contact us - we would love to hear from you!
+
 CUSP London at King's College London: [cusp-london@kcl.ac.uk](mailto:cusp-london@kcl.ac.uk)
 
 CUSP London at University of Warwick: [enquiries@wisc.warwick.ac.uk](mailto:enquiries@wisc.warwick.ac.uk)
