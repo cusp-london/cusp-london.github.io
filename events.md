@@ -13,8 +13,6 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 Please click the link to find out more about CUSP London News and Events [News](https://cusplondon.ac.uk/furtherlinks/News.html)
 
-![Seminar]({% link images/Seminar1.jpg %})
-
 #### Upcoming seminars
 
 
@@ -65,6 +63,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |19th November 2020 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
 |26th November 2020 12pm | Joanna S Kao| Financial Times||
 
+![Seminar]({% link images/Seminar1.jpg %})
 
 #### Data Dive 2021 Future Mobility
 
