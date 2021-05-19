@@ -13,6 +13,8 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 Please click the link to find out more about CUSP London News and Events [News](https://cusplondon.ac.uk/furtherlinks/News.html)
 
+![Seminar]({% link images/Seminar.jpg %})
+
 #### Upcoming seminars
 
 
