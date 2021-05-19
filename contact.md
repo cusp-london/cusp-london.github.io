@@ -13,7 +13,7 @@ CUSP London at King's College London: [cusp-london@kcl.ac.uk](mailto:cusp-london
 CUSP London at University of Warwick: [enquiries@wisc.warwick.ac.uk](mailto:enquiries@wisc.warwick.ac.uk)
 
 **FAQs:**
-<li>**How do I apply for a Master's in Urban Informatics?** - [apply here](https://www.kcl.ac.uk/study/postgraduate/taught-courses/urban-informatics-msc)
+<li>**How do I apply for a Master's in Urban Informatics?** - [apply](https://www.kcl.ac.uk/study/postgraduate/taught-courses/urban-informatics-msc)
 <li>**Do I need to have studied Urban Informatics before taking the Master's?** - It is recommended that applicants have an Upper Second Class degree in Computer Science (or related disciplines). An Upper Second in a quantitative subject containing a substantial statistical component will be also be considered, or Geography where this includes a geocomputation component. However, we do consider candidates without the above, but with relevant work experience in large scale data analysis for 2 years or more. 
 <li> **Will there be an interview on application?** - Candidates are interviewed if they do not have the above qualifications, to assess their level of competency.
 <br>
