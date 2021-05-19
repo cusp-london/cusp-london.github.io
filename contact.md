@@ -20,8 +20,7 @@ CUSP London at University of Warwick: [enquiries@wisc.warwick.ac.uk](mailto:enqu
 <li>How can I get involved in CUSP London Events? - please contact us [cusp-london@kcl.ac.uk](mailto:cusp-london@kcl.ac.uk)  and we will see if we can link you up with anyone with a similar specialism or research area.  We will also add you to any event list that you may be interested in.
 <li> Please do contact us if you have any queries at all and we would be happy to assist.<br>
 <br>
-
-#### Location
+<body>#### Location
 
 King's College London, 5th floor South Wing, Bush House, London, WC2B 4BG
 
