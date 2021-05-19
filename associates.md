@@ -14,7 +14,7 @@ We are delighted to have the following working with us currently:<br>
 <li>Erika Brodnock <br></li>
 <li>Joe Dignan <br></li>
 <li>Dr Sophia Goldberg <br></li>
-<li>Dr Steven Gwynne <br></li>
+<li>[Dr Steven Gwynne](#Steve)<br></li>
 <li>David Hunter <br></li>
 <li>Zac Ioannidis <br></li>
 <li>Dr Anant Jani <br></li>
@@ -96,6 +96,7 @@ Dr Sophia Goldberg is a Data Scientist and Machine Learning Researcher. She is a
 <tr>
 <td>
 <img src = "{% link images/Steve_Gwynne.jpg %}"/>
+  <a name = "Steve"></a>
 Steve Gwynne</td>
 <td>
 Dr Steven Gwynne <br>
