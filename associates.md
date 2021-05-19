@@ -95,8 +95,8 @@ Dr Sophia Goldberg is a Data Scientist and Machine Learning Researcher. She is a
 </td> 
 </tr>
 <tr>
+<a name = "Steve"></a>
 <td>
-  <a name = "Steve"></a>
   <img src = "{% link images/Steve_Gwynne.jpg %}"/>
 Steve Gwynne</td>
 <td>
