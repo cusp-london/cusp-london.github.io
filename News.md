@@ -30,10 +30,9 @@ The 9 divers’ teams are comprised of postgraduate students and alumni from CUS
 <blockquote>It's a great opportunity for me to work with international attendees with different backgrounds and experiences. Communicating with my groupmates helped me broaden my horizons about how the cities look from various angles and have a macro vision when researching urban science in the future. The 4-day time limit also promoted the high-frequent intense collision of ideas which benefitted me a lot.
 Hope I still have the chance to participate in such a professional and enjoyable event in the future!-Wenting – NYU student<br>
 <br>
-  <br>
-  
-  
 
+  
+  
 
 Please see further research carried out here [research page](https://cusplondon.ac.uk/research.html)
 
