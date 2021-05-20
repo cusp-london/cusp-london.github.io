@@ -20,8 +20,6 @@ The programmes are:
 Paul Hodgson, Greater London Authority</blockquote><br>
 
 
-
-
 [MSc Urban Analytics and Visualisation](https://warwick.ac.uk/fac/cross_fac/cim/study/msc-urban-informatics-analytics/)  – hosted at University of Warwick
 
 #### Common Elements between the Programmes at King's and Warwick
