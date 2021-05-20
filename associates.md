@@ -12,21 +12,22 @@ CUSP London, as a multi-disciplinary Centre in Urban informatics, benefits from 
 We are delighted to have the following working with us currently:
 - [Dr Francesco Aletta](#Francesco)
 - [Prof Michael Batty](#Batty)
-- Erika Brodnock
-- Joe Dignan
-- Dr Sophia Goldberg
+- Erika Brodnock(#Erica)
+- Joe Dignan(#Joe)
+- Dr Sophia Goldberg(#Sophia)
 - [Dr Steven Gwynne](#Steve)
-- David Hunter
-- Zac Ioannidis
-- Dr Anant Jani
-- Vishal Kumar
-- Dr Joanna Kusiak
-- Dr Luca Lacasa
-- Dr Sai Lakshmi
-- Shane Mitchell
-- Jali Packer
-- Dr Claire Papaix
-- Dr Katharine Willis
+- David Hunter(#David)
+- Zac Ioannidis(#Zac)
+- Dr Anant Jani(#Anant)
+- Vishal Kumar(#Vishal)
+- Dr Joanna Kusiak(#Joanna)
+- Dr Luca Lacasa(#Luca)
+- Dr Sai Lakshmi(#Sai)
+- Shane Mitchell(#Shane)
+- Jali Packer(#Jali)
+- Dr Claire Papaix(#Claire)
+- Dr Katharine Willis(#Katharine)
+- Jon Wood (#Jon)
 
 Please scroll down the page for full details and links to our Associates.
 
@@ -60,6 +61,7 @@ Michael Batty is Bartlett Professor of Planning at University College London whe
 <tr>
 <td>
 <img src = "{% link images/Erika_Brodnock.jpg %}"/>
+  <a name = "Erika"></a>
 Erika Brodnock</td>
 <td>
 Erika Brodnock <br>
@@ -75,6 +77,7 @@ Her first Tedx talk has been viewed more than 175,000 times and can be found her
 <tr>
 <td>
 <img src = "{% link images/Joe_Dignan.jpg %}"/>
+  <a name = "Joe"></a>
 Joe Dignan</td>
 <td>
 Joe Dignan <br>
@@ -86,6 +89,7 @@ Joe is the Founder of Kintechi Ltd, an independent consultancy based in London f
 <tr>
 <td>
 <img src = "{% link images/Sophia_Goldberg.jpg %}"/>
+  <a name = "Sophia"></a>
 Sophia Goldberg
 </td>
 <td>
@@ -113,6 +117,7 @@ Dr. Steven Gwynne is Research Lead at Movement Strategies, UK. He has worked in 
 <tr>
 <td>
 <img src = "{% link images/David_Hunter.jpg %}"/>
+  <a name = "David"></a>
 David Hunter</td>
 <td>
 David Hunter <br>
@@ -127,6 +132,7 @@ I am Course Leader for UX/UI Design BA(Hons) and a Senior Lecturer on Graphic De
 <tr>
 <td>
 <img src = "{% link images/Zac_Ioannidis.jpg %}"/>
+  <a name = "Zac"></a>
 Zac Ioannidis</td>
 <td>
 Zac Ioannidis <br>
@@ -141,6 +147,7 @@ My work has been awarded (D&AD, Eurobest, Campaign UK etc) and shortlisted (Cann
 <tr>
 <td>
 <img src = "{% link images/Anant_Jani.jpg %}"/>
+  <a name = "Anant"></a>
 Anant Jani</td>
 <td>
 Dr Anant Jani <br>
@@ -153,6 +160,7 @@ Anant is working on the value based healthcare theme within the Nuffield Departm
 <tr>
 <td>
 <img src = "{% link images/Vishal_Kumar.jpg %}"/>
+  <a name = "Vishal"></a>
 Vishal Kumar</td>
 <td>
 Vishal Kumar <br>
@@ -165,6 +173,7 @@ Vishal is a Cultural Data Scientist at The Bartlett’s Centre for Advanced Spat
 <tr>
 <td>
 <img src = "{% link images/Joanna_Kusiak.jpg %}"/>
+  <a name = "Joanna"></a>
 Joanna Kusiak</td>
 <td>
 Dr Joanna Kusiak <br>
@@ -178,6 +187,7 @@ Dr Joanna Kusiak is a Research Fellow in Urban Studies at King’s College, Camb
 <tr>
 <td>
 <img src = "{% link images/Lucas_Lacasa.jpg %}"/>
+  <a name = "Lucas"></a>
 Lucas Lacasa</td>
 <td>
 Dr Luca Lacasa <br>
@@ -190,6 +200,7 @@ Dr Lucas Lacasa is currently Reader in Applied Mathematics at Queen Mary Univers
 <tr>
 <td>
 <img src = "{% link images/Sai_Lakshmi.jpg %}"/>
+  <a name = "Sai"></a>
 Sai Lakshmi</td>
 <td>
 Dr Lakshmi <br>
@@ -206,6 +217,7 @@ Sai previously founded Echo, which sold to Lloyds Pharmacy owners McKesson Corp 
 <tr>
 <td>
 <img src = "{% link images/Shane_Mitchell.jpg %}"/>
+  <a name = "Shane"></a>
 Shane Mitchell</td>
 <td>
 Shane Mitchell <br>
@@ -219,6 +231,7 @@ I am Director of UrbanPeer Ltd, with leadership experience in global enterprises
 <tr>
 <td>
 <img src = "{% link images/Jali_Packer.jpg %}"/>
+  <a name = "Jali"></a>
 Jali Packer</td>
 <td>
 Jali Packer <br>
@@ -233,6 +246,7 @@ His undergraduate thesis, conducted in collaboration with Nokia Bell Labs and th
 <tr>
 <td>
 <img src = "{% link images/Claire_Papaix.jpg %}"/>
+  <a name = "Claire"></a>
 Dr Claire Papaix</td>
 <td>
 Dr Claire Papaix <br>
@@ -247,6 +261,7 @@ Previously, she obtained a PhD in Economics at The French Institute of Sciences 
 <tr>
 <td>
 <img src = "{% link images/Katharine_Willis.jpg %}"/>
+  <a name = "Katharine"></a>
 Dr Katharine Willis</td>
 <td>
 Dr Katharine Willis <br>
@@ -260,6 +275,7 @@ Dr Katharine Willis is an Associate Professor (Reader) in the School of Art, Des
 <tr>
 <td>
 <img src = "{% link images/Jon_Wood.jpg %}"/>
+  <a name = "Jon"></a>
 Jon Wood</td>
 <td>
 Jon Wood <br>
