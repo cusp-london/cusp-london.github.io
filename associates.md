@@ -11,7 +11,7 @@ CUSP London, as a multi-disciplinary Centre in Urban informatics, benefits from 
 
 We are delighted to have the following working with us currently:
 - Dr Francesco Aletta
-- Prof Michael Batty
+- [Prof Michael Batty](#Batty)
 - Erika Brodnock
 - Joe Dignan
 - Dr Sophia Goldberg
@@ -46,6 +46,7 @@ I was born and raised in Naples (Italy), where I also got my Master’s degree i
 </tr>
 <tr>
 <td><img src = "{% link images/Mike_Batty.jpg %}"/>
+  <a name = "Batty"></a>
 Prof Michael Batty</td>
 <td>
 Prof Michael Batty <br>
