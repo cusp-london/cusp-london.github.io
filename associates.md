@@ -10,7 +10,7 @@ title: Centre for Urban Science and Progress London (CUSP London)
 CUSP London, as a multi-disciplinary Centre in Urban informatics, benefits from a wide range of people engaged in its activities.  With our Associates scheme, King's and in particular CUSP London has atrtracted applicants with PhD level qualifications or extensive industry experience.  This allows us to pursue research topics from different viewpoints, enhance the Inter-disciplinary education of our students and contribute to discussions leading to impact activities.
 
 We are delighted to have the following working with us currently:
-- Dr Francesco Aletta
+- [Dr Francesco Aletta](#Francesco)
 - [Prof Michael Batty](#Batty)
 - Erika Brodnock
 - Joe Dignan
@@ -34,6 +34,7 @@ Please scroll down the page for full details and links to our Associates.
 <tr>
 <td>
 <img src = "{% link images/Francesco_Aletta.jpg %}"/>
+  <a name = "Francesco"></a>
 Dr Francesco Aletta</td>
 <td>
 Dr Fransesco Aletta <br>
