@@ -8,7 +8,7 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 ![Presenter]({% link images/Presenter.jpg %})
 
-### CUSP London Research 
+# CUSP London Research
 
 Like its sibling in New York, CUSP London is an interdisciplinary research and graduate-level teaching centre that uses London as both lab and classroom. We bring together researchers, policy-makers, and professionals to tackle urban challenges in the belief that cross-cutting, collaborative work is the best way to deliver solutions with real-word impact: the close involvement of our government and private sector partners allows CUSP London to translate research into action.
 
