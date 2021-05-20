@@ -16,7 +16,7 @@ Like its sibling in New York, CUSP London is an interdisciplinary research and g
 
 **Professor Mark Kleinman Chaired King's Experts Series: Cities of the Future on 26 Jan. 2021**
 
-See more of the event recording from [HERE](https://www.youtube.com/watch?v=xa9BQfbdbek)
+Click [HERE](https://www.youtube.com/watch?v=xa9BQfbdbek) for the Cities of the Future event.
 
 **CUSP London - MOPAC Data Dive Output published on GeoConnexion Februray Issue**
 
