@@ -27,9 +27,9 @@ The 9 divers’ teams are comprised of postgraduate students and alumni from CUS
 - [Team 8: How is micro mobility usage changing over time and in different UK towns](https://media.kcl.ac.uk/media/DataDive2021_Team8_How+is+micro+mobility+usage+changing+over+time+and+in+different+UK+towns/1_wk8mkhkn)
 - [Team 9: New York City driving behaviour change pre and post COVID-19](https://media.kcl.ac.uk/media/DataDive2021_Team9_New+York+City+Driving+Behaviour+change+pre+%26+post+COVID-19/1_0y9hpc78)
 
-<blockquote>It's a great opportunity for me to work with international attendees with different backgrounds and experiences. Communicating with my groupmates helped me broaden my horizons about how the cities look from various angles and have a macro vision when researching urban science in the future. The 4-day time limit also promoted the high-frequent intense collision of ideas which benefitted me a lot.
+ <blockquote>It's a great opportunity for me to work with international attendees with different backgrounds and experiences. Communicating with my groupmates helped me broaden my horizons about how the cities look from various angles and have a macro vision when researching urban science in the future. The 4-day time limit also promoted the high-frequent intense collision of ideas which benefitted me a lot.
 Hope I still have the chance to participate in such a professional and enjoyable event in the future!-Wenting – NYU student<br>
-<br>
+</blockquote>
 
   
   
