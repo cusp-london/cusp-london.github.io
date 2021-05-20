@@ -18,7 +18,8 @@ Please click the link to find out more about CUSP London News and Events [News](
 
 
 
-All our seminars are currently being held online.
+All our seminars are currently being held online. Please do join us, and feel free to pass the details on to any friends and colleagues you feel may be interested.  The Seminars are around 30 minutes each, followed by a Question and Answer session.<br>
+
 To join our mailing list and receive details on how to attend these seminars, please contact
 [cusp-london@kcl.ac.uk](mailto:cusp-london@kcl.ac.uk)
 
