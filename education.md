@@ -13,6 +13,8 @@ title: Centre for Urban Science and Progress London (CUSP London)- Education
 The study of cities necessarily spans many areas, sociological, cultural, technological, political, and so forth, and the areas of citizens’ lives that data analytics may help to improve are similarly broad, including health and wellbeing, transport, environment, crime, etc. CUSP London addresses this breadth by offering two complementary MSc programmes, each covering the fundamentals of urban informatics, but each with distinct emphases, making them suitable for applicants looking to develop different skills from their degree.
 The programmes are:
 
+![CUSP London]({% link images/Gowns.jpg %})
+
 [MSc Urban Informatics](https://www.kcl.ac.uk/study/postgraduate/taught-courses/urban-informatics-msc.aspx) – hosted at King’s College London
 
 <blockquote>CUSP London at King’s College London is providing an essential opportunity to address city issues using big data through the study of Urban Informatics.<br>
