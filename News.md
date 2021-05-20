@@ -17,7 +17,7 @@ The week-long Data Dive (or “Hackathon”) is CUSP London’s flagship annual 
 
 The 9 divers’ teams are comprised of postgraduate students and alumni from CUSP London at King’s College London, CASA at UCL, University of Warwick and CUSP at New York University; working intensively on topics relating to future urban mobility such as: the potential of micro-mobility to transform urban mobility in UK cities; how it changes over time among different UK cities and towns, the Covid-19 impacts on rail demand across London as well as the possible behavioural change evolvement in the future. Considerations such as whether it might be more or less active for future commuter travel? The driving behaviour changes in London pre- and post- Covid were looked at along with and the optimal ways to improve air quality in London through transport changes, and to explore the cycling-relevant street infrastructure changes for future support. Comparatively, the driving/commuter behaviour changes in New York city from the past to post-Covid were studied, and what transport-related initiatives these international cities could exchange to make themselves better ready for the future of urban mobility.
 
-- Team 1: Potentiality for Micro-mobility in UK cities: London as a case study
+- [Team 1: Potentiality for Micro-mobility in UK cities: London as a case study](https://media.kcl.ac.uk/media/DataDive2021_Team1_Potential+for+micro-mobility+in+UK+cities_London+as+a+case+study/1_v0w0stwc)
 - Team 2: How has Covid-19 impacted travel demand across London and evolve in the future
 - Team 3: Will future commuter travel in London be more or less active
 - Team 4: Investigating the resilience of public transit system in London and New York City
