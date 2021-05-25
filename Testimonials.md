@@ -1,5 +1,7 @@
-**
-#Testimonials from our Students**
+
+
+
+# Testimonials
 
 <block quote>The CUSP seminar series has featured a fantastic variety of speakers and Claudio’s presentation was particularly fascinating to me. His work in New York was really inspiring and demonstrated perfectly the opportunities and challenges of applied research and collaboration between industry, government and academia. " Liam - MSc. Urban Informatics
 
