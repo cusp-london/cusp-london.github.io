@@ -7,7 +7,7 @@ title: Centre for Urban Science and Progress London (CUSP London)- Student Proje
 
 As part of the MSc Urban Informatics at King's college London, the students produce an important dissertation and, with CUSP London, its Partners and Associates, these projects often lead to further research and real impact.
 
-![Acsstudents]({% link images/Acsstudents.jpg %})
+![Acsstudents]({% link images/Acsstudents.jpeg %})
 
 **Examples of the Student Projects for MSc Urban Informatics 2019/20**
 
