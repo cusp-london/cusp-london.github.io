@@ -28,7 +28,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
 |2nd June 2021 5pm | Juan Bello| CUSP NYU|
-|9th June 2021 5pm | Yury Dvorkin| NYU 
+|9th June 2021 5pm | Yury Dvorkin| NYU|
 |16th June 2021 2pm | Jali Packer|University of Cambridge|
 |16th June 2021 4pm | Neil Kleinman| NYU|
 |23rd June 2021 2pm | David Hunter| David Hunter Design|
