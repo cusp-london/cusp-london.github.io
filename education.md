@@ -51,7 +51,7 @@ UoW’s MSc Urban Analytics and Visualisation emphasises the following:
 
 Please see the main university websites for further information on these programmes: [King's](https://www.kcl.ac.uk/study/postgraduate/taught-courses/urban-informatics-msc.aspx) and [Warwick](https://warwick.ac.uk/fac/cross_fac/cim/study/msc-urban-informatics-analytics/)
 
-Please see our [Student Testimonials]((https://cusplondon.ac.uk/Testimonials.html) for the successful MSc Urban Informatics and CUSP London Events at King's
+Please see our [Student Testimonials]((https://cusplondon.ac.uk/Testimonials.html)for the successful MSc Urban Informatics and CUSP London Events at King's
 
 Examples of the Student Projects for MSc Urban Informatics [2019/20](https://cusplondon.ac.uk/studentprojects.html) and [2018/19](https://cusplondon.ac.uk/studentprojects.html)
 
