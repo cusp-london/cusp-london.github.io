@@ -34,7 +34,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 |23rd June 2021 2pm | David Hunter| David Hunter Design|
 |7th July 2021 2pm | Scott Caine| RunFriendly|
 |4th August 2021 4pm| Eric Corbett| CUSP NYU|
-|12th August 2021 2pm| Mark Kleinman| King's College London|
+|12th August 2021 2pm| Mark Kleinman| King's College London||
 
 #### Past seminars
 
