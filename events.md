@@ -27,7 +27,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|26th May 2021 2pm |Sophie Johnson|Westminster City Council|
+
 |2nd June 2021 5pm | Juan Bello| CUSP NYU|
 |9th June 2021 5pm | Yury Dvorkin| NYU 
 |16th June 2021 2pm | Jali Packer|University of Cambridge|
@@ -41,6 +41,7 @@ To join our mailing list and receive details on how to attend these seminars, pl
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
+|26th May 2021 2pm |Sophie Johnson|Westminster City Council|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Sophie+Johnson+-+Research+and+Insights+Manager%2C+Westminster+City+Council/1_iovbfdi3)|
 |14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
 |21st April 2021 4pm | Seth G Benzell| Triumph of the City (TOC) Research Seminar|
 |21st April 2021 4pm | Ravi Shroff| NYU Steihardt School|
