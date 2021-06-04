@@ -18,7 +18,8 @@ Please see below a selection of student testimonials expressing how they enjoyed
  <blockquote>It was really enjoyable to present at CUSP London’s PhD mini conference again. It was very beneficial for me to update the CUSP community on my progress, as well as hearing about the other exciting research underway.”  - Teddy,  University of Warwick. </blockquote>
  
  
-**Showcase:**<br>
+**Showcase:**<br><br>
+
 ![CUSP London]({% link images/showcase.jpg %})
 
 <blockquote>The CUSP poster showcase event was a fantastic way to mark the culmination of many hours spent completing my masters project. It was great to receive feedback and discuss my work with academics, fellow students and representatives from CUSP partner organisations, including London Ambulance Service (the partner for my own project). It was also a really nice way to celebrate being the first cohort to complete the Urban Informatics course at King’s College - we enjoyed drinks, nibbles and great conversation!
