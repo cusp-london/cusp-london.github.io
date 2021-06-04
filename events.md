@@ -71,8 +71,6 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |19th November 2020 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
 |26th November 2020 12pm | Joanna S Kao| Financial Times||
 
-|26th November 2020 12pm | Joanna S Kao| Financial Times||
-|26th November 2020 12pm | Joanna S Kao| Financial Times||
 
 ![Seminar]({% link images/Seminar1.jpg %})
 
