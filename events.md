@@ -41,15 +41,15 @@ All our seminars are currently being held online. Please do join us, and feel fr
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
 |26th May 2021 2pm |Sophie Johnson|Westminster City Council|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Sophie+Johnson+-+Research+and+Insights+Manager%2C+Westminster+City+Council/1_iovbfdi3)|
-|14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
+|12th May 2021 2pm | Jonathan Reades| CASA, UCL|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Associate+Prof+Jonathan+Reades+CASA%2C+UCL+-+Making+Big+Data+Small_+Investigating+London%E2%80%99s+Small+and+Social+Housing+Dynamics/1_2h6riw5f)
+|28th April 2021 2pm | Katharine Willis| University of Plymouth|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Professor+Katharine+Willis+-+Greening+the+smart+city-+smart+parks/1_ilmay3ag)|
 |21st April 2021 4pm | Seth G Benzell| Triumph of the City (TOC) Research Seminar|
 |21st April 2021 4pm | Ravi Shroff| NYU Steihardt School|
-|28th April 2021 2pm | Katharine Willis| University of Plymouth|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Professor+Katharine+Willis+-+Greening+the+smart+city-+smart+parks/1_ilmay3ag)|
-|24th March 2021 | CUSP NYU Series - How did I get here?| Victoria Alsina Burgues |[Watch the Recording here](https://nyu.zoom.us/rec/share/Uf1aDJxfUu67pof9OAzzT067mbfogH9u6e5uivpXaa_njmvfrxHaj-9pWsbeqdf3.00htdHWdqI0PC_Zt)|
-|31st March 2021 | CUSP NYU Series - How did I get here?| Maurizio Porfiri |[Watch the Recording here](https://nyu.zoom.us/rec/share/RHCratK9N0MAcXkpnhbMpDHAvQ3zEr0j9D6LHqybIzdSUWnlUTXl8gAJ5EXg7TED.5DGj6KY9PIzRvSs5)|
-|7th April 2021 | CUSP NYU Series - How did I get here?| Ludovic Righetti |[Watch the Recording here](https://nyu.zoom.us/rec/share/lTzMZ8qgXnRpykgnKRS_cmlxCxVdXT6bLtdGx5Y4hC_65hZ5v-wewDkFK3TNvm_d.18v0bHhYkJ-CjH3p)|
+|14th April 2021 5pm BST|Benedetta Piantella| NYU CUSP Lunchtime seminars|
+|31st March 2021 | Maurizio Porfiri| CUSP NYU Series - How did I get here? |[Watch the Recording here](https://nyu.zoom.us/rec/share/RHCratK9N0MAcXkpnhbMpDHAvQ3zEr0j9D6LHqybIzdSUWnlUTXl8gAJ5EXg7TED.5DGj6KY9PIzRvSs5)|
+|24th March 2021 |Victoria Alsina Burgues | CUSP NYU Series - How did I get here? |[Watch the Recording here](https://nyu.zoom.us/rec/share/Uf1aDJxfUu67pof9OAzzT067mbfogH9u6e5uivpXaa_njmvfrxHaj-9pWsbeqdf3.00htdHWdqI0PC_Zt)|
 |28th April 2021 4pm | Colin Ellard| Triumph of the City (ToC) Research Seminar|
-|12th May 2021 2pm | Jonathan Reades| CASA, UCL|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Associate+Prof+Jonathan+Reades+CASA%2C+UCL+-+Making+Big+Data+Small_+Investigating+London%E2%80%99s+Small+and+Social+Housing+Dynamics/1_2h6riw5f)
+|7th April 2021 |Ludovic Righetti | CUSP NYU Series - How did I get here? |[Watch the Recording here](https://nyu.zoom.us/rec/share/lTzMZ8qgXnRpykgnKRS_cmlxCxVdXT6bLtdGx5Y4hC_65hZ5v-wewDkFK3TNvm_d.18v0bHhYkJ-CjH3p)|
 | 5 May 2020 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%281%29A+A+human-centric+overview+of+Future+Mobility_Toby+Thornton/1_tr019g1i)|
 | 12 May 2020 4pm | Anant Jani | Mapping interventions to address social factors related to health | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%282%29A+Mapping+interventions+to+address+social+factors+related+to+health_Anant+Jani+/1_ta1zqm70)|
 | 19 May 2020 4pm | Giovanni Quattrone | Social Interactions or Business Transactions? What customer reviews disclose about Airbnb marketplace | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%283%29A+AirbnbA+Social+Interactions+or+Business+Transaction_Giovanni+Quattrone/1_izputp1d)|
