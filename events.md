@@ -27,7 +27,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-
+| | |     |
 |9th June 2021 5pm | Yury Dvorkin| NYU     |
 |16th June 2021 2pm | Jali Packer|University of Cambridge   |
 |16th June 2021 4pm | Neil Kleinman| NYU     |
@@ -50,7 +50,6 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |14th April 2021 5pm BST|Benedetta Piantella| CUSP NYU Series - How did I get here?|
 |31st March 2021 | Maurizio Porfiri| CUSP NYU Series - How did I get here? |[Watch the Recording here](https://nyu.zoom.us/rec/share/RHCratK9N0MAcXkpnhbMpDHAvQ3zEr0j9D6LHqybIzdSUWnlUTXl8gAJ5EXg7TED.5DGj6KY9PIzRvSs5)|
 |24th March 2021 |Victoria Alsina Burgues | CUSP NYU Series - How did I get here? |[Watch the Recording here](https://nyu.zoom.us/rec/share/Uf1aDJxfUu67pof9OAzzT067mbfogH9u6e5uivpXaa_njmvfrxHaj-9pWsbeqdf3.00htdHWdqI0PC_Zt)|
-
 |7th April 2021 |Ludovic Righetti | CUSP NYU Series - How did I get here? |[Watch the Recording here](https://nyu.zoom.us/rec/share/lTzMZ8qgXnRpykgnKRS_cmlxCxVdXT6bLtdGx5Y4hC_65hZ5v-wewDkFK3TNvm_d.18v0bHhYkJ-CjH3p)|
 | 5 May 2020 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%281%29A+A+human-centric+overview+of+Future+Mobility_Toby+Thornton/1_tr019g1i)|
 | 12 May 2020 4pm | Anant Jani | Mapping interventions to address social factors related to health | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%282%29A+Mapping+interventions+to+address+social+factors+related+to+health_Anant+Jani+/1_ta1zqm70)|
