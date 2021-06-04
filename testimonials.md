@@ -20,7 +20,7 @@ Please see below a selection of student testimonials expressing how they enjoyed
  
 **Showcase:**<br><br>
 
-![CUSP London]({% link images/showcase.jpg %})
+![CUSP London]({% link images/showcase.jpg %})<br>
 
 <blockquote>The CUSP poster showcase event was a fantastic way to mark the culmination of many hours spent completing my masters project. It was great to receive feedback and discuss my work with academics, fellow students and representatives from CUSP partner organisations, including London Ambulance Service (the partner for my own project). It was also a really nice way to celebrate being the first cohort to complete the Urban Informatics course at King’s College - we enjoyed drinks, nibbles and great conversation!
 Liam</blockquote><br>
