@@ -45,6 +45,9 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |21st April 2021 4pm | Seth G Benzell| Triumph of the City (TOC) Research Seminar|
 |21st April 2021 4pm | Ravi Shroff| NYU Steihardt School|
 |28th April 2021 2pm | Katharine Willis| University of Plymouth|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Professor+Katharine+Willis+-+Greening+the+smart+city-+smart+parks/1_ilmay3ag)|
+|24th March 2021 | CUSP NYU Series - How did I get here?| Victoria Alsina Burgues |[Watch the Recording here](https://nyu.zoom.us/rec/share/Uf1aDJxfUu67pof9OAzzT067mbfogH9u6e5uivpXaa_njmvfrxHaj-9pWsbeqdf3.00htdHWdqI0PC_Zt)|
+|31st March 2021 | CUSP NYU Series - How did I get here?| Maurizio Porfiri |[Watch the Recording here](https://nyu.zoom.us/rec/share/RHCratK9N0MAcXkpnhbMpDHAvQ3zEr0j9D6LHqybIzdSUWnlUTXl8gAJ5EXg7TED.5DGj6KY9PIzRvSs5)|
+|7th April 2021 | CUSP NYU Series - How did I get here?| Ludovic Righetti |[Watch the Recording here](https://nyu.zoom.us/rec/share/lTzMZ8qgXnRpykgnKRS_cmlxCxVdXT6bLtdGx5Y4hC_65hZ5v-wewDkFK3TNvm_d.18v0bHhYkJ-CjH3p)|
 |28th April 2021 4pm | Colin Ellard| Triumph of the City (ToC) Research Seminar|
 |12th May 2021 2pm | Jonathan Reades| CASA, UCL|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Associate+Prof+Jonathan+Reades+CASA%2C+UCL+-+Making+Big+Data+Small_+Investigating+London%E2%80%99s+Small+and+Social+Housing+Dynamics/1_2h6riw5f)
 | 5 May 2020 4pm | Toby Thornton | Developing the first Future Mobility Zones in the UK | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%281%29A+A+human-centric+overview+of+Future+Mobility_Toby+Thornton/1_tr019g1i)|
@@ -66,6 +69,9 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |29th 2020 October 12pm | Dr Matt Thomas| British Red Cross|
 |12th November 2020 12pm | Menna El-Assady| Konstanz University|
 |19th November 2020 12pm | Camilla Siggaard Andersen| Arup Digital Studio|
+|26th November 2020 12pm | Joanna S Kao| Financial Times||
+
+|26th November 2020 12pm | Joanna S Kao| Financial Times||
 |26th November 2020 12pm | Joanna S Kao| Financial Times||
 
 ![Seminar]({% link images/Seminar1.jpg %})
