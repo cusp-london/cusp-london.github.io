@@ -22,8 +22,8 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 **Please scroll down to find the recordings for seminars previously delivered**.
 
-To join our mailing list and receive details on how to attend these seminars, please contact
-[cusp-london@kcl.ac.uk](mailto:cusp-london@kcl.ac.uk)
+**To join our mailing list and receive details on how to attend these seminars, please contact
+[cusp-london@kcl.ac.uk](mailto:cusp-london@kcl.ac.uk)**
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
