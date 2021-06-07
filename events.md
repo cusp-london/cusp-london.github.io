@@ -28,12 +28,12 @@ All our seminars are currently being held online. Please do join us, and feel fr
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
 | | |     |
-|9th June 2021 5pm | Yury Dvorkin| NYU     |
+|9th June 2021 5pm | Yury Dvorkin| CUSP NYU Series - How did I get here?     |
 |16th June 2021 2pm | Jali Packer|University of Cambridge   |
-|16th June 2021 4pm | Neil Kleinman| NYU     |
+|16th June 2021 4pm | Neil Kleinman| CUSP NYU Series - How did I get here?     |
 |23rd June 2021 2pm | David Hunter| David Hunter Design     |
 |7th July 2021 2pm | Scott Caine| RunFriendly     |
-|4th August 2021 4pm| Eric Corbett| CUSP NYU     |
+|4th August 2021 4pm| Eric Corbett| CUSP NYU Series - How did I get here?     |
 |12th August 2021 2pm| Mark Kleinman| King's College London     |
 
 #### Past seminars
