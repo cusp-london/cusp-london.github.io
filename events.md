@@ -59,7 +59,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |12th November 2020 12pm | Menna El-Assady| Konstanz University|
 |29th 2020 October 12pm | Dr Matt Thomas| British Red Cross|
 | 29th 2020 September 4pm | Aoife Hunt, Steve Gwynne and Pete Thompson @ Movement | Social Distancing & Designing for Life| [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%2815%29A+Social+distancing_Movement/1_chks90y6) |
-| 4th 2020 August 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |[Watch the Recording Here](http://urbanbeers.org/cusp/)  |
+| 4th 2020 August 4pm | Erika Brodnock | Use of AI in perinatal mental wellbeing |  |
 | 15th 2020 July | Toby Thornton | Future of Mobility Sprint |[Watch the Recording Here](http://urbanbeers.org/cusp/)    |
 | 7 July 2020 4pm | Moritz Godel | Future Cities |[Watch the Recording Here](http://urbanbeers.org/cusp/)      |
 | 30 June 2020 4pm | Surayyn Uthaya Selvan | Dynamic Urban Nodes Emotion Simulator | [Watch the recording here](https://media.kcl.ac.uk/media/CUSP+London+Series+Seminar+%2811%29A+Dynamic+Urban+Nodes+Emotion+Simulator_Surayyn+Uthaya+Selvan/1_q5e9qzl8) |
