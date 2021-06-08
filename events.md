@@ -47,7 +47,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |26th May 2021 2pm |Sophie Johnson|Westminster City Council|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Sophie+Johnson+-+Research+and+Insights+Manager%2C+Westminster+City+Council/1_iovbfdi3)|
 |12th May 2021 2pm | Jonathan Reades| CASA, UCL|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Associate+Prof+Jonathan+Reades+CASA%2C+UCL+-+Making+Big+Data+Small_+Investigating+London%E2%80%99s+Small+and+Social+Housing+Dynamics/1_2h6riw5f)
 |28th April 2021 2pm | Katharine Willis| University of Plymouth|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Professor+Katharine+Willis+-+Greening+the+smart+city-+smart+parks/1_ilmay3ag)|
-|28th April 2021 4pm | Colin Ellard| Triumph of the City (ToC) Research Seminar|
+|28th April 2021 4pm | Colin Ellard| Triumph of the City (ToC) Research Seminar [Watch the Recording Here](http://urbanbeers.org/cusp/)|
 |21st April 2021 4pm | Seth G Benzell| Triumph of the City (TOC) Research Seminar|
 |21st April 2021 4pm | Ravi Shroff|CUSP NYU Series - How did I get here? |
 |14th April 2021 5pm BST|Benedetta Piantella| CUSP NYU Series - How did I get here?|
