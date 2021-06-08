@@ -33,7 +33,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |16th June 2021 4pm | Neil Kleinman| CUSP NYU Series - How did I get here?     |
 |23rd June 2021 2pm | David Hunter| David Hunter Design     |
 |7th July 2021 2pm | Scott Caine| RunFriendly     |
-|27th July 2021 2pm | Shengjie Lai| Worldpop, University of Southampton    |
+|27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |
 |4th August 2021 4pm| Eric Corbett| CUSP NYU Series - How did I get here?     |
 |12th August 2021 2pm| Mark Kleinman| King's College London     |
 
