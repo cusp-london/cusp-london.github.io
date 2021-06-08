@@ -28,9 +28,11 @@ All our seminars are currently being held online. Please do join us, and feel fr
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
 | | |     |
+|9th June 2021 5pm | Rikesh Shah| Triump of the City (ToC) Research Seminar|
 |9th June 2021 5pm | Yury Dvorkin| CUSP NYU Series - How did I get here?     |
 |16th June 2021 2pm | Jali Packer|University of Cambridge   |
 |16th June 2021 4pm | Neil Kleinman| CUSP NYU Series - How did I get here?     |
+|16th June 2021 4pm | John D Eastwood| Triumph of the City (ToC) Research Seminar 
 |23rd June 2021 2pm | David Hunter| David Hunter Design     |
 |7th July 2021 2pm | Scott Caine| RunFriendly     |
 |27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |
