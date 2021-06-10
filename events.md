@@ -45,7 +45,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|9th June 2021 4pm | Rikesh Shah| Triump of the City (ToC) Research Seminar|[Watch the Recording Here](http://urbanbeers.org/cusp/)|
+|9th June 2021 4pm | Rikesh Shah| Triump of the City (ToC) Research Seminar||
 |9th June 2021 5pm | Juan Bello| CUSP NYU Series - How did I get here?     |[Watch the Recording Here](https://nyu.zoom.us/rec/share/wyLDGIVnH2MJjLSHEcNmemXWjnxMKU7_nHrnWOoPOimL7DUhlgA5IRG-cYO0hA3g.ulxnTpVWYJ3nxsNQ)|
 |26th May 2021 2pm |Sophie Johnson|Westminster City Council|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Sophie+Johnson+-+Research+and+Insights+Manager%2C+Westminster+City+Council/1_iovbfdi3)|
 |12th May 2021 2pm | Jonathan Reades| CASA, UCL|[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Associate+Prof+Jonathan+Reades+CASA%2C+UCL+-+Making+Big+Data+Small_+Investigating+London%E2%80%99s+Small+and+Social+Housing+Dynamics/1_2h6riw5f)
