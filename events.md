@@ -27,8 +27,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|23rd June 2021 2pm | David Hunter| David Hunter Design     |
-|23rd June 2021 5pm | Victoria Alsina Burgues| CUSP NYU Series - How did I get here?     |
+
 |7th July 2021 2pm | Scott Caine| RunFriendly     |
 |27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |
 |30th June 2021 5pm | Debra Laefer| CUSP NYU Series - How did I get here?     |
@@ -42,6 +41,8 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
+|23rd June 2021 2pm | David Hunter| David Hunter Design     |
+|23rd June 2021 5pm | Victoria Alsina Burgues| CUSP NYU Series - How did I get here?     |
 |16th June 2021 2pm | Jali Packer|University of Cambridge   |[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-++Jali+Packer+-+Title_+What+makes+Brooklyn+Brooklyn_+The+psychological%2C+economic+and+sociodemographic+determinants+of+urban+ambiance/1_2efj16j8)|
 |16th June 2021 4pm | Neil Kleinman| CUSP NYU Series - How did I get here?     |
 |16th June 2021 4pm | John D Eastwood| Triumph of the City (ToC) Research Seminar 
