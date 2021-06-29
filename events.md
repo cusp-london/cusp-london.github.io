@@ -28,9 +28,9 @@ All our seminars are currently being held online. Please do join us, and feel fr
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
 |30th June 2021 4pm |Thayer Alshaabi | Triumph of the City (ToC) Research Seminar|
+|30th June 2021 5pm | Debra Laefer| CUSP NYU Series - How did I get here?     |
 |7th July 2021 2pm | Scott Caine| RunFriendly     |
 |27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |
-|30th June 2021 5pm | Debra Laefer| CUSP NYU Series - How did I get here?     |
 |14th July 2021 5pm | Yury Dvorkin| CUSP NYU Series - How did I get here?     |
 |21st July 2021 4pm | Ravi Shroff| CUSP NYU Series - How did I get here?     |
 |28th July 4pm | Neil Kleiman| CUSP NYU Series - How did I get here?     |
