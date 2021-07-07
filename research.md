@@ -22,7 +22,7 @@ MSc Urban Informatics student [Raphael Canty](https://www.linkedin.com/in/raphae
 
 Click [HERE](https://www.youtube.com/watch?v=xa9BQfbdbek) for the Cities of the Future event.
 
-**CUSP London - MOPAC Data Dive Output published on GeoConnexion Februray Issue**
+**CUSP London - MOPAC Data Dive Output published on GeoConnexion February Issue**
 
 Covid and Crime in The Capital by Yijing Li
 
