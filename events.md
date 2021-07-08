@@ -27,8 +27,6 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|7th July 2021 2pm | Scott Caine| RunFriendly     |
-|7th July 2021 4pm | Neve O'Clery|Triumph of the City (ToC) Research Seminar|
 |27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |
 |14th July 2021 5pm | Yury Dvorkin| CUSP NYU Series - How did I get here?     |
 |21st July 2021 4pm | Ravi Shroff| CUSP NYU Series - How did I get here?     |
@@ -40,6 +38,8 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
+|7th July 2021 2pm | Scott Caine| RunFriendly     |[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP%20London%20Seminar%20Series%20-%20Scott%20Caine%20-%20Innovating%20for%20more%20active%2C%20people-friendly%20places_%20a%20provocation/1_0wx0g84s)|
+|7th July 2021 4pm | Neve O'Clery|Triumph of the City (ToC) Research Seminar|
 |30th June 2021 4pm |Thayer Alshaabi | Triumph of the City (ToC) Research Seminar|
 |30th June 2021 5pm | Debra Laefer| CUSP NYU Series - How did I get here?     |
 |23rd June 2021 2pm | David Hunter| David Hunter Design     |[Watch the Recording Here](https://media.kcl.ac.uk/my-media)|
