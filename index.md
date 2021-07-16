@@ -20,7 +20,7 @@ Group photo taken in 2018 at the official signing of the Statement of Intent bet
 The work of students and researchers at CUSP London in using data to improve Londoner’s lives has won the 2020 Geography in Government Awards.
 See more about the [Award](https://www.kcl.ac.uk/news/cusp-london-urban-lab-partnership-wins-royal-geographical-society-award-for-excellence-in-local-government)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wViccZq1jLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1">&nbsp;</iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/wViccZq1jLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1">&nbsp;</iframe></center>
 
 Please click here to see more about the events we hold [Events page](https://cusplondon.ac.uk/events.html)
 
