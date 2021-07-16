@@ -45,7 +45,7 @@ See more about the [Award](https://www.kcl.ac.uk/news/cusp-london-urban-lab-part
 
 **Dr Yijing Li Research Paper: Health Resilience Against Pandemic Crisis Among European Countries.**
 
-Health resilience against pandemic crisis among European countries. In Shaw SL and Sui D (eds). Covid-19 book series of “human dynamics in smart cities”.2021. Springer (Accepted for Publication).
+Li Y. (2021) [Health Resilience Among European Countries in the Face of Pandemic: Reflections on European Countries’ Preparedness for COVID-19](https://link.springer.com/chapter/10.1007/978-3-030-72808-3_16). In: Shaw SL., Sui D. (eds) Mapping COVID-19 in Space and Time. Human Dynamics in Smart Cities. Springer, Cham. https://doi.org/10.1007/978-3-030-72808-3_16.
 
 **The Intersection of Cities and COVID-19: What We Learned and What’s Next? (by Dylan Anderson)**
 
