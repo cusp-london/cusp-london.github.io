@@ -28,6 +28,12 @@ Covid and Crime in The Capital by Yijing Li
 
 See more from [HERE](https://www.geoconnexion.com/publications/january-february-2021-uk-issue)
 
+**Viewpoint Shrinking homes, COVID-19 and the challenge of Homeworking**<br>
+Phil Hubbard, Jon Reades, Hendrik Walter <br>
+**The Town Planning Review 92(1), 3-10 2021**
+See the article [Here](https://kclpure.kcl.ac.uk/portal/en/publications/shrinking-homes-covid19-and-the-challenge-of-homeworking(a60cf579-bd50-4383-ade0-c8ddc2e967d9).html%20MK%20and%20CC%20to%20keep%20in%20touch%20with%20Phil%20and%20Jon)
+
+
 **CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government**
 
 ![group lighter1]({% link images/group lighter1.jpg %})
