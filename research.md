@@ -19,11 +19,11 @@ Like its sibling in New York, CUSP London is an interdisciplinary research and g
 MSc Urban Informatics student [Raphael Canty](https://www.linkedin.com/in/raphael-canty/) had visualised the COVID-19 Timeline in [London](https://comparecitycrime.com/london/londonTimeline.html) and [Sydney](https://comparecitycrime.com/sydney/sydney_timeline.html) using D3 for interactive information. This is part of the "Compare City Crime Change" project funded by King’s Global Engagement Partnership Fund (2021), led by [Dr Yijing Li](https://www.linkedin.com/in/yijing-li-04b91594/).
 
 **Professor Mark Kleinman Chaired King's Experts Series: Cities of the Future on 26 Jan. 2021**
-Click [HERE](https://www.youtube.com/watch?v=xa9BQfbdbek) for the Cities of the Future event.
+Click [Here](https://www.youtube.com/watch?v=xa9BQfbdbek) for the Cities of the Future event.
 
 **CUSP London - MOPAC Data Dive Output published on GeoConnexion February Issue**
 Covid and Crime in The Capital by Yijing Li
-See more from [HERE](https://www.geoconnexion.com/publications/january-february-2021-uk-issue)
+See more from [Here](https://www.geoconnexion.com/publications/january-february-2021-uk-issue)
 
 **Viewpoint Shrinking homes, COVID-19 and the challenge of Homeworking**<br>
 Phil Hubbard, Jon Reades, Hendrik Walter <br>
