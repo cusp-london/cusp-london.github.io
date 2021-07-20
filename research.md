@@ -39,8 +39,9 @@ International Journal of Medical Informatics - September 2020
 D.Anderson, R. Hesketh, M.Kleinman and J.Portes <br>
 QPE Working Paper 2020-13, Quantitative Political Economy Research Group, Department of Political Economy, King’s College London, 2020. See article [Here](https://osf.io/preprints/socarxiv/7m286//) DOI: 10.31235/osf.io/7m286
 
-**The London Intelligence – London Economic Tracker**
-N.Bosetti, E.Belcher, D.Anderson, May 2020  See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-covid19/)
+**The London Intelligence – London Economic Tracker**<br>
+N.Bosetti, E.Belcher, D.Anderson, May 2020<br>  See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-covid19/)
+
 **The London Intelligence – London Economic Tracker** <br>
 N.Bosetti, E.Belcher, D.Anderson, August 2020<br>
 See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-aug-2020/)  
