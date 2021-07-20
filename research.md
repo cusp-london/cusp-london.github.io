@@ -50,7 +50,8 @@ See more about the [Award](https://www.kcl.ac.uk/news/cusp-london-urban-lab-part
 
 Li Y. (2021) [Health Resilience Among European Countries in the Face of Pandemic: Reflections on European Countries’ Preparedness for COVID-19](https://link.springer.com/chapter/10.1007/978-3-030-72808-3_16). In: Shaw SL., Sui D. (eds) Mapping COVID-19 in Space and Time. Human Dynamics in Smart Cities. Springer, Cham. https://doi.org/10.1007/978-3-030-72808-3_16.
 
-**The Intersection of Cities and COVID-19: What We Learned and What’s Next? (by Dylan Anderson)**
+**The Intersection of Cities and COVID-19: What We Learned and What’s Next?**<br>
+Dylan Anderson
 
 Housing 83% of the UK population, cities are integral to the lifeblood of the country’s economy, societal norms, and cultural reputation. This was starkly apparent in the first half of this year when negative effect of COVID-19 on cities was being witnessed first-hand. As the country heads into the second national lockdown, are we beginning to see history repeat itself? 
 
