@@ -41,8 +41,9 @@ QPE Working Paper 2020-13, Quantitative Political Economy Research Group, Depart
 
 **The London Intelligence – London Economic Tracker**
 N.Bosetti, E.Belcher, D.Anderson, May 2020  See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-covid19/)
-**The London Intelligence – London Economic Tracker**
-N.Bosetti, E.Belcher, D.Anderson, August 2020 See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-aug-2020/)  
+**The London Intelligence – London Economic Tracker** <br>
+N.Bosetti, E.Belcher, D.Anderson, August 2020<br>
+See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-aug-2020/)  
 
 
 **CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government**
