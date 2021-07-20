@@ -31,7 +31,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |
 |28th July 4pm | Neil Kleiman| CUSP NYU Series - How did I get here?     |
 |4th August 2021 4pm| Eric Corbett| CUSP NYU Series - How did I get here?     |
-|12th August 2021 2pm| Mark Kleinman| King's College London     |
+
 
 #### Past seminars
 
