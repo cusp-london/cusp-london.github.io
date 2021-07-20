@@ -16,6 +16,7 @@ Like its sibling in New York, CUSP London is an interdisciplinary research and g
 
 **Interactive COVID-19 Timelines Visualisation**
 
+**Compare City Crime Change Project**
 MSc Urban Informatics student [Raphael Canty](https://www.linkedin.com/in/raphael-canty/) had visualised the COVID-19 Timeline in [London](https://comparecitycrime.com/london/londonTimeline.html) and [Sydney](https://comparecitycrime.com/sydney/sydney_timeline.html) using D3 for interactive information. This is part of the "Compare City Crime Change" project funded by King’s Global Engagement Partnership Fund (2021), led by [Dr Yijing Li](https://www.linkedin.com/in/yijing-li-04b91594/).
 
 **Professor Mark Kleinman Chaired King's Experts Series: Cities of the Future on 26 Jan. 2021**
@@ -37,6 +38,12 @@ International Journal of Medical Informatics - September 2020
 **Global City in a Global Pandemic: Assessing the ongoing impact of COVID-induced trends on London’s economic sectors.**<br>
 D.Anderson, R. Hesketh, M.Kleinman and J.Portes <br>
 QPE Working Paper 2020-13, Quantitative Political Economy Research Group, Department of Political Economy, King’s College London, 2020. See article [Here](https://osf.io/preprints/socarxiv/7m286//) DOI: 10.31235/osf.io/7m286
+
+**The London Intelligence – London Economic Tracker**
+N.Bosetti, E.Belcher, D.Anderson, May 2020  See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-covid19/)
+**The London Intelligence – London Economic Tracker**
+N.Bosetti, E.Belcher, D.Anderson, August 2020 See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-aug-2020/)  
+
 
 **CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government**
 
