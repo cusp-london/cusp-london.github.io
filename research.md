@@ -34,6 +34,10 @@ See the article [Here](https://kclpure.kcl.ac.uk/portal/en/publications/shrinkin
 Liam Tollinton, Alexander M Metcalf, Sumithra Velupillai<br>
 International Journal of Medical Informatics - September 2020
 
+**Global City in a Global Pandemic: Assessing the ongoing impact of COVID-induced trends on London’s economic sectors.**<br>
+D.Anderson, R. Hesketh, M.Kleinman and J.Portes <br>
+QPE Working Paper 2020-13, Quantitative Political Economy Research Group, Department of Political Economy, King’s College London, 2020. See article [Here](https://osf.io/preprints/socarxiv/7m286//) DOI: 10.31235/osf.io/7m286
+
 **CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government**
 
 ![group lighter1]({% link images/group lighter1.jpg %})
