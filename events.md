@@ -45,7 +45,6 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |23rd June 2021 2pm | David Hunter| David Hunter Design     |[Watch the Recording Here](https://media.kcl.ac.uk/my-media)|
 |23rd June 2021 5pm | Victoria Alsina Burgues| CUSP NYU Series - How did I get here?|[Watch the Recording Here](https://nyu.zoom.us/rec/play/p5NMDmcZt19zhpGtzOq4ZQ1nQ28UUOtfCJ-0LkJ4qyho-Y_gMJZOO2ktr3Q7ebBKFmbcXyMVtymE2TR0.efSB9XY7rgCf7-OH?continueMode=true&_x_zm_rtaid=_my6AK2VTteceoE1nYv3RA.1627033582487.0946dc0104e8a99b661e6cd2b5df1539&_x_zm_rhtaid=652)|
 |16th June 2021 2pm | Jali Packer|University of Cambridge   |[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-++Jali+Packer+-+Title_+What+makes+Brooklyn+Brooklyn_+The+psychological%2C+economic+and+sociodemographic+determinants+of+urban+ambiance/1_2efj16j8)|
-|16th June 2021 4pm | Neil Kleinman| CUSP NYU Series - How did I get here?     |
 |16th June 2021 4pm | John D Eastwood| Triumph of the City (ToC) Research Seminar 
 |9th June 2021 4pm | Rikesh Shah| Triumph of the City (ToC) Research Seminar||
 |9th June 2021 5pm | Juan Bello| CUSP NYU Series - How did I get here?     |[Watch the Recording Here](https://nyu.zoom.us/rec/share/wyLDGIVnH2MJjLSHEcNmemXWjnxMKU7_nHrnWOoPOimL7DUhlgA5IRG-cYO0hA3g.ulxnTpVWYJ3nxsNQ)|
