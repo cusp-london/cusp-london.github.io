@@ -27,7 +27,6 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |
 |28th July 4pm | Neil Kleiman| CUSP NYU Series - How did I get here?     |
 |4th August 2021 4pm| Eric Corbett| CUSP NYU Series - How did I get here?     |
 
@@ -36,6 +35,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
+|27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |[Watch the Recording here]( https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Dr+Sheng-Jie+Lai+-+Measuring+human+mobility%2C+COVID-19+spread+risk+and+intervention+effectiveness/1_wlrwfm7h)|
 |21st July 2021 4pm | Ravi Shroff| CUSP NYU Series - How did I get here?|
 |14th July 2021 5pm | Yury Dvorkin| CUSP NYU Series - How did I get here?|[Watch the Recording Here](https://nyu.zoom.us/rec/play/ADonyYgeirTdMHWslPWH_QtM-vSjbi9GFhRI7zhUgDD5Q82LdkGy-m_xvA6VZhrK5rsvh5m7BNHALCe3.lvB56uorNEJoX67H?startTime=1626278722000&_x_zm_rtaid=_my6AK2VTteceoE1nYv3RA.1627033582487.0946dc0104e8a99b661e6cd2b5df1539&_x_zm_rhtaid=652)|
 |7th July 2021 2pm | Scott Caine| RunFriendly     |[Watch the Recording Here](https://media.kcl.ac.uk/media/CUSP%20London%20Seminar%20Series%20-%20Scott%20Caine%20-%20Innovating%20for%20more%20active%2C%20people-friendly%20places_%20a%20provocation/1_0wx0g84s)|
