@@ -46,8 +46,8 @@ N.Bosetti, E.Belcher, D.Anderson, May 2020<br>  See the article [Here](https://w
 N.Bosetti, E.Belcher, D.Anderson, August 2020<br>
 See the article [Here](https://www.centreforlondon.org/publication/the-london-intelligence-aug-2020/) 
 
-**Evolution of responses to the COVID-19 pandemic in the U.S.**
-D Quercia <br>
+**Evolution of responses to the COVID-19 pandemic in the U.S.**<br>
+D Quercia, L M Aiello, K Zhou, M Constantinides, S. Scepanovic & S Joglekar<br>
 [See Article Here](https://www.nature.com/articles/s41599-021-00861-3.pdf)
 [Viz+Data](http://social-dynamics.net/EpidemicPsychology/)
 Summary in this [Twitter thread](https://twitter.com/danielequercia/status/1420019040563630082?s=20)
