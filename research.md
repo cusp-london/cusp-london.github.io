@@ -41,6 +41,7 @@ QPE Working Paper 2020-13, Quantitative Political Economy Research Group, Depart
 
 **Evolution of responses to the COVID-19 pandemic in the U.S.**<br>
 D.Quercia, L. M. Aiello, K. Zhou, M. Constantinides, S. Scepanovic & S. Joglekar<br>
+Humanities and Social Sciences Communications (2021)<br>
 [See Article Here](https://www.nature.com/articles/s41599-021-00861-3.pdf)
 [Viz+Data](http://social-dynamics.net/EpidemicPsychology/)
 Summary in this [Twitter thread](https://twitter.com/danielequercia/status/1420019040563630082?s=20)
