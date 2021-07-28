@@ -40,7 +40,7 @@ D.Anderson, R. Hesketh, M.Kleinman and J.Portes <br>
 QPE Working Paper 2020-13, Quantitative Political Economy Research Group, Department of Political Economy, King’s College London, 2020. See article [Here](https://osf.io/preprints/socarxiv/7m286//) DOI: 10.31235/osf.io/7m286
 
 **Evolution of responses to the COVID-19 pandemic in the U.S.**<br>
-D Quercia, L M Aiello, K Zhou, M Constantinides, S. Scepanovic & S Joglekar<br>
+D.Quercia, L. M. Aiello, K. Zhou, M. Constantinides, S. Scepanovic & S. Joglekar<br>
 [See Article Here](https://www.nature.com/articles/s41599-021-00861-3.pdf)
 [Viz+Data](http://social-dynamics.net/EpidemicPsychology/)
 Summary in this [Twitter thread](https://twitter.com/danielequercia/status/1420019040563630082?s=20)
