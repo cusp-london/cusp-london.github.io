@@ -27,7 +27,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-No further seminars in August, please re-join us in September!
+|No further seminars in August, please re-join us in September!|
 
 #### Past seminars
 
