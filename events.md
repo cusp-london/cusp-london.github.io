@@ -33,8 +33,8 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|4th August 2021 4pm| Eric Corbett| CUSP NYU Series - How did I get here?     |
-|4th August 2021 1am| Ekaterina Levitskaya| CUSP NYU Series - How did I get here?  |
+|4th August 2021 4pm| Eric Corbett| CUSP NYU Series - How did I get here?     |[Watch the Recording here](https://nyu.zoom.us/rec/share/d69tUUWjTkQXz9DYs7jS-LoejWqY-quXFIUMrsJfVxreXVKaA4qkkxyCWjToohhq.q8tEIMcTEo9MCpvM)|
+|4th August 2021 1am|Dana Chermesh Reshef | CUSP NYU Series - How did I get here?  |[Watch the Recording here](https://nyu.zoom.us/rec/share/iZ7JA4HVVghANzqc_lwezHkfPZlCNyc-OUNrBBEbCnd57-qPT2AL2YVTwLRtR1DN.SsRrKyaj3aSJUsn0)|
 |28th July 4pm | Neil Kleiman| CUSP NYU Series - How did I get here?     |
 |27th July 2021 2pm | Shengjie Lai| WorldPop, University of Southampton    |[Watch the Recording here]( https://media.kcl.ac.uk/media/CUSP+London+Seminar+Series+-+Dr+Sheng-Jie+Lai+-+Measuring+human+mobility%2C+COVID-19+spread+risk+and+intervention+effectiveness/1_wlrwfm7h)|
 |21st July 2021 4pm | Ravi Shroff| CUSP NYU Series - How did I get here?|[Watch the Recording here](https://nyu.zoom.us/rec/play/EWjiyiy8jNJMh25ANhWnpr29V-G3jwLPeuMN2UMSsrXY87I5Ehm56-snNtN7xiGUZSxeYFYgqe_ND2fN.BROiZjQbrhmZKEDB?startTime=1626278722000&_x_zm_rtaid=9DKHJXt3TkmCIL5EdMm2kQ.1627479458996.d99f37808ec9472faa32007f66cc0c2f&_x_zm_rhtaid=375)|
