@@ -43,8 +43,8 @@ The Showcase was a wonderful event which enabled CUSP London Students to present
 
 * Yuxing Qi - Sentiment analysis of COVID-19 tweets in England [Click here for the presentation](https://media.kcl.ac.uk/media/II_2_1/1_r8f5743g)
 * Sijie Zhang - Comparative research of the impact of COVID-19 on consumer economy in Sydney and London [Click here for the presentation](https://media.kcl.ac.uk/media/II_2_2/1_5v7ez9e1)
-* Jiawei Li - Spend it locally: A research on residents' spending behaviour upon COVID-19 outbreak [Click here to see the presentation](https://media.kcl.ac.uk/media/II_2_3/1_jdv0azo6)
-* Yuhan Zhou - Sentiment Analaysis using Social Media Data [Click here to see the presentation](https://media.kcl.ac.uk/media/II_2_4/1_eiizpa6j)
+* Jiawei Li - Spend it locally: A research on residents' spending behaviour upon COVID-19 outbreak [Click here for the presentation](https://media.kcl.ac.uk/media/II_2_3/1_jdv0azo6)
+* Yuhan Zhou - Sentiment Analaysis using Social Media Data [Click here for the presentation](https://media.kcl.ac.uk/media/II_2_4/1_eiizpa6j)
 
 
 #### Upcoming seminars
