@@ -16,6 +16,7 @@ Please click the link to find out more about CUSP London News and Events [News](
 
 **CUSP London Showcase 2021**<br>
 The Showcase was a wonderful event which enabled CUSP London Students to present their dissertation work to our Academics, Partners and Associates.  There was much interest in the subjects and we have some exciting work ahead leading to real impact in London!<br>
+
 Crime and Transport:<br>
 * Raphael Canty: How has travel demand been impacted by COVID-19? [Click here to see the presentation](https://media.kcl.ac.uk/media/I_1_1/1_vhxh6dc1)<br>
 * Yue Zhang - Impact of COVID-19 on crime [Click here to see the presentation](https://media.kcl.ac.uk/media/I_1_2/1_ucdx0v8e)<br>
