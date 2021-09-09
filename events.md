@@ -27,6 +27,11 @@ The Showcase was a wonderful event which enabled CUSP London Students to present
 
 * Liwei Chen - Spatial data anlyses and visualisation for new protein sources [Click here to see the presentation](https://media.kcl.ac.uk/media/I_2_1/1_s10wrwat)<br>
 * Xiaotian Li - Development of a Natural language processing approach to extract information related to financial situation or other relevant socio-economic information from mental health records [Click here to see the presentation](https://media.kcl.ac.uk/media/I_2_2/1_h9sfglrk)<br>
+* Shuhan Yang - Predicting a degree of suicide risk using social media data from Reddit [Click here to see the presentation](https://media.kcl.ac.uk/media/I_2_3/1_ti4srore)
+* Zhenxiao Fei - Exploring associations between patient reported housing problems, information on local housing stock and mental health [Click here to see the presentation](https://media.kcl.ac.uk/media/I_2_4/1_p2ydixjj)
+
+**Clean and Sustainable Land Use**
+
 * 
 
 
