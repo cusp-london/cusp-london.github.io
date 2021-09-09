@@ -10,6 +10,10 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 # Events
 
+**CUSP London hosts regular events**, ranging from the CUSP London Seminar Series, PhD conferences, Data Dives, Insights and research group events to social CUSP Coffee Catchups, where our academics, students, partners and associates can drop in and meet up with each other (this is currently held online).  Please do [contact us](mailto:cusp-london@kcl.ac.uk) to join the CUSP London Interest mailing list for updates of all events.
+
+Please click the link to find out more about CUSP London News and Events [News](https://cusplondon.ac.uk/News.html)
+
 **CUSP London Showcase 2021**<br>
 The Showcase was a wonderful event which enabled CUSP London Students to present their dissertation work to our Academics, Partners and Associates.  There was much interest in the subjects and we have some exciting work ahead leading to real impact in London!<br>
 Crime and Transport:<br>
@@ -18,9 +22,7 @@ Crime and Transport:<br>
 * Kejiang Qian - Spatiotemporal data mining of road traffic accidents in London - towards post-pandemic deployment [Click here to see the presentation](https://media.kcl.ac.uk/media/I_1_3/1_hlwzmqef)<br>
 * Yuying Wu - "Hot Street" of crime detection in Haringey City Council and Lockdown Impacts[Click here to see the presentation](https://media.kcl.ac.uk/media/I_1_4/1_00r78gtk)<br>
 
-**CUSP London hosts regular events**, ranging from the CUSP London Seminar Series, PhD conferences, Data Dives, Insights and research group events to social CUSP Coffee Catchups, where our academics, students, partners and associates can drop in and meet up with each other (this is currently held online).  Please do [contact us](mailto:cusp-london@kcl.ac.uk) to join the CUSP London Interest mailing list for updates of all events.
 
-Please click the link to find out more about CUSP London News and Events [News](https://cusplondon.ac.uk/News.html)
 
 #### Upcoming seminars
 
