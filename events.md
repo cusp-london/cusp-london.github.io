@@ -32,7 +32,16 @@ The Showcase was a wonderful event which enabled CUSP London Students to present
 
 **Clean and Sustainable Land Use**
 
+* Hasnayn Yousaf - How has travel demand and air quality been impacted by COVID-19? [Click here to see the presentation](https://media.kcl.ac.uk/media/II_1_1/1_cz0ol1zg)
+* Xiaoxiao Ma - Quantifying the benefits of urban greenspace and trees on wellbeing in the borough of Haringey [Click here to see the presentation](https://media.kcl.ac.uk/media/II_1_2/1_swb2k7dr)
+* Yitong Liu - Urban Multi-function land use modelling [Click here to see the presentation](https://media.kcl.ac.uk/media/II_1_3/1_kivddlnf)
+* Yuxi Liu - Accessibility analysis of retain locations [Click here to see the presentation](https://media.kcl.ac.uk/media/II_1_4_Yuxi+Liu/1_to0x6v81)
+
+**Economy and Society**
+
+* Yuxing Qi - Sentiment analysis of COVID-19 tweets in England [Click here to see the presentation](https://media.kcl.ac.uk/media/II_2_1/1_r8f5743g)
 * 
+
 
 
 
