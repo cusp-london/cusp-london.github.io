@@ -60,7 +60,8 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|No further seminars in August, please re-join us in September! | CUSP London Seminar Series |
+|5th October 2021 10-11am |Dr Benjamin Bach |University of Edinburgh|
+|12th October 2021 10-11am|Tom Calver| Senior Data Journalist for The Times and The Sunday Times|
 
 #### Past seminars
 
