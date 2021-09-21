@@ -53,7 +53,7 @@ Please see the main university websites for further information on these program
 
 Please see our Student [Testimonials](https://cusplondon.ac.uk/testimonials.html) for the successful MSc Urban Informatics and CUSP London Events at King's
 
-Examples of the Student Projects for MSc Urban Informatics [2019/20](https://cusplondon.ac.uk/studentprojects.html) and [2018/19](https://cusplondon.ac.uk/studentprojects.html)
+Examples of the Student Projects for MSc Urban Informatics [2020/21](https://cusplondon.ac.uk/studentprojects.html), [2019/20](https://cusplondon.ac.uk/studentprojects.html) and [2018/19](https://cusplondon.ac.uk/studentprojects.html)
 
 Please see our research pages for further details [Research](https://cusplondon.ac.uk/research.html)
  
