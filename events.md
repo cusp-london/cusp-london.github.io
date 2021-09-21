@@ -32,7 +32,10 @@ All our seminars are currently being held online. Please do join us, and feel fr
 |19th October 2021 10-11am| Dr Paul Dawson| Mayor's Office for Policing and Crime (MOPAC)|
 |26th October 2021 10-11am| Dr Olivia Vane| The British Libarary and the Alan Turing Institute|
 |9th November 2021 10-11am| Mennatallah El-Assady| University of Konstanz, Germany|
-
+|16th November 2021 10-11am|Joanna S Kao|Financial Times
+|23rd November 2021 10-11am|Camilla Siggaard Andersen| Hassell|
+|30th November 2021 10-11am|Dominic Baker, Business Intelligence Manager|The British Red Cross|
+|14th December 2021 10-11am|Dr Björn Sommer| Royal College of Art|
 
 #### Past seminars
 
