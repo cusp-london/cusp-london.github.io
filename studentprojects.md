@@ -9,6 +9,12 @@ As part of the MSc Urban Informatics at King's college London, the students prod
 
 ![Acsstudents]({% link images/Acsstudents.jpeg %})
 
+**Student Projects for MSc Urban Informatics 2020/21**
+- [How has travel demand been impacted by COVID-19?](https://media.kcl.ac.uk/media/I_1_1/1_vhxh6dc1)
+- Impact of Covid-19 on Crime in London 
+- Spatiotemporal data mining of road traffic accidents in London - towards post- pandemic deployment 
+- "Hot street" of crime detection in Haringey City Council and Lockdown Impacts 
+
 **Examples of the Student Projects for MSc Urban Informatics 2019/20**
 
 An exciting update from a current student: [Trust, but verify – working with administrative data](https://kingsgeocomputation.org/2020/02/19/trust-but-verify-working-with-administrative-data/)
