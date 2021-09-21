@@ -93,6 +93,7 @@ All our seminars are currently being held online. Please do join us, and feel fr
 The Showcase was a wonderful event which enabled CUSP London Students to present their dissertation work to our Academics, Partners and Associates.  There was much interest in the subjects and we have some exciting work ahead leading to real impact in London!<br>
 
 ![Showcase 2021]({% link images/MSc UI Showcase.jpg %})
+
 Showcase videos in 2019/20 and 2020/21 could be found here [Showcase videos](https://cusplondon.ac.uk/studentprojects.html)
 
 Please see further research carried out here [research page](https://cusplondon.ac.uk/research.html)
