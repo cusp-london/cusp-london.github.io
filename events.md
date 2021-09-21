@@ -89,38 +89,11 @@ All our seminars are currently being held online. Please do join us, and feel fr
 
 ![Seminar]({% link images/Seminar1.jpg %})
 
-# **CUSP London Showcase 2021**<br>
+# **CUSP London Showcase 2019-2020-2021**<br>
 The Showcase was a wonderful event which enabled CUSP London Students to present their dissertation work to our Academics, Partners and Associates.  There was much interest in the subjects and we have some exciting work ahead leading to real impact in London!<br>
 
 ![Showcase 2021]({% link images/MSc UI Showcase.jpg %})
-
-**Crime and Transport**:<br>
-* Raphael Canty: How has travel demand been impacted by COVID-19? [Click here for the presentation](https://media.kcl.ac.uk/media/I_1_1/1_vhxh6dc1)<br>
-* Yue Zhang - Impact of COVID-19 on crime [Click here for the presentation](https://media.kcl.ac.uk/media/I_1_2/1_ucdx0v8e)<br>
-* Kejiang Qian - Spatiotemporal data mining of road traffic accidents in London - towards post-pandemic deployment [Click here for the presentation](https://media.kcl.ac.uk/media/I_1_3/1_hlwzmqef)<br>
-* Yuying Wu - "Hot Street" of crime detection in Haringey City Council and Lockdown Impacts [Click here for the presentation](https://media.kcl.ac.uk/media/I_1_4/1_00r78gtk)<br>
-
-**Healthy Cities**: <br>
-
-* Liwei Chen - Spatial data anlyses and visualisation for new protein sources [Click here for presentation](https://media.kcl.ac.uk/media/I_2_1/1_s10wrwat)<br>
-* Xiaotian Li - Development of a Natural language processing approach to extract information related to financial situation or other relevant socio-economic information from mental health records [Click here for the presentation](https://media.kcl.ac.uk/media/I_2_2/1_h9sfglrk)<br>
-* Shuhan Yang - Predicting a degree of suicide risk using social media data from Reddit [Click here for the presentation](https://media.kcl.ac.uk/media/I_2_3/1_ti4srore)
-* Zhenxiao Fei - Exploring associations between patient reported housing problems, information on local housing stock and mental health [Click here for the presentation](https://media.kcl.ac.uk/media/I_2_4/1_p2ydixjj)
-
-**Clean and Sustainable Land Use**
-
-* Hasnayn Yousaf - How has travel demand and air quality been impacted by COVID-19? [Click here for the presentation](https://media.kcl.ac.uk/media/II_1_1/1_cz0ol1zg)
-* Xiaoxiao Ma - Quantifying the benefits of urban greenspace and trees on wellbeing in the borough of Haringey [Click here for the presentation](https://media.kcl.ac.uk/media/II_1_2/1_swb2k7dr)
-* Yitong Liu - Urban Multi-function land use modelling [Click here for the presentation](https://media.kcl.ac.uk/media/II_1_3/1_kivddlnf)
-* Yuxi Liu - Accessibility analysis of retain locations [Click here for the presentation](https://media.kcl.ac.uk/media/II_1_4_Yuxi+Liu/1_to0x6v81)
-
-**Economy and Society**
-
-* Yuxing Qi - Sentiment analysis of COVID-19 tweets in England [Click here for the presentation](https://media.kcl.ac.uk/media/II_2_1/1_r8f5743g)
-* Sijie Zhang - Comparative research of the impact of COVID-19 on consumer economy in Sydney and London [Click here for the presentation](https://media.kcl.ac.uk/media/II_2_2/1_5v7ez9e1)
-* Jiawei Li - Spend it locally: A research on residents' spending behaviour upon COVID-19 outbreak [Click here for the presentation](https://media.kcl.ac.uk/media/II_2_3/1_jdv0azo6)
-* Yuhan Zhou - Sentiment Analaysis using Social Media Data [Click here for the presentation](https://media.kcl.ac.uk/media/II_2_4/1_eiizpa6j)
-
+Showcase videos in 2019/20 and 2020/21 could be found here [Showcase videos](https://cusplondon.ac.uk/studentprojects.html)
 
 Please see further research carried out here [research page](https://cusplondon.ac.uk/research.html)
 
