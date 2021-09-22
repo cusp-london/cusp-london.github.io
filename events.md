@@ -18,12 +18,12 @@ Please click the link to find out more about CUSP London News and Events [News](
 #### Upcoming seminars
 
 
-All our seminars are currently being held online. Please do join us, and feel free to pass the details on to any friends and colleagues you feel may be interested.  The Seminars in the UK are around 30 minutes each, followed by a Question and Answer session.<br> The CUSP NYU Seminars are a similar format, set out in a "lunch conversation" style session. 
+All our seminars are currently being held online, but we hope to resume face to face seminars in January 2022. Please do join us, and feel free to pass the details on to any friends and colleagues you feel may be interested.  The Seminars in the UK are around 30 minutes each, followed by a Question and Answer session.<br> The CUSP NYU Seminars are a similar format, set out in a "lunch conversation" style session. 
 
-**Please scroll down to find the recordings for seminars previously delivered**.
+**Please [click here](https://cusplondon.ac.uk/seminars.htm) to watch the recordings for seminars previously delivered**.
 
 **To join our mailing list and receive details on how to attend these seminars, please contact
-[cusp-london@kcl.ac.uk](mailto:cusp-london@kcl.ac.uk)**
+[cusp-london@kcl.ac.uk](cuspmailto:cusp-london@kcl.ac.uk)**
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
