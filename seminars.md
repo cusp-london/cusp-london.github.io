@@ -7,7 +7,7 @@ title: Centre for Urban Science and Progress London (CUSP London)- Past Seminars
 
 ![Seminar]({% link images/Seminar1.jpg %})
 
-CUSP London host a regular Seminar Series - seminars included are from our Master's in Urban Informatics module, Telling Stories with Data, The New York University CUSP Series where academics discuss "how did I get here", plus our "Triumph of the City" research events.  These were held online last academic year, so please see the recordings here: 
+CUSP London host a regular Seminar Series - These include seminars from our Master's in Urban Informatics module, Telling Stories with Data, The New York University CUSP Series where academics discuss "how did I get here", plus our "Triumph of the City" research events.  These were held online last academic year, so please see the recordings here: 
 
 Please do contact us to join the CUSP London Interest mailing list for updates of all seminars.
 
