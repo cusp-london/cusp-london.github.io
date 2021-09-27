@@ -15,9 +15,9 @@ title: Centre for Urban Science and Progress London (CUSP London)
 **CUSP London Director's strong commitment to the London First Data for London working group has led to the London Data Charter being signed up by King's College London.**
 The Charter will underpin a new governance model to be announced by City Hall later this year with signatories becoming part of the ecosystem. Projects already underway include helping meet London’s net zero goals using data to optimise the location of Electric Vehicle infrastructure and identifying areas of digital exclusion to target resources and help. <br>
 King's has just signed up to the London Data Charter which encourages sharing of data between organisations for the benefit of Londoners.<br> 
-*Arup, Bloomberg, Microsoft, Oliver Wyman Foundation and UK Power Networks have already made their commitment ahead of the launch in September at London Tech Week. Theo Blackwell, London’s Chief Digital Officer has also endorsed it:  
+* Arup, Bloomberg, Microsoft, Oliver Wyman Foundation and UK Power Networks have already made their commitment ahead of the launch in September at London Tech Week. Theo Blackwell, London’s Chief Digital Officer has also endorsed it:  
     
-*“The London Data Charter is a critical part of the infrastructure needed to realise the Mayor’s ambition of unlocking data to meet the capital’s biggest challenges. Signatories to the Charter create a community of data experts and data owners who London’s government will consult and work with on new data collaborations that benefit London and Londoners.”  [click here to read further details](https://www.londonfirst.co.uk/what-we-do/competitiveness/london-data-charter)
+* “The London Data Charter is a critical part of the infrastructure needed to realise the Mayor’s ambition of unlocking data to meet the capital’s biggest challenges. Signatories to the Charter create a community of data experts and data owners who London’s government will consult and work with on new data collaborations that benefit London and Londoners.”  [click here to read further details](https://www.londonfirst.co.uk/what-we-do/competitiveness/london-data-charter)
 
 
 Please click the link to find out more about CUSP London News and Events [News](https://cusplondon.ac.uk/News.html)
