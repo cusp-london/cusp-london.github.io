@@ -12,7 +12,7 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 **CUSP London hosts regular events**, ranging from the CUSP London Seminar Series, PhD conferences, Data Dives, Insights and research group events to social CUSP Coffee Catchups, where our academics, students, partners and associates can drop in and meet up with each other (this is currently held online).  Please do [contact us](mailto:cusp-london@kcl.ac.uk) to join the CUSP London Interest mailing list for updates of all events.
 
-**CUSP London Director's strong commitment to the London First Data for London working group has led to the London Data Charter - now being signed up by King's College London.**
+**CUSP London Director's strong commitment to the London First Data for London working group has led to the London Data Charter being signed up by King's College London.**
 The Charter will underpin a new governance model to be announced by City Hall later this year with signatories becoming part of the ecosystem. Projects already underway include helping meet London’s net zero goals using data to optimise the location of Electric Vehicle infrastructure and identifying areas of digital exclusion to target resources and help. <br>
 King's has just signed up to the London Data Charter which encourages sharing of data between organisations for the benefit of Londoners.<br> 
 *Arup, Bloomberg, Microsoft, Oliver Wyman Foundation and UK Power Networks have already made their commitment ahead of the launch in September at London Tech Week. Theo Blackwell, London’s Chief Digital Officer has also endorsed it:  
