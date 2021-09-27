@@ -17,7 +17,7 @@ The Charter will underpin a new governance model to be announced by City Hall 
 King's has just signed up to the London Data Charter which encourages sharing of data between organisations for the benefit of Londoners.<br> 
 * Arup, Bloomberg, Microsoft, Oliver Wyman Foundation and UK Power Networks have already made their commitment ahead of the launch in September at London Tech Week. Theo Blackwell, London’s Chief Digital Officer has also endorsed it:  
     
-* “The London Data Charter is a critical part of the infrastructure needed to realise the Mayor’s ambition of unlocking data to meet the capital’s biggest challenges. Signatories to the Charter create a community of data experts and data owners who London’s government will consult and work with on new data collaborations that benefit London and Londoners.”  [click here to read further details](https://www.londonfirst.co.uk/what-we-do/competitiveness/london-data-charter)
+<blockquote>“The London Data Charter is a critical part of the infrastructure needed to realise the Mayor’s ambition of unlocking data to meet the capital’s biggest challenges. Signatories to the Charter create a community of data experts and data owners who London’s government will consult and work with on new data collaborations that benefit London and Londoners.”  [click here to read further details](https://www.londonfirst.co.uk/what-we-do/competitiveness/london-data-charter)
 
 
 Please click the link to find out more about CUSP London News and Events [News](https://cusplondon.ac.uk/News.html)
