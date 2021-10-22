@@ -36,8 +36,6 @@ All our seminars are currently being held online, but we hope to resume face to 
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|12th October 2021 10-11am|Tom Calver| Senior Data Journalist for The Times and The Sunday Times|
-|19th October 2021 10-11am| Dr Paul Dawson| Mayor's Office for Policing and Crime (MOPAC)|
 |26th October 2021 10-11am| Dr Olivia Vane| The British Libarary and the Alan Turing Institute|
 |9th November 2021 10-11am| Mennatallah El-Assady| University of Konstanz, Germany|
 |16th November 2021 10-11am|Joanna S Kao|Financial Times
