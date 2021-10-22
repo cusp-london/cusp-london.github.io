@@ -15,6 +15,8 @@ Please do contact us to join the CUSP London Interest mailing list for updates o
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
+|12th October 2021 10-11am|Tom Calver| Senior Data Journalist for The Times and The Sunday Times|
+|19th October 2021 10-11am| Dr Paul Dawson| Mayor's Office for Policing and Crime (MOPAC)|
 |5th October 2021 10-11am |Dr Benjamin Bach |University of Edinburgh|
 |4th August 2021 4pm| Eric Corbett| CUSP NYU Series - How did I get here?     |[Watch the Recording here](https://nyu.zoom.us/rec/share/d69tUUWjTkQXz9DYs7jS-LoejWqY-quXFIUMrsJfVxreXVKaA4qkkxyCWjToohhq.q8tEIMcTEo9MCpvM)|
 |4th August 2021 1am|Dana Chermesh Reshef | CUSP NYU Series - How did I get here?  |[Watch the Recording here](https://nyu.zoom.us/rec/share/iZ7JA4HVVghANzqc_lwezHkfPZlCNyc-OUNrBBEbCnd57-qPT2AL2YVTwLRtR1DN.SsRrKyaj3aSJUsn0)|
