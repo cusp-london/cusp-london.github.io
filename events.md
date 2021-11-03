@@ -36,7 +36,7 @@ All our seminars are currently being held online, but we hope to resume face to 
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|26th October 2021 10-11am| Dr Olivia Vane| The British Libarary and the Alan Turing Institute|[Watch Recording Here](https://media.kcl.ac.uk/media/Dr%20Olivia%20Vane%20-%20Telling%20Stories%20with%20Cultural%20Heritage%20Data/1_9alx1jz3)|
+|26th October 2021 10-11am| Dr Olivia Vane| The British Libarary and the Alan Turing Institute|
 |9th November 2021 10-11am| Mennatallah El-Assady| University of Konstanz, Germany|
 |16th November 2021 10-11am|Joanna S Kao|Financial Times
 |23rd November 2021 10-11am|Camilla Siggaard Andersen| Hassell|
