@@ -36,11 +36,6 @@ All our seminars are currently being held online, but we hope to resume face to 
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|26th October 2021 10-11am| Dr Olivia Vane| The British Libarary and the Alan Turing Institute|
-|9th November 2021 10-11am| Mennatallah El-Assady| University of Konstanz, Germany|
-|16th November 2021 10-11am|Joanna S Kao|Financial Times
-|23rd November 2021 10-11am|Camilla Siggaard Andersen| Hassell|
-|30th November 2021 10-11am|Dominic Baker, Business Intelligence Manager|The British Red Cross|
 |14th December 2021 10-11am|Dr Björn Sommer| Royal College of Art|
 
 
