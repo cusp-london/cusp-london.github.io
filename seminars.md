@@ -13,7 +13,7 @@ Please do contact us to join the CUSP London Interest mailing list for updates o
 
 #### Past seminars
 
-| Date | Speaker | Organisation | Recording |
+| Date | Speaker | Organisation | Recording where available|
 |------------------|-------------|--------------|------------------|
 |30th November 2021 10-11am|Dominic Baker, Business Intelligence Manager|The British Red Cross|
 |26th October 2021 10-11am| Dr Olivia Vane| The British Libarary and the Alan Turing Institute|
