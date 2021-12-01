@@ -15,6 +15,11 @@ Please do contact us to join the CUSP London Interest mailing list for updates o
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
+|30th November 2021 10-11am|Dominic Baker, Business Intelligence Manager|The British Red Cross|
+|26th October 2021 10-11am| Dr Olivia Vane| The British Libarary and the Alan Turing Institute|
+|23rd November 2021 10-11am|Camilla Siggaard Andersen| Hassell|
+|9th November 2021 10-11am| Mennatallah El-Assady| University of Konstanz, Germany|
+|16th November 2021 10-11am|Joanna S Kao|Financial Times
 |12th October 2021 10-11am|Tom Calver| Senior Data Journalist for The Times and The Sunday Times|
 |19th October 2021 10-11am| Dr Paul Dawson| Mayor's Office for Policing and Crime (MOPAC)|
 |5th October 2021 10-11am |Dr Benjamin Bach |University of Edinburgh|[Watch the Recording here](https://media.kcl.ac.uk/media/Dr%20Benjamin%20Bach%20-%20Data%20Comics%20for%20Data-Driven%20Storytelling/1_rzb77h5t)|
