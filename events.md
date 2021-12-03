@@ -39,6 +39,7 @@ All our seminars are currently being held online, but we hope to resume face to 
 |14th December 2021 10-11am|Dr Björn Sommer| Royal College of Art|
 
 **Once again our CUSP London PhD Conference was a huge success!**<br>
+![Teddy.jpg]({% link images/Teddy.jpg %})
 
 We had PhD's present their work from King's College London, University of Warwick, University College London, The London School of Hygeine and Tropical Medicine and Imperial College London.  It was wonderful to have the opportunity to meet face to face again - and the networking opportunities with PhD peers and our CUSP London academics were amazingly successful.  Thank you all for helping make it such an engaging event. 
 
