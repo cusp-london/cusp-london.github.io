@@ -41,7 +41,7 @@ All our seminars are currently being held online, but we hope to resume face to 
 **Once again our CUSP London PhD Conference was a huge success!**<br>
 ![Teddy.jpg]({% link images/Teddy.jpg %})
 
-We had PhD's present their work from King's College London, University of Warwick, University College London, The London School of Hygeine and Tropical Medicine and Imperial College London.  It was wonderful to have the opportunity to meet face to face again - and the networking opportunities with PhD peers and our CUSP London academics were amazingly successful.  Thank you all for helping make it such an engaging event. 
+We had PhD's present their work from King's College London, University of Warwick, University College London, The London School of Hygiene and Tropical Medicine and Imperial College London.  It was wonderful to have the opportunity to meet face to face again - and the networking opportunities with PhD peers and our CUSP London academics were amazingly successful.  Thank you all for helping make it such an engaging event. 
 
 # **CUSP London Showcase 2019-2020-2021**<br>
 The Showcase was a wonderful event which enabled CUSP London Students to present their dissertation work to our Academics, Partners and Associates.  There was much interest in the subjects and we have some exciting work ahead leading to real impact in London!<br>
