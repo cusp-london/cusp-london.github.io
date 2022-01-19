@@ -36,7 +36,6 @@ All our seminars are currently being held online, but we hope to resume face to 
 
 | Date | Speaker | Organisation | Recording |
 |------------------|-------------|--------------|------------------|
-|14th December 2021 10-11am|Dr Björn Sommer| Royal College of Art|
 
 **The 2021 CUSP London PhD Conference was a huge success!**<br>
 
