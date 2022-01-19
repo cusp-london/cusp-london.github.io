@@ -13,7 +13,7 @@ The Centre for Urban Science and Progress London (CUSP London) is an interdiscip
 
 **Professor Nick Holliman joins CUSP London as the Director**<br>
 
-In January, Nick Holliman joined the Department of Informatics as Professor of Computer Science and Director of CUSP-London. Nick brings academic and industrial experience in the research and application of Data Science and AI and will provide strategic leadership for CUSP's impactful links within the university and its external collaborators.
+In January 2022, Nick Holliman joined the Department of Informatics as Professor of Computer Science and Director of CUSP-London. Nick brings academic and industrial experience in the research and application of Data Science and AI and will provide strategic leadership for CUSP's impactful links within the university and its external collaborators.
 
 <blockquote>I am excited to be joining King’s to take on this timely and fascinating role. Effective, trustworthy collaborations between machine systems and humans have never been more central in solving problems in the real world. I look forward to working to demonstrate how human-machine teaming can broaden the positive impact of technology for our partners in and beyond London.”</blockquote>
 Nick Holliman
