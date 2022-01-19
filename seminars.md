@@ -15,6 +15,7 @@ Please do contact us to join the CUSP London Interest mailing list for updates o
 
 | Date | Speaker | Organisation | Recording where available|
 |------------------|-------------|--------------|------------------|
+|14th December 2021 10-11am|Dr Björn Sommer| Royal College of Art|
 |30th November 2021 10-11am|Dominic Baker, Business Intelligence Manager|The British Red Cross|
 |26th October 2021 10-11am| Dr Olivia Vane| The British Libarary and the Alan Turing Institute|
 |23rd November 2021 10-11am|Camilla Siggaard Andersen| Hassell|
