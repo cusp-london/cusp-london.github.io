@@ -35,8 +35,8 @@ All our seminars are currently being held online, but we hope to resume face to 
 [cusp-london@kcl.ac.uk](cuspmailto:cusp-london@kcl.ac.uk)**
 
 | Date | Speaker | Organisation | Recording |
-|------------------|-------------|--------------|------------------|
-New Seminar series beginning soon TBC
+|New Seminar series beginning soon TBC||
+
 
 **The 2021 CUSP London PhD Conference was a huge success!**<br>
 
