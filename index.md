@@ -15,7 +15,12 @@ The Centre for Urban Science and Progress London (CUSP London) is an interdiscip
 
 In January, Nick Holliman joined the Department of Informatics as Professor of Computer Science and Director of CUSP-London. Nick brings academic and industrial experience in the research and application of Data Science and AI and will provide strategic leadership for CUSP's impactful links within the university and its external collaborators.
 
-
+<blockquote>I am excited to be joining King’s to take on this timely and fascinating role. Effective, trustworthy collaborations between machine systems and humans have never been more central in solving problems in the real world. I look forward to working to demonstrate how human-machine teaming can broaden the positive impact of technology for our partners in and beyond London.”</blockquote>
+Nick Holliman
+About Nick:
+Nick completed his BSc (Hons) in Computing with Electronics at Durham and his PhD in supercomputing methods for computer graphics at Leeds with IBM UK. 
+He has worked in industrial R&D at Sharp Laboratories, Oxford and is joining King’s from Newcastle University where he was appointed as the first Full Professor of Data Visualization.
+Nick researches the science and engineering of visualization and visual analytics, addressing the fundamental challenges of visualization in successful human-machine teaming. He has demonstrated how novel visualization methods work in practice in scalable cloud-based software tools and award-winning 3D visualizations. Nick has experience delivering global commercial impact from research outputs of both industrial and academic laboratories. Nick led the Scalable Data Science group at Newcastle and was visualization lead for the Newcastle University Centre of Research Excellence in Data. He is a Fellow of the Alan Turing Institute, where he co-founded and co-convenes the Visualization Interest Group. 
 
 
 ***CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government***
