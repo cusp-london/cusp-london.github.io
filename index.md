@@ -24,6 +24,11 @@ Nick completed his BSc (Hons) in Computing with Electronics at Durham and his Ph
 He has worked in industrial R&D at Sharp Laboratories, Oxford and is joining King’s from Newcastle University where he was appointed as the first Full Professor of Data Visualization.
 Nick researches the science and engineering of visualization and visual analytics, addressing the fundamental challenges of visualization in successful human-machine teaming. He has demonstrated how novel visualization methods work in practice in scalable cloud-based software tools and award-winning 3D visualizations. Nick has experience delivering global commercial impact from research outputs of both industrial and academic laboratories. Nick led the Scalable Data Science group at Newcastle and was visualization lead for the Newcastle University Centre of Research Excellence in Data. He is a Fellow of the Alan Turing Institute, where he co-founded and co-convenes the Visualization Interest Group. 
 
+Dr Yijing Li - Interim Director of CUSP London - shared her excitement at this appointment:<br>
+
+<blockquote>We are exhilarated to welcome Nick to join CUSP London in Informatics, bringing in his leadership experience and expertise into King's and looking forward to working with him in the interdisciplinary education and research community</blockquote><br>
+
+
 
 ***CUSP London Urban Lab partnership wins Royal Geographical Society award for Excellence in Local Government***
 
