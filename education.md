@@ -17,7 +17,7 @@ The programmes are:
 
 <blockquote>CUSP London at King’s College London is providing an essential opportunity to address city issues using big data through the study of Urban Informatics.<br>
 
-**Paul Hodgson, Greater London Authority**</blockquote>
+Paul Hodgson, Greater London Authority</blockquote>
 
 
 [MSc Urban Analytics and Visualisation](https://warwick.ac.uk/fac/cross_fac/cim/study/msc-urban-informatics-analytics/)  – hosted at University of Warwick
