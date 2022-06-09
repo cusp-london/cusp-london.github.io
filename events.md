@@ -12,7 +12,7 @@ title: Centre for Urban Science and Progress London (CUSP London)
 
 **CUSP London hosts regular events**, ranging from the CUSP London Seminar Series, PhD conferences, Data Dives, Insights and research group events to social CUSP Coffee Catchups, where our academics, students, partners and associates can drop in and meet up with each other (this is currently held online).  Please do [contact us](mailto:cusp-london@kcl.ac.uk) to join the CUSP London Interest mailing list for updates of all events.
 
-####**CUSP London Data Dive 2022 was a huge success!**<br>
+**CUSP London Data Dive 2022 was a huge success!**<br>
 
 ![DDGrp]({% link images/DDGrp.jpg %})
 
