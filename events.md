@@ -34,8 +34,10 @@ All our seminars are currently being held online, but we hope to resume face to 
 **To join our mailing list and receive details on how to attend these seminars, please contact
 [cusp-london@kcl.ac.uk](cuspmailto:cusp-london@kcl.ac.uk)**
 
-| Date | Speaker | Organisation | Recording |
-|New Seminar series beginning soon TBC||
+| Date | Speaker | Title | Recording |
+|-------|---------|-------------|-----------|
+|15th June 2022| Jim Webber|A Humane Ocerview of Knowledge Graphs and Graph Data Science||
+|30th June 2022|Arzu Cöltekin| TBC|
 
 
 **The 2021 CUSP London PhD Conference was a huge success!**<br>
