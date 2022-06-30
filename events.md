@@ -49,7 +49,7 @@ All our seminars are currently being held online, but we hope to resume face to 
 | Date | Speaker | Title | Recording |
 |-------|---------|-------------|-----------|
 |15th June 2022| Jim Webber|A Humane Overview of Knowledge Graphs and Graph Data Science||
-|30th June 2022|Arzu Cöltekin| TBC|
+|30th June 2022|Arzu Cöltekin|Rethinking our relationshipo with space: Modern forms of representation and spatial cognition|
 
 
 **The 2021 CUSP London PhD Conference was a huge success!**<br>
