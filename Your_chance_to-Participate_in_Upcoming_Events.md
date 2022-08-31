@@ -36,3 +36,4 @@ Q&A and Refreshments
 
 ## More Information
 [Contact us here.](./YouCanJoinUs.md)
+[Follow us on Twitter](https://twitter.com/cusplondon?lang=en)
