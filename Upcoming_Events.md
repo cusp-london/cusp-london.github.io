@@ -6,6 +6,8 @@ This event is over 2 days:
 
 Please Register on Eventbrite: https://www.eventbrite.co.uk/e/viztig-symposium-2022-tickets-396511164567
 
+![VizTIG.png](./assets/VizTIG.png)
+
 Tuesday 13th September 2022, 15:00-17:00 BST - Both on Campus at Bush House, or online.
 Keynote presentation: Visualization from Digital Humanities Perspective
 Introduced by Professor Stuart Dunn, Head of Digital Humanities, King's College London
@@ -32,7 +34,6 @@ Professor Cagatay Turkay, Warwick University UK
 
 Q&A and Refreshments
 
-![VizTIG.png](./assets/VizTIG.png)
 
 ## More Information
 [Contact us here.](./YouCanJoinUs.md)
