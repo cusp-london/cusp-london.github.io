@@ -42,3 +42,5 @@ Q&A and Refreshments
 <br>
 
 ![TwitterLogo.jpg](./assets/TwitterLogo.jpg)
+
+![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
