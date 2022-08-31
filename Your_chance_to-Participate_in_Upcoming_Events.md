@@ -3,7 +3,7 @@
 Our next event is The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.
 This event is over 2 days: 
 
-Please Register on Eventbrite: https://www.eventbrite.co.uk/e/viztig-symposium-2022-tickets-396511164567
+Please Register on [Eventbrite](https://www.eventbrite.co.uk/e/viztig-symposium-2022-tickets-396511164567)
 
 ![VizTIG.png](./assets/VizTIG.png)
 
