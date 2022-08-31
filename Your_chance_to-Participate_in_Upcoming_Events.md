@@ -1,4 +1,4 @@
-# Upcoming Events
+# Your Chance to Participate in Upcoming Events
 
 Our next event is The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.
 This event is over 2 days: 
