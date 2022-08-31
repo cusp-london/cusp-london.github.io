@@ -36,5 +36,7 @@ Q&A and Refreshments
 
 ## More Information
 [Contact us here.](./YouCanJoinUs.md)<br>
+
+
 [Follow us on Twitter](https://twitter.com/cusplondon?lang=en)
 ![TwitterLogo.jpg](./assets/TwitterLogo.jpg)
