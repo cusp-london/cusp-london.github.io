@@ -24,12 +24,12 @@ The Landscape of Visualization: Future Challenges, Professor Min Chen, Universit
 
 Q&A and Refreshment break
 
-Panel Session - "Priorities for Visualization Research in AI and Data Science"
-Chaired by Professor Oliver Davis, Bristol University UK
-Professor Klaus Meuller, NY Stonybrook
-Dr Alma Cantu, Newcastle University
-Dr Maria-Cruz Villa-Uriol, Sheffield University
-Professor Cagatay Turkay, Warwick University UK
+Panel Session - "Priorities for Visualization Research in AI and Data Science"<br>
+Chaired by Professor Oliver Davis, Bristol University UK <br>
+Professor Klaus Meuller, NY Stonybrook <br>
+Dr Alma Cantu, Newcastle University <br>
+Dr Maria-Cruz Villa-Uriol, Sheffield University <br>
+Professor Cagatay Turkay, Warwick University UK <br>
 
 Q&A and Refreshments
 
