@@ -8,7 +8,7 @@ Please Register on Eventbrite: https://www.eventbrite.co.uk/e/viztig-symposium-2
 
 ![VizTIG.png](./assets/VizTIG.png)
 
-Tuesday 13th September 2022, 15:00-17:00 BST - Both on Campus at Bush House, or online.
+*Tuesday 13th September 2022, 15:00-17:00 BST* - Both on Campus at Bush House, or online.
 Keynote presentation: Visualization from Digital Humanities Perspective
 Introduced by Professor Stuart Dunn, Head of Digital Humanities, King's College London
 
@@ -16,7 +16,7 @@ What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowle
 
 Q&A and Refreshments
 
-Wednesday 14th September 2022, 12:00-17:00 BST Lunch and networking followed by:
+*Wednesday 14th September 2022, 12:00-17:00 BST* Lunch and networking followed by:
 
 Keynote presentation: Visualization from a Science and Engineering Persepective
 Introduced by Professor Nicolas Holliman - Director of CUSP London
