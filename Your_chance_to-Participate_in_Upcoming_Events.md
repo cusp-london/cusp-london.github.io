@@ -39,4 +39,6 @@ Q&A and Refreshments
 
 
 [Follow us on Twitter](https://twitter.com/cusplondon?lang=en)
+<br>
+
 ![TwitterLogo.jpg](./assets/TwitterLogo.jpg)
