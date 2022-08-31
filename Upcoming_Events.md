@@ -32,8 +32,7 @@ Professor Cagatay Turkay, Warwick University UK
 
 Q&A and Refreshments
 
-
-
+![VizTIG.png](./assets/VizTIG.png)
 
 ## More Information
 [Contact us here.](./YouCanJoinUs.md)
