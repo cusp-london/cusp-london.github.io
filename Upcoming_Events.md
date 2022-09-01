@@ -33,7 +33,10 @@ Q&A and Refreshments
 |-----------------------|-----------------------|
 |6th October 2022|CUSP London Seminar Series begins|
 
-
+| Date | Event |
+|-----------------------|-----------------------|
+|12th October 2022|CUSP London Wis Seminar Series|
+|The strong and weak suits of state-of-the-art NLP 14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp)|
 
 
 | Date | Event |
