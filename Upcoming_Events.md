@@ -33,20 +33,17 @@ Q&A and Refreshments
 | :-------------------- | :- |
 |6th October 2022|CUSP London Seminar Series begins|
 
-
-| | | 
-| :-------------------- | :- |
 |12th October 2022|CUSP London Wis Seminar Series|
+| :-------------------- | :- |
 |Professor Janet Pierrehumbert|The strong and weak suits of state-of-the-art NLP 14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp)|
 
-| | |
-| :-------------------- | :- |
-|26th October 2022|CUSP London PhD Conference 12:30 - 17:30 BST |   
 
-| | |
+|26th October 2022|CUSP London PhD Conference 12:30 - 17:30 BST |  
 | :-------------------- | :- |
+
+
 |20th- 23rd February 2023|CUSP London Data Dive Event - Details To be Confirmed |                                        
-
+| :-------------------- | :- |
 
 ## More Information
 [Contact us here.](./YouCanJoinUs.md)<br>
