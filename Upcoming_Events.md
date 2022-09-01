@@ -33,6 +33,15 @@ Professor Cagatay Turkay, Warwick University UK <br>
 
 Q&A and Refreshments
 
+***
+
+26th October - CUSP London PhD Conference 12:30 - 17:30 BST - King's College London, Bush House and Online.
+
+***
+20th- 23rd February 2023 - CUSP London Data Dive
+
+***
+
 
 ## More Information
 [Contact us here.](./YouCanJoinUs.md)<br>
