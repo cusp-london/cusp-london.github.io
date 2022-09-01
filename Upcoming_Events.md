@@ -36,7 +36,7 @@ Q&A and Refreshments
 | Date | Event |
 |-----------------------|-----------------------|
 |12th October 2022|CUSP London Wis Seminar Series|
-|Professor Janet Pierrehumbert|The strong and weak suits of state-of-the-art NLP 14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp|
+|Professor Janet Pierrehumbert|The strong and weak suits of state-of-the-art NLP 14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp)|
 
 
 
