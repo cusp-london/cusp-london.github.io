@@ -29,18 +29,21 @@ Professor Cagatay Turkay, Warwick University UK<br>
 Q&A and Refreshments
 
 ***
--------
-|6th October 2022|           <b>CUSP London Seminar Series</b>| opens Tom Calver - Data Projects Editor at the Times and The Sunday Times|
-                              
-***
+| Date | Event |
+|-----------------------|------------|
+|6th October 2022|CUSP London Seminar Series begins -Tom Calver- Data Projects Editor at the Times and The Sunday Times|
 
-|26th October 2022|           <b>CUSP London PhD Conference 12:30 - 17:30 BST</b> - King's College London, Bush House and Online.|
-                            PhD's from 5 different universities are presenting their work plus Q&A sessions.
+
 
 ***
-|20th- 23rd February 2023|    <b>CUSP London Data Dive Event</b> - Details To Be Confirmed|
+| Date | Event |
+|-----------------------|------------|
+|26th October 2022|CUSP London PhD Conference 12:30 - 17:30 BST                                                         |
 
 ***
+| Date | Event |
+|-----------------------|------------|
+|20th- 23rd February 2023|CUSP London Data Dive Event - Details To be Confirmed                                         |
 
 
 ## More Information
