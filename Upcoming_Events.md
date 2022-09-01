@@ -29,7 +29,7 @@ Professor Cagatay Turkay, Warwick University UK<br>
 Q&A and Refreshments
 
 
-| Date  | Event |
+| Date ..... | Event |
 |-----------------------|-----------------------|
 |6th October 2022|CUSP London Seminar Series begins|
 |        |  |
