@@ -20,7 +20,7 @@ Keynote presentation: Visualization from a Science and Engineering Persepective
 Introduced by Professor Nicolas Holliman - Director of CUSP London
 
 The Landscape of Visualization: Future Challenges, Professor Min Chen, University of Oxford<br>
-Q&A and Refreshment break
+Q&A and Refreshments
 
 Panel Session - "Priorities for Visualization Research in AI and Data Science"<br>
 Chaired by Professor Oliver Davis, Bristol University UK <br>
