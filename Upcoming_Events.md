@@ -28,8 +28,8 @@ Professor Klaus Meuller, NY Stonybrook, Dr Alma Cantu, Newcastle University, Dr 
 Professor Cagatay Turkay, Warwick University UK<br>
 Q&A and Refreshments
 
-|<div style="width:290px">property</div>||
-| Date           | Event |
+
+| Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Event |
 |-----------------------|-----------------------|
 |6th October 2022|CUSP London Seminar Series begins|
 |            |  |
