@@ -11,7 +11,7 @@ Please Register on [Eventbrite](https://www.eventbrite.co.uk/e/viztig-symposium-
 Keynote presentation: Visualization from Digital Humanities Perspective
 Introduced by Professor Stuart Dunn, Head of Digital Humanities, King's College London
 
-What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production, Professor Lauren F. Klein, Emory University
+What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production, Professor Lauren F. Klein, Emory University<br>
 Q&A and Refreshments
 
 <b>Wednesday 14th September 2022, 12:00-17:00 BST</b> Lunch and networking followed by:
@@ -19,13 +19,13 @@ Q&A and Refreshments
 Keynote presentation: Visualization from a Science and Engineering Persepective
 Introduced by Professor Nicolas Holliman - Director of CUSP London
 
-The Landscape of Visualization: Future Challenges, Professor Min Chen, University of Oxford
+The Landscape of Visualization: Future Challenges, Professor Min Chen, University of Oxford<br>
 Q&A and Refreshment break
 
 Panel Session - "Priorities for Visualization Research in AI and Data Science"<br>
 Chaired by Professor Oliver Davis, Bristol University UK <br>
 Professor Klaus Meuller, NY Stonybrook, Dr Alma Cantu, Newcastle University, Dr Maria-Cruz Villa-Uriol, Sheffield University
-Professor Cagatay Turkay, Warwick University UK
+Professor Cagatay Turkay, Warwick University UK<br>
 Q&A and Refreshments
 
 ***
