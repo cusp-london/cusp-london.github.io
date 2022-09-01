@@ -32,6 +32,7 @@ Q&A and Refreshments
 | Date  | Event |
 | :------------------------------ | :- |
 |6th October 2022|CUSP London Seminar Series begins|
+| | |
 
 |12th October 2022|CUSP London Wis Seminar Series|
 | :------------------------------ | :- |
