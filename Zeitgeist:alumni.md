@@ -7,6 +7,9 @@ CUSP London have several alumni who have moved on to other ventures, however the
     <td> <img src="./assets/MarkKelinman.jpg" alt="2" width = 260px height = 260px> <div class="caption"> Mark Kleinman <br> CUSP London Academic </div> </td>
   </tr> 
   <tr>
+    <td> <img src="./assets/yijing.png" alt="1" width = 260px height = 260px > <div class="caption"> Yijing Li <br> (Deputy Director Skills & Knowledge) </div> </td>
+  </tr>
+</table>
   </tr>
 </table>
 
