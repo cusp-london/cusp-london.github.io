@@ -42,7 +42,7 @@ Q&A and Refreshments
 
 ## More Information
 
-<a href="https://twitter.com/cusplondon?lang=en"><img src="./assets/TwitterLogo.jpg" alt="Twitter" style="width:16px;height:16px;"></a>
+<a href="https://twitter.com/cusplondon?lang=en"><img src="./assets/TwitterLogo.jpg" alt="Twitter" style="width:20px;height:20px;"></a>
 [Follow us on Twitter](https://twitter.com/cusplondon?lang=en)
 
 [Contact us here.](./YouCanJoinUs.md)<br><br>
