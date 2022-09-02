@@ -42,8 +42,11 @@ Q&A and Refreshments
 
 ## More Information
 
-<a href="https://twitter.com/cusplondon?lang=en"><img src="./assets/Twitterblue.svg" alt="Twitter" style="width:20px;height:20px;"></a>
+<a href="https://twitter.com/cusplondon?lang=en"><img src="./assets/Twitterblue.svg" alt="Twitter" style="width:21px;height:21px;"></a>
 [Follow us on Twitter](https://twitter.com/cusplondon?lang=en)
+
+<a href="https://www.linkedin.com/company/centre-for-urban-science-and-progress-london-cusp-london-king-s-college-london/"><img src="./assets/LI-In-Bug.png" alt="Linked In" style="height:21px;"></a>
+[Follow us on LinkedIn](https://www.linkedin.com/company/centre-for-urban-science-and-progress-london-cusp-london-king-s-college-london/)
 
 [Contact us here.](./YouCanJoinUs.md)<br><br>
 
