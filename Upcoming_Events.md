@@ -41,12 +41,10 @@ Q&A and Refreshments
 | 20th- 23rd February 2023 | CUSP London Data Dive Event - Details To be Confirmed |                                        
 
 ## More Information
-[Contact us here.](./YouCanJoinUs.md)<br>
 
-
+<a href="https://twitter.com/cusplondon?lang=en"><img src="./assets/TwitterLogo.jpg" alt="Twitter" style="width:16px;height:16px;"></a>
 [Follow us on Twitter](https://twitter.com/cusplondon?lang=en)
-<br>
 
-![TwitterLogo.jpg](./assets/TwitterLogo.jpg)
+[Contact us here.](./YouCanJoinUs.md)<br><br>
 
 ![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
