@@ -24,7 +24,7 @@ Q&A and Refreshments
 
 Panel Session - "Priorities for Visualization Research in AI and Data Science"<br>
 Chaired by Professor Oliver Davis, Bristol University UK <br>
-Professor Klaus Meuller, NY Stonybrook, Dr Alma Cantu, Newcastle University, Dr Maria-Cruz Villa-Uriol, Sheffield University
+Professor Klaus Mueller, NY Stonybrook, Dr Alma Cantu, Newcastle University, Dr Maria-Cruz Villa-Uriol, Sheffield University
 Professor Cagatay Turkay, Warwick University UK<br>
 Q&A and Refreshments
 
