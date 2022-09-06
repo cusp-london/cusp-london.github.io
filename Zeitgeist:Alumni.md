@@ -11,7 +11,7 @@ CUSP London has alumni who have moved on to other ventures, however, they still 
   </tr>
 </table>
 
-| Name | Details |
+| Alumni Name | Details |
 |-----------------------|------------|
 |Simon Miles|[Link](https://www.kcl.ac.uk/people/simon-miles)|
 |Mark Kleinman|[Link](https://www.kcl.ac.uk/people/mark-kleinman)|
