@@ -1,6 +1,20 @@
 # Upcoming Events
 
-**Our next event is CUSP London PhD Conference 26th October 2022 12:30-17:30 King's College London - Bush House Central Block**
+**CUSP London Seminar Series - 6th October 2022 - Tom Calver: 
+
+**Title: Telling Stories with Data**
+
+Abstract:
+Tom Calver explains how to produce data projects from start to finish. The session will cover coming up with ideas, sourcing data, analysing it and adding the all-important human element. We'll also cover some of the best visual tools you can use to help bring stores to life.
+Bio:
+Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers. You can see some of his recent work at thetimes.co.uk/profile/tom-calver, or on twitter @TomHCalver
+
+**CUSP London Women In Science Seminar Series: Professor Janet Pierrehumbert - The strong and weak suits of state-of-the-art NLP** <br>
+14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp)
+
+
+
+**CUSP London PhD Conference 26th October 2022 12:30-17:30 King's College London - Bush House Central Block**
 
 
 ![Bowen3.jpg](./assets/Bowen3.jpg)
