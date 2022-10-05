@@ -1,6 +1,6 @@
 # Upcoming Events
 
-**CUSP London Seminar Series - 6th October 2022 - Tom Calver: 
+**CUSP London Seminar Series - 6th October 2022 - Tom Calver:**
 
 **Title: Telling Stories with Data**
 
