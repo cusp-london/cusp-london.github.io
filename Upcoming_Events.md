@@ -32,7 +32,7 @@ This is a wonderful opportunity to see if a PhD is something you would like to e
 
 
 | Date | Event |
-| :- | :- |
+| :- | :- |||
  
 | 20th- 23rd February 2023 | CUSP London Data Dive Event - Details To be Confirmed |    
 
