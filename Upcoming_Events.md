@@ -9,7 +9,7 @@ Tom Calver explains how to produce data projects from start to finish. The sessi
 Bio:
 Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers. You can see some of his recent work at thetimes.co.uk/profile/tom-calver, or on twitter @TomHCalver
 
-**CUSP London Women In Science Seminar Series: Professor Janet Pierrehumbert - The strong and weak suits of state-of-the-art NLP** <br>
+**CUSP London Women In Science Seminar Series 12th October 2022: Professor Janet Pierrehumbert - The strong and weak suits of state-of-the-art NLP** <br>
 14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp)
 
 
