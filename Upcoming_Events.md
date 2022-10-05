@@ -1,6 +1,25 @@
 # Upcoming Events
 
-Our next event is The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.
+**Our next event is CUSP London PhD Conference 26th October 12:30-17:30 King's College London - Bush House Central Block**
+
+
+![Bowen3.jpg](./assets/Bowen3.jpg)
+
+
+•	This is a wonderful opportunity to see if a PhD is something you would like to embark on and find out the best way to do this.
+•	We have PhDs from 6 universities: King’s, Warwick, UCL, Newcastle, Glasgow and LSHTM presenting their work for 10 minutes each plus a Q&A
+•	Each PhD is at a different stage of their studies, so it will be a great insight into what each part of the process involves.
+•	We will have refreshments and networking opportunities 
+•	All the presentations are varied to ensure an excellent overview.
+
+If you would like to attend, please email me at CUSP-London@kcl.ac.uk by 18th October 
+
+
+
+
+Past Events include: 
+
+The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.
 This event is over 2 days: 
 
 Please Register on [Eventbrite](https://www.eventbrite.co.uk/e/viztig-symposium-2022-tickets-396511164567)
