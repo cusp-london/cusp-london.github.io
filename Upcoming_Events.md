@@ -31,11 +31,6 @@ This is a wonderful opportunity to see if a PhD is something you would like to e
 
 
 
-| Date |                              Event| 
- 
-| 20th- 23rd February 2023 | CUSP London Data Dive Event - Details To be Confirmed |    
-
-
 Past Events include: 
 
 The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.
