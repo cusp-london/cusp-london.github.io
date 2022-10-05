@@ -5,7 +5,8 @@
 **Title: Telling Stories with Data**
 
 Abstract:
-Tom Calver explains how to produce data projects from start to finish. The session will cover coming up with ideas, sourcing data, analysing it and adding the all-important human element. We'll also cover some of the best visual tools you can use to help bring stores to life.
+Tom Calver explains how to produce data projects from start to finish. The session will cover coming up with ideas, sourcing data, analysing it and adding the all-important human element. We'll also cover some of the best visual tools you can use to help bring stores to life.<br>
+
 Bio:
 Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers. You can see some of his recent work at thetimes.co.uk/profile/tom-calver, or on twitter @TomHCalver
 
