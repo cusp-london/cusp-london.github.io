@@ -1,6 +1,6 @@
 # Upcoming Events
 
-**Our next event is CUSP London PhD Conference 26th October 12:30-17:30 King's College London - Bush House Central Block**
+**Our next event is CUSP London PhD Conference 26th October 2022 12:30-17:30 King's College London - Bush House Central Block**
 
 
 ![Bowen3.jpg](./assets/Bowen3.jpg)
@@ -12,7 +12,7 @@ This is a wonderful opportunity to see if a PhD is something you would like to e
 * We will have refreshments and networking opportunities <br>
 * All the presentations are varied to ensure an excellent overview.<br>
 
-If you would like to attend, please email me at CUSP-London@kcl.ac.uk by 18th October 
+If you would like to attend, please email me at CUSP-London@kcl.ac.uk by 18th October 2022.
 
 
 
