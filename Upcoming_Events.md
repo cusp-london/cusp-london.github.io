@@ -12,7 +12,7 @@ This is a wonderful opportunity to see if a PhD is something you would like to e
 * We will have refreshments and networking opportunities <br>
 * All the presentations are varied to ensure an excellent overview.<br>
 
-**If you would like to attend, please email me at CUSP-London@kcl.ac.uk by 18th October 2022.
+**If you would like to attend, please email me at CUSP-London@kcl.ac.uk by 18th October 2022.**
 
 
 
