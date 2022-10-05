@@ -14,6 +14,8 @@ This is a wonderful opportunity to see if a PhD is something you would like to e
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk by 18th October 2022.
 
+
+
 | Date | Event |
 | :- | :- |
 | 6th October 2022 | CUSP London Seminar Series begins |
