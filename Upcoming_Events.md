@@ -6,11 +6,11 @@
 ![Bowen3.jpg](./assets/Bowen3.jpg)
 
 
-•	This is a wonderful opportunity to see if a PhD is something you would like to embark on and find out the best way to do this.
-•	We have PhDs from 6 universities: King’s, Warwick, UCL, Newcastle, Glasgow and LSHTM presenting their work for 10 minutes each plus a Q&A
-•	Each PhD is at a different stage of their studies, so it will be a great insight into what each part of the process involves.
-•	We will have refreshments and networking opportunities 
-•	All the presentations are varied to ensure an excellent overview.
+This is a wonderful opportunity to see if a PhD is something you would like to embark on and find out the best way to do this.<br>
+* We have PhDs from 6 universities: King’s, Warwick, UCL, Newcastle, Glasgow and LSHTM presenting their work for 10 minutes each plus a Q&A<br>
+* Each PhD is at a different stage of their studies, so it will be a great insight into what each part of the process involves.<br>
+* We will have refreshments and networking opportunities <br>
+* All the presentations are varied to ensure an excellent overview.<br>
 
 If you would like to attend, please email me at CUSP-London@kcl.ac.uk by 18th October 
 
