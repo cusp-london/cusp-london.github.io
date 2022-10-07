@@ -1,14 +1,5 @@
 # Current Events
 
-**6th October 2022: CUSP London Seminar Series - Tom Calver:**
-
-**Title: Telling Stories with Data**
-
-Abstract:
-Tom Calver explains how to produce data projects from start to finish. The session will cover coming up with ideas, sourcing data, analysing it and adding the all-important human element. We'll also cover some of the best visual tools you can use to help bring stores to life.<br>
-
-Bio:
-Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers. You can see some of his recent work at thetimes.co.uk/profile/tom-calver, or on twitter @TomHCalver
 
 **12th October 2022: CUSP London Women In Science Seminar Series: Professor Janet Pierrehumbert - The strong and weak suits of state-of-the-art NLP** <br>
 14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp)
@@ -34,7 +25,18 @@ This is a wonderful opportunity to see if a PhD is something you would like to e
 
 Past Events include: 
 
-The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.
+**6th October 2022: CUSP London Seminar Series - Tom Calver:**
+
+**Title: Telling Stories with Data**
+
+Abstract:
+Tom Calver explains how to produce data projects from start to finish. The session will cover coming up with ideas, sourcing data, analysing it and adding the all-important human element. We'll also cover some of the best visual tools you can use to help bring stores to life.<br>
+
+Bio:
+Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers. You can see some of his recent work at thetimes.co.uk/profile/tom-calver, or on twitter @TomHCalver
+
+
+**The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.**
 This event is over 2 days: 
 
 Please Register on [Eventbrite](https://www.eventbrite.co.uk/e/viztig-symposium-2022-tickets-396511164567)
