@@ -1,4 +1,4 @@
-# Current Events
+# Upcoming Events
 
 
 **12th October 2022: CUSP London Women In Science Seminar Series: Professor Janet Pierrehumbert - The strong and weak suits of state-of-the-art NLP** <br>
