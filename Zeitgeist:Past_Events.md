@@ -11,7 +11,7 @@ Bio:
 Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers. You can see some of his recent work at thetimes.co.uk/profile/tom-calver, or on twitter @TomHCalver
 
 
-**The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.**
+**13th & 14th September 2022: The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.**
 This event is over 2 days: 
 
 Please Register on [Eventbrite](https://www.eventbrite.co.uk/e/viztig-symposium-2022-tickets-396511164567)
