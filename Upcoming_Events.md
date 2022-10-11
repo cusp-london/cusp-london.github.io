@@ -4,6 +4,13 @@
 **12th October 2022: CUSP London Women In Science Seminar Series: Professor Janet Pierrehumbert - The strong and weak suits of state-of-the-art NLP** <br>
 14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp)
 
+**13th October 2022**: CUSP London Seminar - Paul Dawson Mayors Office for Policing and Crime (MOPAC) <br>
+**Title:** Telling Stories with Data – Reflections from City Hall <br>
+**Abstract**: 
+In the lecture, Paul will introduce the work of his team (MOPAC Evidence and Insight) and drawing upon a range of analytic case studies he will illustrate the interface between data analysis and policy making – and how these can work together to make London safer.
+
+
+
 
 
 **26th October 2022: CUSP London PhD Conference  12:30-17:30 King's College London - Bush House Central Block**
