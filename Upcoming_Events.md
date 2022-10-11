@@ -9,7 +9,7 @@
 **Abstract**: 
 In the lecture, Paul will introduce the work of his team (MOPAC Evidence and Insight) and drawing upon a range of analytic case studies he will illustrate the interface between data analysis and policy making – and how these can work together to make London safer.<br>
 
-![PaulDawson](./assets/PaulDawson.jpg)
+![PaulDawson1](./assets/PaulDawson1.jpg)
 
 
 
