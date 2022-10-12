@@ -8,3 +8,8 @@ CUSP London has alumni who have moved on to other ventures, however, they still 
     <td><img src="./assets/MarkKleinman-resized.jpg" alt="Photo - Mark Kleinman" height="260px"> <br> Mark Kleinman <br> <a href="https://www.linkedin.com/in/markkleinman/">Prof. Public Policy</a></td>
   </tr>
 </table>
+
+## More Information
+[Contact us here.](./YouCanJoinUs.md)
+
+![CUSP London Logo](./assets/CUSPbanner_thin_03.png)
