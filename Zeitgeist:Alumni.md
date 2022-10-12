@@ -1,4 +1,4 @@
-# Zeitgeist:Alumni
+# Zeitgeist: Alumni
 
 CUSP London has alumni who have moved on to other ventures, however, they still remain members and continue to collaborate with us.
 
