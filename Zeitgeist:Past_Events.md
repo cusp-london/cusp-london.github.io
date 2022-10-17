@@ -1,6 +1,7 @@
 # Zeitgeist: Past Events
 
 
+
 **13th October 2022**: CUSP London Seminar - Paul Dawson Mayors Office for Policing and Crime (MOPAC) <br>
 **Title:** Telling Stories with Data – Reflections from City Hall <br>
 
