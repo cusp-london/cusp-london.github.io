@@ -1,15 +1,16 @@
 # Zeitgeist: Past Events
 
-**12th October 2022: CUSP London Women In Science Seminar Series: Professor Janet Pierrehumbert - The strong and weak suits of state-of-the-art NLP** <br>
-14:00 - 16:00 BST [Eventbrite](https://www.kcl.ac.uk/events/wis-seminar-series-the-strong-and-weak-suits-of-state-of-the-art-nlp)
 
 **13th October 2022**: CUSP London Seminar - Paul Dawson Mayors Office for Policing and Crime (MOPAC) <br>
 **Title:** Telling Stories with Data – Reflections from City Hall <br>
+
+**12th October 2022: CUSP London Women In Science Seminar Series: Professor Janet Pierrehumbert - The strong and weak suits of state-of-the-art NLP** <br>
 
 **6th October 2022: CUSP London Seminar Series - Tom Calver:**
 
 **Title: Telling Stories with Data**
 Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers.
+
 
 **13th & 14th September 2022: The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.**
 
