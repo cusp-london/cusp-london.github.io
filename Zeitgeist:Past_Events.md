@@ -9,7 +9,7 @@
 
 **6th October 2022: CUSP London Seminar Series - Tom Calver:**
 
-**Title: Telling Stories with Data**
+**Title: Telling Stories with Data**<br>
 Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers.
 
 ![VizTIG2](./assets/VizTIG2.png)
