@@ -12,6 +12,7 @@
 **Title: Telling Stories with Data**
 Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stories and investigations and is responsible for visual digital journalism across both papers.
 
+![VizTIG1](./assets/VizTIG1.png)
 
 **13th & 14th September 2022: The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.**
 
