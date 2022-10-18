@@ -28,7 +28,7 @@ CUSP London brings together a multi-disciplinary teams of academics, a group of 
 |Kalliopi Mylona|Mathematics|
 
 ## More Information
-
+ 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <th>
