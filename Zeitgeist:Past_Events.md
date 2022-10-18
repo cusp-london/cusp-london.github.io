@@ -14,7 +14,7 @@ Tom is Data Editor for the Times and The Sunday Times.  He writes data-led stori
 
 ![VizTIG2](./assets/vizTigLogo_02_wide.jpg)
 
-**13th & 14th September 2022: The Turing Visualization Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.**
+**13th & 14th September 2022: The Turing Visualization Interest Group Symposium hosted by CUSP London and the Turing Network Development Award - at King's College London.**
 
 Keynote presentation: Visualization from Digital Humanities Perspective
 Introduced by Professor Stuart Dunn, Head of Digital Humanities, King's College London
