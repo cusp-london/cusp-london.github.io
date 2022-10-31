@@ -13,8 +13,8 @@ Bio:
 Maria Teresa Ortoleva is an Italian artist based in London and represented by Luca Tommasi gallery in Milan. Her works articulates moments of interdisciplinary research, gallery exhibitions, site-specific and public commissions, as well as community engagement projects. In 2019/20 she started collaborating with Dr. Borgo as a King’s Artist in residence at KCL. Since 2020 she regularly works as a community artist for Westminster Council (WAES) and BWW Mind ’s project Portugal Prints engaging people in the community with lived experience of mental health difficulties.
 
 **17th November 2022  11am-12pm - Strand Campus, King's College London
-CUSP London Seminar Series - Telling Stories with Data** - <br>
-**Camilla Siggaard Andersen, Hassell Studio 
+CUSP London Seminar Series - Telling Stories with Data - <br>
+Camilla Siggaard Andersen, Hassell Studio 
 Title: Between Variables and Values.**
 
 **24th November 2022 11am-12pm - Strand Campus, King's College London <br>
