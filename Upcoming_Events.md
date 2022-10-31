@@ -23,7 +23,7 @@ Laura O'Rourke - Business Intelligence Manager, The British Red Cross**
 
 **1st December 2022 11am-12pm - Strand Campus, King's College London <br>
 CUSP London Seminar Series - Telling Stories with Data - <br>
-Dr Björn Sommer **
+Dr Björn Sommer**
 
 **8th December 2022 11am-12pm - Strand Campus, King's College London <br>
 CUSP London Seminar Series - Telling Stories with Data - <br>
