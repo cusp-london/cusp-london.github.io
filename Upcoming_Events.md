@@ -1,7 +1,8 @@
 # Upcoming Events
 
 **CUSP London Seminar Series: Telling Stories with Data
-Maria Teresa Ortoleva, an Italian artist based in London and represented by Luca Tommasi gallery in Milan.
+Maria Teresa Ortoleva, an Italian artist based in London and represented by Luca Tommasi gallery in Milan. <br>
+
 Title: Imaginative Thoughts as Brainwaves, Sculptures, and Installations**
 
 Abstract:
