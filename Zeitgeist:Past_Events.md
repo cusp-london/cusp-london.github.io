@@ -1,6 +1,7 @@
 # Zeitgeist: Past Events
 
-**26th October 2022: CUSP London PhD Conference  12:30-17:30 King's College London - Bush House Central Block**
+**26th October 2022: CUSP London PhD Conference  12:30-17:30 King's College London - Bush House Central Block** <br>
+
 This was a wonderful event which included 11 speakers from 5 universities: King's, Newcastle, Warwick, Glasgow, Edinburgh and LSHTM. The presenters were at different stages of their studies, and as such could provide identification, guidance, ideas and networking as well as pertinent questioning of the work presented.
 We will be hosting a PhD Conference again around the same time next year, please do let us know if you are interested in presenting! 
 
