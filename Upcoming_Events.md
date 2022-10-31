@@ -1,19 +1,17 @@
 # Upcoming Events
 
+CUSP London Seminar Series: Telling Stories with Data
+Maria Teresa Ortoleva, an Italian artist based in London and represented by Luca Tommasi gallery in Milan.
+Title: Imaginative Thoughts as Brainwaves, Sculptures, and Installations
 
-**26th October 2022: CUSP London PhD Conference  12:30-17:30 King's College London - Bush House Central Block**
+Abstract:
+Maria Teresa Ortoleva is a drawing and installation artist and a King’s Artist in residence collaborating with Dr. Borgo in the Dept. of informatics at KCL. Maria Teresa will talk about their project Mindscapes - Visualising Mental Health Landscapes and her experience as an artist working with EEG and the signature brainwaves that capture moments of imagination, such as reverie, remembrance, half-sleep and dream. Maria Teresa will relate her use of wearable EEG devices to aid people’s account of imaginative experience and her process of making art from the collected data. She will talk through her most recent artwork and installation projects, her interest in the process of physicalisation of data into sculptures and their dissemination into lived urban spaces and landscapes in the form of immersive installations and public art.
+
+Bio:
+Maria Teresa Ortoleva is an Italian artist based in London and represented by Luca Tommasi gallery in Milan. Her works articulates moments of interdisciplinary research, gallery exhibitions, site-specific and public commissions, as well as community engagement projects. In 2019/20 she started collaborating with Dr. Borgo as a King’s Artist in residence at KCL. Since 2020 she regularly works as a community artist for Westminster Council (WAES) and BWW Mind ’s project Portugal Prints engaging people in the community with lived experience of mental health difficulties.
 
 
-![Bowen3.jpg](./assets/Bowen3.jpg)
-
-
-This is a wonderful opportunity to see if a PhD is something you would like to embark on and find out the best way to do this.<br>
-* We have PhDs from 6 universities: King’s, Warwick, UCL, Newcastle, Glasgow and LSHTM presenting their work for 10 minutes each plus Q&A<br>
-* Each PhD is at a different stage of their studies, so it will be a great insight into what each part of the process involves.<br>
-* We will have refreshments and networking opportunities <br>
-* All the presentations are varied to ensure an excellent overview.<br>
-
-**If you would like to attend, please email me at CUSP-London@kcl.ac.uk by 18th October 2022.**
+**If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
                                      
 
 ## More Information
