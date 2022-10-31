@@ -1,8 +1,8 @@
 # Upcoming Events
 
-CUSP London Seminar Series: Telling Stories with Data
+**CUSP London Seminar Series: Telling Stories with Data
 Maria Teresa Ortoleva, an Italian artist based in London and represented by Luca Tommasi gallery in Milan.
-Title: Imaginative Thoughts as Brainwaves, Sculptures, and Installations
+Title: Imaginative Thoughts as Brainwaves, Sculptures, and Installations**
 
 Abstract:
 Maria Teresa Ortoleva is a drawing and installation artist and a King’s Artist in residence collaborating with Dr. Borgo in the Dept. of informatics at KCL. Maria Teresa will talk about their project Mindscapes - Visualising Mental Health Landscapes and her experience as an artist working with EEG and the signature brainwaves that capture moments of imagination, such as reverie, remembrance, half-sleep and dream. Maria Teresa will relate her use of wearable EEG devices to aid people’s account of imaginative experience and her process of making art from the collected data. She will talk through her most recent artwork and installation projects, her interest in the process of physicalisation of data into sculptures and their dissemination into lived urban spaces and landscapes in the form of immersive installations and public art.
