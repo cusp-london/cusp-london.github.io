@@ -21,6 +21,15 @@ Title: Between Variables and Values.**
 CUSP London Seminar Series - Telling Stories with Data - <br>
 Laura O'Rourke - Business Intelligence Manager, The British Red Cross**
 
+**1st December 2022 11am-12pm - Strand Campus, King's College London <br>
+CUSP London Seminar Series - Telling Stories with Data - <br>
+Dr Björn Sommer **
+
+**8th December 2022 11am-12pm - Strand Campus, King's College London <br>
+CUSP London Seminar Series - Telling Stories with Data - <br>
+Mike Brondbjerg**
+Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall
+
 
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
