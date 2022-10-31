@@ -4,7 +4,7 @@
 CUSP London Seminar Series: Telling Stories with Data - 
 Maria Teresa Ortoleva, an Italian artist based in London and represented by Luca Tommasi gallery in Milan. <br>**
 
-**Title: Imaginative Thoughts as Brainwaves, Sculptures, and Installations****
+**Title: Imaginative Thoughts as Brainwaves, Sculptures, and Installations**
 
 Abstract:
 Maria Teresa Ortoleva is a drawing and installation artist and a King’s Artist in residence collaborating with Dr. Borgo in the Dept. of informatics at KCL. Maria Teresa will talk about their project Mindscapes - Visualising Mental Health Landscapes and her experience as an artist working with EEG and the signature brainwaves that capture moments of imagination, such as reverie, remembrance, half-sleep and dream. Maria Teresa will relate her use of wearable EEG devices to aid people’s account of imaginative experience and her process of making art from the collected data. She will talk through her most recent artwork and installation projects, her interest in the process of physicalisation of data into sculptures and their dissemination into lived urban spaces and landscapes in the form of immersive installations and public art.
@@ -12,12 +12,12 @@ Maria Teresa Ortoleva is a drawing and installation artist and a King’s Artist
 Bio:
 Maria Teresa Ortoleva is an Italian artist based in London and represented by Luca Tommasi gallery in Milan. Her works articulates moments of interdisciplinary research, gallery exhibitions, site-specific and public commissions, as well as community engagement projects. In 2019/20 she started collaborating with Dr. Borgo as a King’s Artist in residence at KCL. Since 2020 she regularly works as a community artist for Westminster Council (WAES) and BWW Mind ’s project Portugal Prints engaging people in the community with lived experience of mental health difficulties.
 
-****17th November 2022  11am-12pm - Strand Campus, King's College London
-CUSP London Seminar Series - Telling Stories with Data - <br>
-Camilla Siggaard Andersen, Hassell Studio 
+**17th November 2022  11am-12pm - Strand Campus, King's College London
+CUSP London Seminar Series - Telling Stories with Data** - <br>
+**Camilla Siggaard Andersen, Hassell Studio 
 Title: Between Variables and Values.**
 
-****24th November 2022 11am-12pm - Strand Campus, King's College London <br>
+**24th November 2022 11am-12pm - Strand Campus, King's College London <br>
 CUSP London Seminar Series - Telling Stories with Data - <br>
 Laura O'Rourke - Business Intelligence Manager, The British Red Cross**
 
