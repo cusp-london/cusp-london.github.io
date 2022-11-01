@@ -7,9 +7,9 @@
 |-----------|----------|----------|----------|
 |10th Nov 2022 11am-12pm|Maria Teresa Ortoleva|Imaginative Thoughts as Brainwaves, Sculptures, and Installations|
 |17th Nov 2022 11am-12pm|Camilla Siggaard Andersen|Between Variables and Values|
-|24th Nov 2022 11am-12pm|Laura O'Rourke|TBC - British Red Cross|
-|1st Dec 2022|11am-12pm|Dr Björn Sommer| TBC|
-|8th Dec 2022|11am012pm!Mike Brondbjerg|Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|
+|24th Nov 2022 11am-12pm|Laura O'Rourke|TBC |
+|1st Dec 2022 11am-12pm|Dr Björn Sommer|TBC |
+|8th Dec 2022 11am-12pm|Mike Brondbjerg|TBC|
 
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
