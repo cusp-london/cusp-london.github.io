@@ -1,7 +1,7 @@
 # Upcoming Events
 
 **CUSP London Seminar Series - Telling Stories with Data** 
-
+--------------------------------
 **|Date|Speaker|Title|Watch recording here|**
 |-----------|----------|----------|----------|
 |10th Nov 2022 11am-12pm|Maria Teresa Ortoleva|Imaginative Thoughts as Brainwaves, Sculptures, and Installations|
