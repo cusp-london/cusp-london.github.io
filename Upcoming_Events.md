@@ -1,5 +1,10 @@
 # Upcoming Events
 
+------------
+|Date|Speaker|Title|Watch recording here|
+
+
+
 **10th November 2022 11am-12pm - Strand Campus, King's College London <br>
 CUSP London Seminar Series: Telling Stories with Data - 
 Maria Teresa Ortoleva, an Italian artist based in London and represented by Luca Tommasi gallery in Milan. <br>**
