@@ -6,7 +6,7 @@
 This was a wonderful event which included 11 speakers from 5 universities: King's, Newcastle, Warwick, Glasgow, Edinburgh and LSHTM. The presenters were at different stages of their studies, and as such could provide identification, guidance, ideas and networking as well as pertinent questioning of the work presented.
 We will be hosting a PhD Conference again around the same time next year, please do let us know if you are interested in presenting! 
 
-<blockquote> A really useful and enjoyable conference! This was my first time at CUSP. It was a great chance to network with PhD students from across the country and meet professional people in visualization. Thanks for organizing! I look forward to next year
+<blockquote> A really useful and enjoyable conference! This was my first time at CUSP. It was a great chance to network with PhD students from across the country and meet professional people in visualization. Thanks for organizing! I look forward to next year<br>
  Aljawharah </blockquote>
 
 
