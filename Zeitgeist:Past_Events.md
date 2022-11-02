@@ -7,7 +7,7 @@ This was a wonderful event which included 11 speakers from 5 universities: King'
 We will be hosting a PhD Conference again around the same time next year, please do let us know if you are interested in presenting! 
 
 <blockquote> A really useful and enjoyable conference! This was my first time at CUSP. It was a great chance to network with PhD students from across the country and meet professional people in visualization. Thanks for organizing! I look forward to next year </blockquote>
-Aljawharah 
+                                                                                                                                                    Aljawharah 
 
 
 **13th October 2022**: CUSP London Seminar - Paul Dawson Mayors Office for Policing and Crime (MOPAC) <br>
