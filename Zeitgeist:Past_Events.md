@@ -1,10 +1,14 @@
 # Zeitgeist: Past Events
 
 
-**26th October 2022: CUSP London PhD Conference  12:30-17:30 King's College London - Bush House Central Block** <br>
+**26th October 2022: CUSP London PhD Conference  12:30-17:30 King's College London - Bush House** <br>
 
 This was a wonderful event which included 11 speakers from 5 universities: King's, Newcastle, Warwick, Glasgow, Edinburgh and LSHTM. The presenters were at different stages of their studies, and as such could provide identification, guidance, ideas and networking as well as pertinent questioning of the work presented.
 We will be hosting a PhD Conference again around the same time next year, please do let us know if you are interested in presenting! 
+
+<blockquote> A really useful and enjoyable conference! This was my first time at CUSP. It was a great chance to network with PhD students from across the country and meet professional people in visualization. Thanks for organizing! I look forward to next year </blockquote>
+Aljawharah 
+
 
 **13th October 2022**: CUSP London Seminar - Paul Dawson Mayors Office for Policing and Crime (MOPAC) <br>
 **Title:** Telling Stories with Data – Reflections from City Hall <br>
