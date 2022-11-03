@@ -1,6 +1,6 @@
 # Zeitgeist: Past Events
 
-![PhDConf20222](./assets/PhDConf20222.png)
+![PhDConf20221](./assets/PhDConf20221.png)
 
 **26th October 2022: CUSP London PhD Conference  12:30-17:30 King's College London - Bush House** <br>
 
