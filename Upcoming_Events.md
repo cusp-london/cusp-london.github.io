@@ -6,7 +6,6 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-| 10th Nov 2022 11am-12pm | Maria Teresa Ortoleva | Imaginative Thoughts as Brainwaves, Sculptures, and Installations | |
 | 17th Nov 2022 11am-12pm | Camilla Siggaard Andersen | Between Variables and Values | |
 | 24th Nov 2022 11am-12pm | Laura O'Rourke | TBC | |
 | 1st Dec 2022 11am-12pm | Dr Björn Sommer | TBC | |
