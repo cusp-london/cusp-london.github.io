@@ -2,6 +2,9 @@
 
 **CUSP London Seminar Series - Telling Stories with Data** 
 
+![PhDConf3](./assets/PhDConf3.png) <br>
+
+
 --------------------------------
 
 | Date        | Speaker    | Title      | Watch recording here |
