@@ -1,5 +1,13 @@
 # Zeitgeist: Past Events
 
+--------------------------------
+
+| Date        | Speaker    | Title      | Watch recording here |
+| ----------- | ---------- | ---------- | ---------- |
+| 10th Nov 2022 11am-12pm | Maria Teresa Ortoleva | Imaginative Thoughts as Brainwaves, Sculptures, and Installations | |
+
+
+
 ![PhDConf3](./assets/PhDConf3.png)
 
 **26th October 2022: CUSP London PhD Conference  12:30-17:30 King's College London - Bush House** <br>
