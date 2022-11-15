@@ -10,7 +10,7 @@
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
 | 17th Nov 2022 11am-12pm | Camilla Siggaard Andersen | Between Variables and Values | |
-| 24th Nov 2022 11am-12pm | Laura O'Rourke | TBC | |
+| 24th Nov 2022 11am-12pm | Laura O'Rourke | Supporting Ukrainians in the UK: A Data Story | |
 | 1st Dec 2022 11am-12pm | Dr Björn Sommer | TBC | |
 | 8th Dec 2022 11am-12pm | Mike Brondbjerg | TBC | |
 
