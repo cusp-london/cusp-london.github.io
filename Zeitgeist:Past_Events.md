@@ -4,6 +4,7 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
+| 17th Nov 2022 11am-12pm | Camilla Siggaard Andersen | Between Variables and Values | |
 | 10th Nov 2022 11am-12pm | Maria Teresa Ortoleva | Imaginative Thoughts as Brainwaves, Sculptures, and Installations | |<br>
 
 
