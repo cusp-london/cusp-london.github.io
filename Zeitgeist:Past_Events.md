@@ -4,6 +4,8 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
+| 24th Nov 2022 11am-12pm | Laura O'Rourke | Supporting Ukrainians in the UK: A Data Story | |
+| 1st Dec 2022 11am-12pm | Dr Björn Sommer |From Virtual Reality to Immersive Analytics to Metaverse  | |
 | 17th Nov 2022 11am-12pm | Camilla Siggaard Andersen | Between Variables and Values | |
 | 10th Nov 2022 11am-12pm | Maria Teresa Ortoleva | Imaginative Thoughts as Brainwaves, Sculptures, and Installations | |<br>
 
