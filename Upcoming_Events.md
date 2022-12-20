@@ -9,9 +9,9 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-
-| 8th Dec 2022 11am-12pm | Mike Brondbjerg | TBC | |
-
+|26th Jan 2023 2pm-3pm |Mike Brondbjerg |Data Visualisation in London’s City Intelligence Unit (Projects, Process & Tools) | |
+|21st-24th Feb 2023 9am-5pm| CUSP London Data Dive Event - Invitation only - please contact us for details|Health Analytics||
+|16th Mar 2023 2pm-3pm |Anne Steele & Jennifer Bing |Data Visualisation TBC | |
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
                                      
