@@ -9,7 +9,7 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|26th Jan 2023 2pm-3pm |Mike Brondbjerg |Data Visualisation in London’s City Intelligence Unit (Projects, Process & Tools) |[Mike Brondbjerg Seminar](https://media.kcl.ac.uk/media/CUSP+London+Seminar+-+Mike+Brondbjerg+-+_+Data+Visualisation+in+London%E2%80%99s+City+Intelligence+Unit+%28Projects%2C+Process+%26+Tools%29-20230126_140452-Meeting+Recording/1_768tqoex) |
+
 |21st-24th Feb 2023 9am-5pm| CUSP London Data Dive Event - Invitation only - please contact us for details|Health Analytics||
 |16th Mar 2023 2pm-3pm |Anne Steele & Jennifer Bing |Data Visualisation TBC ||
 
