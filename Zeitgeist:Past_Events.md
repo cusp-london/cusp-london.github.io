@@ -13,7 +13,7 @@
 | 10th Nov 2022 11am-12pm | Maria Teresa Ortoleva | Imaginative Thoughts as Brainwaves, Sculptures, and Installations | |<br>
 
 
-![Reportpic](./assets/Reportpic.png)
+![Reportpic](./assets/Reportpic.jpg)
 **CUSP London Data Dive - 21st-24th February 2023 - Mental Health Analytics**
 This was a Live hybrid event across 4 time zones - Australia, Singapore, USA and UK with 70 UG & PG students in 11 groups guided by 8 expert mentors.
 Scenario and Data Sources: A Visual Analytics exploration of Mental health Data Correlations.  Data included PHE, NHS, ONS,OS, Friends of the Earth, UK& USA.
