@@ -22,7 +22,7 @@ Teams & Mentors from KCL, UCL, Glasgow, NYU and Curtin University.<br>
 **We were joined by several of our external partners:
 AccuCities 3D City Models, NHS NE London ICB, Ansell & Bailey Architects, Helix Data Innovation and WSP.**
 
-<blockquote>One of the highlights for me was witnessing first-hand how participants were able to transfer their data science skills into a detailed and compelling presentation on urban mental health within just three days. The content was informative and engaging........I would highly recommend this event to anyone interested in data science and seeing how it can be applied to real-world challenges.
+<blockquote>One of the highlights for me was witnessing first-hand how participants were able to transfer their data science skills into a detailed and compelling presentation on urban mental health within just three days. The content was informative and engaging........I would highly recommend this event to anyone interested in data science and seeing how it can be applied to real-world challenges.<br>
 Student participant </blockquote>
 
 
