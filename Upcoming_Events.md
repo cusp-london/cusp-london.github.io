@@ -9,8 +9,8 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|21st-24th Feb 2023 9am-5pm| CUSP London Data Dive Event - Invitation only - please contact us for details|Health Analytics||
-|16th Mar 2023 2pm-3pm |Anne Steele & Jennifer Bing |Data Visualisation TBC ||
+|22nd April 2023 9am-5pm| SatRdays - A day of R - please contact us for details|
+
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
                                      
