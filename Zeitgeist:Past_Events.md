@@ -18,7 +18,7 @@
 This was a Live hybrid event across 4 time zones - Australia, Singapore, USA and UK with 70 UG & PG students in 11 groups guided by 8 expert mentors.<br>
 
 Scenario and Data Sources: A Visual Analytics exploration of Mental health Data Correlations.<br>
-Teams & Mentors from KCL, UCL, Glasgow, NYU and Curtin University.
+Teams & Mentors from KCL, UCL, Glasgow, NYU and Curtin University.<br>
 **We were joined by several of our external partners:
 AccuCities 3D City Models,NHS NE London ICB, Ansell & Bailey Architects, Helix Data Innovation and WSP.**
 
