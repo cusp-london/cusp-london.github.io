@@ -15,7 +15,7 @@
 
 ![Reportpic](./assets/Reportpic.jpg)
 **CUSP London Data Dive - 21st-24th February 2023 - Mental Health Analytics** <br>
-This was a Live hybrid event across 4 time zones - Australia, Singapore, USA and UK with 70 UG & PG students in 11 groups guided by 8 expert mentors.<br>
+This was an amazing Live hybrid event across 4 time zones - Australia, Singapore, USA and UK with 70 UG & PG students in 11 groups guided by 8 expert mentors.<br>
 
 Scenario and Data Sources: A Visual Analytics exploration of Mental health Data Correlations.<br>
 Teams & Mentors from KCL, UCL, Glasgow, NYU and Curtin University.<br>
