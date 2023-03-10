@@ -6,7 +6,9 @@
 | ----------- | ---------- | ---------- | ---------- |
 |21st-24th Feb 2023| CUSP London Data Dive - Dr Jayati Das-Munshi|Mental Health Analytics|[Dr Jayati Das-Munshi](https://media.kcl.ac.uk/media/CUSP+London+Data+Dive+Event+2023-+Mental+Health+Analytics-Dr+Jayati+Das+Munshi/1_fe5igd8p)|  
 24th Feb 2023|CUSP London Data Dive|Student Presentations|[Student Presentations](https://media.kcl.ac.uk/media/CUSP+London+Data+Dive+Event+-+Mental+Health+Analytics-11+Group+Presentations/1_l9kkve7i)||
+|24th Feb 2023| CUSP London Data Dive| Student presentations and awards|[Awards](https://media.kcl.ac.uk/media/CUSP+London+Data+Dive+Event+-+Mental+Health+Analytics-Final+Awards/1_j7lz519d)||
 |26th Jan 2023 2pm-3pm |Mike Brondbjerg |Data Visualisation in London’s City Intelligence Unit (Projects, Process & Tools) |[Mike Brondbjerg Seminar](https://media.kcl.ac.uk/media/CUSP+London+Seminar+-+Mike+Brondbjerg+-+_+Data+Visualisation+in+London%E2%80%99s+City+Intelligence+Unit+%28Projects%2C+Process+%26+Tools%29-20230126_140452-Meeting+Recording/1_768tqoex) |
+
 | 24th Nov 2022 11am-12pm | Laura O'Rourke | Supporting Ukrainians in the UK: A Data Story | |
 | 1st Dec 2022 11am-12pm | Dr Björn Sommer |From Virtual Reality to Immersive Analytics to Metaverse  | |
 | 17th Nov 2022 11am-12pm | Camilla Siggaard Andersen | Between Variables and Values | |
