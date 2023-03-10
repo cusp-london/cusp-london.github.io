@@ -17,10 +17,10 @@
 **CUSP London Data Dive - 21st-24th February 2023 - Mental Health Analytics** <br>
 This was an amazing Live hybrid event across 4 time zones - Australia, Singapore, USA and UK with 70 UG & PG students in 11 groups guided by 8 expert mentors.<br>
 
-Scenario and Data Sources: A Visual Analytics exploration of Mental health Data Correlations.<br>
+**Scenario and Data Sources:** A Visual Analytics exploration of Mental health Data Correlations.<br>
 Teams & Mentors from KCL, UCL, Glasgow, NYU and Curtin University.<br>
 **We were joined by several of our external partners:
-AccuCities 3D City Models,NHS NE London ICB, Ansell & Bailey Architects, Helix Data Innovation and WSP.**
+AccuCities 3D City Models, NHS NE London ICB, Ansell & Bailey Architects, Helix Data Innovation and WSP.**
 
 >One of the highlights for me was witnessing first-hand how participants were able to transfer their data science skills into a detailed and compelling presentation on urban mental health within just three days. The content was informative and engaging........I would highly recommend this event to anyone interested in data science and seeing how it can be applied to real-world challenges./>
 
