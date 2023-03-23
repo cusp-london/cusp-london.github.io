@@ -9,8 +9,8 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|22nd April 2023 9am-5pm| SatRdays - A day of R - please contact us for details|
-|Early July 2023 TBC|London Data Week Event||
+|22nd Apr 2023 09:00-17:00| SatRdays - A day of R - please contact us for details|
+|Early Jul 2023 TBC|London Data Week Event||
 |Sept 2023 TBC|VizTig Symposium|||
 
 
