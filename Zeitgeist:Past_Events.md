@@ -10,7 +10,7 @@
 |26th Jan 2023 2pm-3pm |Mike Brondbjerg |Data Visualisation in London’s City Intelligence Unit (Projects, Process & Tools) |[Mike Brondbjerg Seminar](https://media.kcl.ac.uk/media/CUSP+London+Seminar+-+Mike+Brondbjerg+-+_+Data+Visualisation+in+London%E2%80%99s+City+Intelligence+Unit+%28Projects%2C+Process+%26+Tools%29-20230126_140452-Meeting+Recording/1_768tqoex) |
 | 24th Nov 2022 11am-12pm | Laura O'Rourke | Supporting Ukrainians in the UK: A Data Story | |
 | 1st Dec 2022 11am-12pm | Dr Björn Sommer |From Virtual Reality to Immersive Analytics to Metaverse  |[Björn Sommer Seminar](https://media.kcl.ac.uk/media/cusp-london-seminar-bjorn-sommer-1-dec-2022/1_e619x1my)|
-| 17th Nov 2022 11am-12pm | Camilla Siggaard Andersen | Between Variables and Values | |
+| 17th Nov 2022 11am-12pm | Camilla Siggaard Andersen | Between Variables and Values |[Camilla Siggaard Andersen Seminar] (https://media.kcl.ac.uk/media/cusp-london-seminar-camilla-siggaard-andersen-17-nov-2022/1_374fpg4j)|
 | 10th Nov 2022 11am-12pm | Maria Teresa Ortoleva | Imaginative Thoughts as Brainwaves, Sculptures, and Installations |[Maria Teresa Ortelova Seminar](https://media.kcl.ac.uk/media/cusp-london-seminar-maria-teresa-ortoleva-10-nov-2022/1_1pqlox3e) |<br>
 
 
