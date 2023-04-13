@@ -12,7 +12,7 @@
 | 1st Dec 2022 11am-12pm | Dr Björn Sommer |From Virtual Reality to Immersive Analytics to Metaverse  |[Björn Sommer Seminar](https://media.kcl.ac.uk/media/cusp-london-seminar-bjorn-sommer-1-dec-2022/1_e619x1my)|
 | 17th Nov 2022 11am-12pm | Camilla Siggaard Andersen | Between Variables and Values |[Camilla Siggaard Andersen Seminar](https://media.kcl.ac.uk/media/cusp-london-seminar-camilla-siggaard-andersen-17-nov-2022/1_374fpg4j)|
 | 10th Nov 2022 11am-12pm | Maria Teresa Ortoleva | Imaginative Thoughts as Brainwaves, Sculptures, and Installations |[Maria Teresa Ortelova Seminar](https://media.kcl.ac.uk/media/cusp-london-seminar-maria-teresa-ortoleva-10-nov-2022/1_1pqlox3e) |<br>
-
+|13th Oct 2022 11am-12pm|Dr Paul Dawson|Reflections from City Hall|{Dr Paul Dawson](https://media.kcl.ac.uk/media/cusp-london-seminar-paul-dawson_TellingStoriesWithData-ReflectionsFromCityHall-13-Oct-2022+%281%29/1_bpuozdar)|
 
 ![DD23banner](./assets/DD23banner.png) <br>
 
