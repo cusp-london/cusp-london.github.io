@@ -9,7 +9,6 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|------|-------|---------|
 |4th Jul 2023 TBC|London Data Week Event|3D Urban Models: Applications & Digital Twins|
 |14th Sept 2023 TBC|VizTig Symposium|||
 
