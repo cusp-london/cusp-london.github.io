@@ -9,9 +9,9 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|22nd Apr 2023 09:00-17:00| SatRdays - A day of R - please contact us for details|
-|Early Jul 2023 TBC|London Data Week Event||
-|Sept 2023 TBC|VizTig Symposium|||
+
+|4th Jul 2023 TBC|London Data Week Event|3D Urban Models: Applications & Digital Twins|
+|14th Sept 2023 TBC|VizTig Symposium|||
 
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
