@@ -4,7 +4,7 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|4th Jul 2023 TBC|London Data Week Event|3D Urban Models: Applications & Digital Twins|[Binyu Lei & Filip Biljecki, Hector Menendez Benito(https://media.kcl.ac.uk/media/CUSP+London+-+3D+Urban+Models_+Applications+%26+Digital+Twins+-+London+Data+Week+Event-20230704_111022-Meeting+Recording/1_b664ccrp)||
+|4th Jul 2023 TBC|London Data Week Event|3D Urban Models: Applications & Digital Twins|[Binyu Lei & Filip Biljecki, Hector Menendez Benito](https://media.kcl.ac.uk/media/CUSP+London+-+3D+Urban+Models_+Applications+%26+Digital+Twins+-+London+Data+Week+Event-20230704_111022-Meeting+Recording/1_b664ccrp)||
 |12th/13th Jun|09:00-17:00| CUSP London Hosting a Visit by CUSP NYU|N/A
 |22nd Apr 2023| 09:00-17:00| SatRdays - A day of R  with special guest speakers|
 |21st-24th Feb 2023| CUSP London Data Dive - Dr Jayati Das-Munshi|Mental Health Analytics|[Dr Jayati Das-Munshi](https://media.kcl.ac.uk/media/CUSP+London+Data+Dive+Event+2023-+Mental+Health+Analytics-Dr+Jayati+Das+Munshi/1_fe5igd8p)|  
