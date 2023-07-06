@@ -9,7 +9,6 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-
 |14th Sept 2023 TBC|VizTig Symposium|||
 
 
