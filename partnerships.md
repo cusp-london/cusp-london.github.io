@@ -1,14 +1,13 @@
 # Partnerships and Engagement
 
-![CUSP London Westminster Group](./assets/westminster.jpg)
-*Group photo taken in 2018 at the official signing of the Statement of Intent between CUSP London and Westminster City Council.* 
+![Engagement](./assets/Engagement2023.jpg)
 
 Engagement with external partners is central to CUSP London activities, this provides real world context for research projects, supports placements, leads to employment opportunities and delivers value to our partners including access to the latest digital skills.
 <br>
 
-> "One of the big wins from working with CUSP London, was that we got the Data Strategy arranged and open data is now in our City for All Strategy, which is a big culture change for us, really important."
+> "As Nokia, we cherish our partnership with CSP, where cutting-edge technology meets brilliant minds, fostering co-creation, innovation, and a cuture of transformative ideas.  Together, we shape the fugture of connectivity, revolutionizing how people experience and interact with technology in the cities of tomorrow"
 
-*Dr Sophie Johnson, Deputy Chief Analyst, Westminster City Council*
+*Dr Daniele Quercia, Nokia Bell Labs*
 <br>
 
 > "The MSc Urban Informatics at CUSP London has helped me launch my career in the UK. The course covered advanced Data Science tools and techniques but just as quickly provided real opportunities to use them, working with real-world data in Projects and research... 
