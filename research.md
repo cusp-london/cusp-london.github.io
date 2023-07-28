@@ -14,7 +14,8 @@ We are investigating the use of 3D Digital Twins to engage and inform everyone a
 ![CUSP London tracker](./assets/Page3-2.png)
 
 A visual book tracker following changes over space and time in historic books.  The provenance of information and guarantees of its quality are increasingly hard to track with the rise of AI text generation.
-
+<br>
+<br>
 
 **2022 research:**
 Inherently multidisciplinary research has led CUSP London to become involved in a diverse range of projects during the last few years. 
