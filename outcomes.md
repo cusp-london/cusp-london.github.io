@@ -3,9 +3,9 @@
 
 <table>
   <tr>
-    <td> <img src="./assets/jali.jpg" alt="Jali Packer" > </td>
+    <td> <img src="./assets/Page6-1-a.png" alt="Page6-1-a.png" > </td>
     <td> 
-      CUSP London generates many forms of output, both traditional academic work and broader engagements with external partners. 
+      CUSP London generates many forms of output, both traditional academic work pilot software tools (eg Vizent) in engagements with our partners across the city and the world. 
     </td>
    </tr> 
   
