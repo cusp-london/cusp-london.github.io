@@ -10,9 +10,9 @@
    </tr> 
   
    <tr>
-    <td> <img src="./assets/academicPaper.png" alt="Academic Publication" > </td>
+    <td> <img src="./assets/Page6-2.png" alt="Page6-2.png" > </td>
     <td> 
-      Academic outputs including journal articles and research grants from EPSRC, The Turing Institute, Research England and others.
+      Academic outputs including journal articles and research grants from EPSRC, The Turing Institute, Research England and other funders.
     </td>
    </tr> 
   
