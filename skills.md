@@ -5,7 +5,7 @@ A highlight of the CUSP London year is the annual Data Dive, a week long event b
 
 Team members joined live and virtually from the UK, New York, Perth in Australia and Singapore, with challenge questions set by staff from the King's Institute of Psychiatry, Psychology and Neuroscience.
 
-![CUSP London Data Dive 2022](./assets/DataDive2022sml.jpg)
+![Pg4-1](./assets/Pg4-1.jpg)
 *Loved the event, met a lot of students from other universities and learnt a lot. Data Dive 2022* 
 
 ## More Information
