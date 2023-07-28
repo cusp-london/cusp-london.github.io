@@ -16,6 +16,8 @@ A CUSP placement at global consulting firm WSP provided me the connections which
 *Raphael Canty, 2020–21 alumnus, now employed at WSP in London*
 <br>
 
+CUSP London hosts the Autumn PhD Conference with internal and external participants from across the UK.
+
 ## More Information
 
 <table border="0" cellspacing="0" cellpadding="0">
