@@ -9,7 +9,7 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|14th Sept 2023 TBC|VizTig Symposium|||
+|14th Sept 2023 11:00-16:00|VizTig Symposium|Bush House Central Block Lec Theatre 1||
 
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
