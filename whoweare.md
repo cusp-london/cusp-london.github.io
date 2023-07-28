@@ -34,7 +34,6 @@ CUSP London brings together a multi-disciplinary teams of academics, a group of 
 |Andrew Meso|Institute of Psychiatry, Psychology and Neuroscience|
 Jayati Das-Munshi|Institute of Psychiatry, Psychology and Neuroscience|
 |Kalliopi Mylona|Mathematics|
-
 |Simon Miles - Founding Director|Alumni|
 |Mark Kleinman|Alumni|
 
