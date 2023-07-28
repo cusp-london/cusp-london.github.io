@@ -10,7 +10,7 @@
 |22nd Apr 2023 09:00-17:00| SatRdays - A day of R  with special guest speakers|What is "Production" anyway? MLOps for the curious| [Julia Silge](https://media.kcl.ac.uk/media/What+is+%E2%80%9Cproduction%E2%80%9D+anywayF+MLOps+for+the+curious+-+Julia+Silge/1_rfkzgnlh)||
 |22nd Apr 2023 09:00-17:00|SatRdays - a day of R with special guest speakers|Why R is good for Journalism|[Oliver Hawkins](https://media.kcl.ac.uk/media/Why+R+is+good+for+Journalism+-+Oliver+Hawkins/1_e74zejxk)|
 |22nd Apr 2023 09:00-17:00|SatRdays - a day of R with special guest speakers|AutRmatic Reporting:billions of internet measurements, hundreds of reports and one repository to rule them all|[Botan Agin & Michael Stevens](https://media.kcl.ac.uk/media/AutRmatic+ReportingA+billions+of+internet+measurements%2C+hundreds+of+reports+and+one+repository+to+rule+them+all/1_37iqgxhe)|
-|22nd Apr 2023 09:00-17:00|SatRdays - a day of R with special guest speakers|[Andrew Collier](https://media.kcl.ac.uk/media/Dark+Corners+of+the+Tidyverse/1_dvdwx32l)|
+|22nd Apr 2023 09:00-17:00|SatRdays - a day of R with special guest speakers|Dark Corners of the Tidyverse|[Andrew Collier](https://media.kcl.ac.uk/media/Dark+Corners+of+the+Tidyverse/1_dvdwx32l)|
 |22nd Apr 2023 09:00-17:00|SatRdays - a day of R with special guest speakers|
 |22nd Apr 2023 09:00-17:00|SatRdays - a day of R with special guest speakers|
 |21st-24th Feb 2023| CUSP London Data Dive - Dr Jayati Das-Munshi|Mental Health Analytics|[Dr Jayati Das-Munshi](https://media.kcl.ac.uk/media/CUSP+London+Data+Dive+Event+2023-+Mental+Health+Analytics-Dr+Jayati+Das+Munshi/1_fe5igd8p)|  
