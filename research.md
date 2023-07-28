@@ -6,6 +6,8 @@ How do we know visual representations are understood universally?
 
 We are investigating the use of 3D Digital Twins to engage and inform everyone about their urban environment and how it changes.
 
+
+
 ![CUSP London tracker](./assets/Page3-2.png)
 
 A visual book tracker following changes over space and time in historic books.  The provenance of information and guarantees of its quality are increasingly hard to track with the rise of AI text generation.
