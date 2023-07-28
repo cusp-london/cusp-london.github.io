@@ -8,6 +8,8 @@
 |4th Jul 2023 TBC|London Data Week Event|3D Urban Models: Applications & Digital Twins|[Gabriele Salciute Civilene & Andriy Hryvnyak, Peter Baudains, Rym M'Hallah, Nicolas Holliman, Sandor Petroczi](https://media.kcl.ac.uk/media/CUSP+London+-+3D+Urban+Models_+Applications+%26+Digital+Twins+-+London+Data+Week+Event-20230704_133506-Meeting+Recording/1_onup8k13)||
 |12th/13th Jun 09:00-17:00| CUSP London Hosting a Visit by CUSP NYU|N/A
 |22nd Apr 2023 09:00-17:00| SatRdays - A day of R  with special guest speakers|What is "Production" anyway? MLOps for the curious| [Julia Silge](https://media.kcl.ac.uk/media/What+is+%E2%80%9Cproduction%E2%80%9D+anywayF+MLOps+for+the+curious+-+Julia+Silge/1_rfkzgnlh)||
+|22nd Apr 2023 09:00-17:00|SatRdays - a day of R with special guest speakers|Why R is good for Journalism|[Oliver Hawkins](https://media.kcl.ac.uk/media/Why+R+is+good+for+Journalism+-+Oliver+Hawkins/1_e74zejxk)|
+|22nd Apr 2023 09:00-17:00|SatRdays - a day of R with special guest speakers|
 |21st-24th Feb 2023| CUSP London Data Dive - Dr Jayati Das-Munshi|Mental Health Analytics|[Dr Jayati Das-Munshi](https://media.kcl.ac.uk/media/CUSP+London+Data+Dive+Event+2023-+Mental+Health+Analytics-Dr+Jayati+Das+Munshi/1_fe5igd8p)|  
 24th Feb 2023|CUSP London Data Dive|Student Presentations|[Student Presentations](https://media.kcl.ac.uk/media/CUSP+London+Data+Dive+Event+-+Mental+Health+Analytics-11+Group+Presentations/1_l9kkve7i)||
 |24th Feb 2023| CUSP London Data Dive| Student presentations and awards|[Awards](https://media.kcl.ac.uk/media/CUSP+London+Data+Dive+Event+-+Mental+Health+Analytics-Final+Awards/1_j7lz519d)||
