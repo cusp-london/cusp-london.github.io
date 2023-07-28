@@ -24,7 +24,7 @@ Skills and knowledge transfer for our partners.  Including the Data Dive, on-sit
    </tr> 
   
    <tr>
-    <td> <img src="./assets/Page6-4.png" alt="Page6-4.png" > </td>
+    <td> <img src="./assets/Page6-4.jpeg" alt="Page6-4.jpeg" > </td>
     <td> 
       Multidisciplinary engagement with eternal partners, eg via the new EPSRC Digital Health Hub at King's.
     </td>
