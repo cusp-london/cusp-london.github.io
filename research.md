@@ -17,7 +17,8 @@ A visual book tracker following changes over space and time in historic books.  
 <br>
 <br>
 
-**2022 research:**
+**2022 research:** <br>
+
 Inherently multidisciplinary research has led CUSP London to become involved in a diverse range of projects during the last few years. 
 Not surprisingly a number of these projects related to COVID-19 and its impact around the world, as academics from all disciplines worked to contribute to understanding and resisting  the pandemic.
 
