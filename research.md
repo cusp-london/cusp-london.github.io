@@ -1,7 +1,10 @@
 # Interdisciplinary Research
 
-How do we know the origins and accuracy of information?
-How do we know visual representations are understood universally?
+
+How do we know the origins and accuracy of information?<br>
+
+How do we know visual representations are understood universally?<br>
+
 ![CUSP London 3D](./assets/Page3-1.PNG)
 
 We are investigating the use of 3D Digital Twins to engage and inform everyone about their urban environment and how it changes.
@@ -13,7 +16,7 @@ We are investigating the use of 3D Digital Twins to engage and inform everyone a
 A visual book tracker following changes over space and time in historic books.  The provenance of information and guarantees of its quality are increasingly hard to track with the rise of AI text generation.
 
 
-2022 research:
+**2022 research:**
 Inherently multidisciplinary research has led CUSP London to become involved in a diverse range of projects during the last few years. 
 Not surprisingly a number of these projects related to COVID-19 and its impact around the world, as academics from all disciplines worked to contribute to understanding and resisting  the pandemic.
 
