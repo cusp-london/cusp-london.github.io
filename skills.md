@@ -1,7 +1,9 @@
 # Skills and Knowledge
 
 CUSP London founded the King’s MSc in Urban Informatics which attracts students internationally who work on projects with external partners including consulting companies, local government and the emergency services. Moving forward we are opening these opportunities to students across all Informatics programmes.
-A highlight of the CUSP London year is the annual Data Dive, a week long event bringing together Trans-Atlantic students and mentors to experience working in teams on real-world data challenges. The 2022 challenges included emergency planning, stop and search and Covid-19.
+A highlight of the CUSP London year is the annual Data Dive, a week long event bringing together Trans-Atlantic students and mentors to experience working in teams on real-world data challenges. The 2023 challenges included Mental Health data and its relation to urban factors.
+
+Team members joined live and virtually from the UK, New York, Perth in Australia and Singapore, with challenge questions set by staff from the King's Institute of Psychiatry, Psychology and Neuroscience.
 
 ![CUSP London Data Dive 2022](./assets/DataDive2022sml.jpg)
 *Loved the event, met a lot of students from other universities and learnt a lot. Data Dive 2022* 
