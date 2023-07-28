@@ -17,16 +17,16 @@
    </tr> 
   
    <tr>
-    <td> <img src="./assets/skillsKT.png" alt="Skill Development" > </td>
+    <td> <img src="./assets/Page6-3.jpg" alt="Page6-3.jpg" > </td>
     <td> 
-Skills and knowledge transfer, enhancing the student experience and co-developing new skillsets guided by 29 CUSP London Associates.
+Skills and knowledge transfer for our partners.  Including the Data Dive, on-site one-day courses, free online training courses and consultancy.
     </td>
    </tr> 
   
    <tr>
-    <td> <img src="./assets/strand.png" alt="External partnerships" > </td>
+    <td> <img src="./assets/Page6-4.png" alt="Page6-4.png" > </td>
     <td> 
-      Multidisciplinary engagement with twenty external partners, eg the Strand-Aldwych redevelopment project.
+      Multidisciplinary engagement with eternal partners, eg via the new EPSRC Digital Health Hub at King's.
     </td>
    </tr> 
   
