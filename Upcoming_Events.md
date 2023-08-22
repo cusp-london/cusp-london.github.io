@@ -10,13 +10,13 @@
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
 |14th Sept 2023 11:00-16:00|VizTig Symposium|Bush House Central Block Lec Theatre 1||
-|02 Oct 2023 13:00-14:00|Tom Calver - Data Projects Editor Times & Sunday Times|
-|12th Oct 2023 13:00-14:00|Paul Dawson - Head of Evience & Insight Mayors Office for Policing & Crime London (MOPAC)|TBC|
-|19th Oct 2023 13:00:14:00|Gabriel Diaz Cantareira - King's College London (KCL)|TBC|
-|09th Nov 2023 13:00-14:00|Maria Teresa Ortoleva - Artist in Residence KCL|TBC|
-|23rd Nov 2023 13:00-14:00|Laura O'Rourke - Business Intelligence Manager, & Matt Thomas Head of Strategic Insight & Foresight The British Red Cross|TBC|
-|30th Nov 2023 13:00-14:00|Bjorn Sommer - Royal College of Art|TBC|
-|07th Dec 2023 13:00-14:00|Mike Brondbjerg - Data Visualization & Information Desigh Lead, City Intelligence Unit, London City Hall|TBC|
+|02 Oct 2023  13:00-14:00|Tom Calver - Data Projects Editor Times & Sunday Times|
+|12th Oct 2023  13:00-14:00|Paul Dawson - Head of Evience & Insight Mayors Office for Policing & Crime London (MOPAC)|TBC|
+|19th Oct 2023  13:00:14:00|Gabriel Diaz Cantareira - King's College London (KCL)|TBC|
+|09th Nov 2023  13:00-14:00|Maria Teresa Ortoleva - Artist in Residence KCL|TBC|
+|23rd Nov 2023  13:00-14:00|Laura O'Rourke - Business Intelligence Manager, & Matt Thomas Head of Strategic Insight & Foresight The British Red Cross|TBC|
+|30th Nov 2023  13:00-14:00|Bjorn Sommer - Royal College of Art|TBC|
+|07th Dec 2023  13:00-14:00|Mike Brondbjerg - Data Visualization & Information Desigh Lead, City Intelligence Unit, London City Hall|TBC|
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
                                      
