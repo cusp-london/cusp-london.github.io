@@ -1,4 +1,4 @@
-MAria# Upcoming Events
+# Upcoming Events
 
 **CUSP London Seminar Series - Telling Stories with Data** 
 
