@@ -10,7 +10,7 @@
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
 |14th Sept 2023 11:00-16:00|VizTig Symposium|Bush House Central Block Lec Theatre 1||
-|05th Oct 2023  13:00-14:00|Tom Calver - Data Projects Editor Times & Sunday Times|
+|05th Oct 2023  13:00-14:00|Tom Calver - Data Projects Editor Times & Sunday Times|Telling Stories with Data|
 |12th Oct 2023  13:00-14:00|Paul Dawson - Head of Evience & Insight Mayors Office for Policing & Crime London (MOPAC)|TBC|
 |19th Oct 2023  13:00:14:00|Bjorn Sommer - Royal College of Art|TBC|
 |09th Nov 2023  13:00-14:00|Camilla Siggaard Andersen, Hassell Studio|Between variables and values|
