@@ -2,7 +2,7 @@
 
 -------------------------------- 
 
-| Date        | Speaker    | Title      | Watch recording here |
+| Date        | Event    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
 |14th Sept 2023 11:00-16:00|VizTig Symposium|Welcome, Indtroduction to CUSP London & Partnership talks|Nick Holliman, Shane Conneely & Patty Holley| (https://media.kcl.ac.uk/media/t/1_vvwgtzvy#:~:text=https%3A//media.kcl.ac.uk/media/VizTig%2BSymposium%2Bhosted%2Bby%2BCUSP%2BLondon%2B14th%2BSept%2B2023%2B/1_vvwgtzvy)| 
 |4th Jul 2023 TBC|London Data Week Event|3D Urban Models: Applications & Digital Twins|[Binyu Lei & Filip Biljecki, Hector Menendez Benito](https://media.kcl.ac.uk/media/CUSP+London+-+3D+Urban+Models_+Applications+%26+Digital+Twins+-+London+Data+Week+Event-20230704_111022-Meeting+Recording/1_b664ccrp)||
