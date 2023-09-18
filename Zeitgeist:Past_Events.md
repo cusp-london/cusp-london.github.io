@@ -11,7 +11,7 @@
 |14th Sept 2023|#VizTIG Symposium|Charting the way to Truth: Automated fact-checking with chart images|[Mubashara Akhtar](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London+-+Mubashara+Akhtar+/1_lnkl0zty)||
 |14th Sept 2023|#VizTIG Symposium|Responsible by (AI) Design|[Marios Constantinides](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London+-+Marios+Constantinides/1_fhxii3wx)||
 |14th Sept 2023|#VizTIG Symposium|Jane Jacobs in the Sky|[Sanja Šćepanović-Stojanović & Edyta Bogucka](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London-/1_apqaoifc)||
-|14th Sept 2023|#VizTIG Symposium|Open challenges for large language models for data insights and Visualization: A discussion around a real-life use case|[Alpay Sabuncuoglu](
+|14th Sept 2023|#VizTIG Symposium|Open challenges for large language models for data insights and Visualization: A discussion around a real-life use case|[Alpay Sabuncuoglu](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London+-+Alpay+Sabuncuoglu/1_shcpmp7p)||
 |14th Sept 2023|#VizTIG Symposium|Vizent: A Python library for visual entropy glyphs and node-link diagrams|[Peter Baudains](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London-Peter+Baudains/1_0enk30qg)||
 |14th Sept 2023|#VizTIG Symposium|Learning to Chart the High Dimensions|[Alex Telea](
 |4th Jul 2023|London Data Week Event|3D Urban Models: Applications & Digital Twins|[Binyu Lei & Filip Biljecki, Hector Menendez Benito](https://media.kcl.ac.uk/media/CUSP+London+-+3D+Urban+Models_+Applications+%26+Digital+Twins+-+London+Data+Week+Event-20230704_111022-Meeting+Recording/1_b664ccrp)||
