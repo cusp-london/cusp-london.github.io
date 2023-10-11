@@ -3,7 +3,7 @@
 -------------------------------- 
 
 | Date        | Event    | Title      | Watch recording here |
-| ----------- | ---------- | ---------- | ---------- |
+| ------------- | ---------- | ---------- | ---------- |
 |05th Oct 2023  13:00-14:00|Tom Calver - Data Projects Editor Times & Sunday Times|Telling Stories with Data||
 |14th Sept 2023 11:20-16:15|#VizTig Symposium|Welcome, Introduction to CUSP London & Partnership talks|[Nick Holliman, Shane Conneely, Patty Holley](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London+14th+Sept+2023+/1_vvwgtzvy)|| 
 |14th Sept 2023|#VizTIG Symposium|Using set visualization to investigate diagnostic persistence in hospital health records for autism parents|[Roy Ruddle](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London+Roy+Ruddle/1_funewjc2)||
