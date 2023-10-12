@@ -1,9 +1,8 @@
 # Interdisciplinary Research
 
+How do we know visual representations are understood universally?<br>
 
 How do we know the origins and accuracy of information?<br>
-
-How do we know visual representations are understood universally?<br>
 
 ![CUSP London 3D](./assets/Page3-1.PNG)
 
