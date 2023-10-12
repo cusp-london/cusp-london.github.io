@@ -16,10 +16,6 @@ A CUSP placement at global consulting firm WSP provided me the connections which
 *Raphael Canty, 2020–21 alumnus, first employed by WSP in London and now with TfL*
 <br>
 
-Among the wide range of tools used during the year at CUSP London is the Wolfram Research Mathematica software, using this we produce weekly updates on the UK electricity fuel use statistics using data from our partners at National Grid ESO.
-
-[![Engagement](./assets/NGESO_mathematica.png)]([http://google.com.au/](https://www.wolframcloud.com/obj/binocularity/Published/fuelMix-1.nb))
-
 CUSP London hosts an Autumn PhD Conference with both internal King's participants and participants from collaborators across the UK.
 
 ## More Information
