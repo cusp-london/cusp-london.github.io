@@ -9,7 +9,7 @@ CUSP London brings together a multi-disciplinary teams of academics, a group of 
   </tr> 
   <tr>
     <td> <img src="./assets/yijing.png" alt="1" width = 260px height = 260px > <div class="caption"> Yijing Li <br> Deputy Director Skills & Knowledge </div> </td>
-    <td> <img src="./assets/Page7_Peter.jpg" alt="1" width = 260px height = 260px > <div class="caption"> Peter Baudains <br> Research Software Engineer </div> </td>
+    <td> <img src="./assets/peter.jpg" alt="1" width = 260px height = 260px > <div class="caption"> Peter Baudains <br> Research Software Engineer </div> </td>
   </tr>
 </table>
 
