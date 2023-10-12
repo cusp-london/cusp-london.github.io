@@ -5,7 +5,7 @@
 Engagement with external partners is central to CUSP London activities, this provides real world context for research projects, supports placements, leads to employment opportunities and delivers value to our partners including access to the latest digital skills.
 <br>
 
-> "As Nokia, we cherish our partnership with CSP, where cutting-edge technology meets brilliant minds, fostering co-creation, innovation, and a cuture of transformative ideas.  Together, we shape the fugture of connectivity, revolutionizing how people experience and interact with technology in the cities of tomorrow"
+> "As Nokia, we cherish our partnership with CUSP, where cutting-edge technology meets brilliant minds, fostering co-creation, innovation, and a cuture of transformative ideas.  Together, we shape the future of connectivity, revolutionizing how people experience and interact with technology in the cities of tomorrow"
 
 *Dr Daniele Quercia, Nokia Bell Labs*
 <br>
