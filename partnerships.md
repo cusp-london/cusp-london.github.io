@@ -18,6 +18,10 @@ A CUSP placement at global consulting firm WSP provided me the connections which
 
 CUSP London hosts an Autumn PhD Conference with both internal King's participants and participants from collaborators across the UK.
 
+Among the wide range of tools used during the year at CUSP London is the Wolfram Research Mathematica software, using this we produce weekly updates on the UK electricity fuel use statistics using data from our partners at National Grid ESO.
+
+![Engagement](./assets/NGESO_mathematica.png)
+
 ## More Information
 
 <table border="0" cellspacing="0" cellpadding="0">
