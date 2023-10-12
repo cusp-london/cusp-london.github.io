@@ -5,14 +5,13 @@ A highlight of the CUSP London year is the annual Data Dive, a week long event b
 
 Team members joined live and virtually from the UK, New York, Perth in Australia and Singapore, with challenge questions set by staff from the King's Institute of Psychiatry, Psychology and Neuroscience.
 
-![DataDive2023](./assets/Page4-1.jpg)
-*Loved the event, met a lot of students from other universities and learnt a lot. Data Dive 2022* 
+![Data Dive 2023](./assets/Page4-1.jpg)
+*"Loved the event, met a lot of students from other universities and learnt a lot."* Data Dive 2022 
 <br>
 <br>
 Among the range of advanced tools used during the year at CUSP London is the Wolfram Research Mathematica software, using Mathematica we produce weekly updates on the UK electricity generation fuel type statistics from our partners at National Grid ESO. These visualizations provide easy insights into the different soures of electrical power in the UK, including the routine use of Gas as a balancing fuel whenever the Wind reduces.
 
-[![Engagement](./assets/NGESO_mathematica.png)](https://www.wolframcloud.com/obj/binocularity/Published/fuelMix-1.nb)
-[<img src="./assets/NGESO_mathematica.png">](https://www.wolframcloud.com/obj/binocularity/Published/fuelMix-1.nb)
+[![UK Electricty Generation by Fuel Type](./assets/NGESO_mathematica.png)](https://www.wolframcloud.com/obj/binocularity/Published/fuelMix-1.nb)
 
 <br>
 <br>
