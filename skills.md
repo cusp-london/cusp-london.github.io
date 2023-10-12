@@ -7,6 +7,14 @@ Team members joined live and virtually from the UK, New York, Perth in Australia
 
 ![DataDive2023](./assets/Page4-1.jpg)
 *Loved the event, met a lot of students from other universities and learnt a lot. Data Dive 2022* 
+<br>
+<br>
+Among the wide range of tools used during the year at CUSP London is the Wolfram Research Mathematica software, using this we produce weekly updates on the UK electricity fuel use statistics using data from our partners at National Grid ESO.
+
+[![Engagement](./assets/NGESO_mathematica.png)]([http://google.com.au/](https://www.wolframcloud.com/obj/binocularity/Published/fuelMix-1.nb))
+
+<br>
+<br>
 
 ## More Information
 
