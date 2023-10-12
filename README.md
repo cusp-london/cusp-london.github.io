@@ -6,7 +6,7 @@ Our mission is to support interdisciplinary research and innovation using Data S
 
 ![CUSP London Logo](./assets/Page1-1.jpeg)
 
-You can find information about our activities in the attached links.
+You can find information about our activities in the links to the left.
 
 ## More information
 
