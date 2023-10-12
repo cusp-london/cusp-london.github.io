@@ -13,7 +13,7 @@ Engagement with external partners is central to CUSP London activities, this pro
 > "The MSc Urban Informatics at CUSP London has helped me launch my career in the UK. The course covered advanced Data Science tools and techniques but just as quickly provided real opportunities to use them, working with real-world data in Projects and research... 
 A CUSP placement at global consulting firm WSP provided me the connections which gave me my first full-time work in London"
 
-*Raphael Canty, 2020–21 alumnus, now employed at WSP in London*
+*Raphael Canty, 2020–21 alumnus, first employed at WSP in London and now with TfL*
 <br>
 
 CUSP London hosts the Autumn PhD Conference with internal and external participants from across the UK.
