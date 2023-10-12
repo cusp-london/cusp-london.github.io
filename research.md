@@ -4,7 +4,8 @@ How do we know visual representations are understood universally?<br>
 ![CUSP London 3D](./assets/Page3-1.PNG)
 
 We are investigating the use of 3D Digital Twins to engage and inform everyone about their urban environment and how it changes.
-
+<br>
+<br>
 
 How do we know the origins and accuracy of information?<br>
 ![CUSP London tracker](./assets/Page3-2.png)
