@@ -9,7 +9,6 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|19th Oct 2023  13:00:14:00|Bjorn Sommer - Royal College of Art|Exploring the Oceans from a Design Perspective|
 |09th Nov 2023  13:00-14:00|Camilla Siggaard Andersen, Hassell Studio|Between variables and values|
 |16th Nov 2023  13:00-14:00|Maria Teresa Ortoleva - Artist in Residence KCL|TBC|
 |23rd Nov 2023  13:00-14:00|Laura O'Rourke - Business Intelligence Manager, & Matt Thomas Head of Strategic Insight & Foresight The British Red Cross|TBC|
