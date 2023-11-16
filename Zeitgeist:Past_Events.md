@@ -4,8 +4,8 @@
 
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- 
-|09th Nov 2023  13:00-14:00|Camilla Siggaard Andersen, Hassell Studio|Between variables and values|
 |16th Nov 2023  13:00-14:00|Maria Teresa Ortoleva - Artist in Residence KCL|TBC||
+|09th Nov 2023  13:00-14:00|Camilla Siggaard Andersen, Hassell Studio|Between variables and values|
 |1st Nov 2023 12:00-16:30|CUSP London PhD Conference|13 speakers Presented their work||
 |19th Oct 2023  13:00-14:00|Bjorn Sommer - Royal College of Art|Exploring the Oceans from a Design Perspective|
 |12th Oct 2023  13:00-14:00|Paul Dawson - Head of Evience & Insight Mayors Office for Policing & Crime London (MOPAC)|Telling Stories with Data – Reflections from City Hall||
