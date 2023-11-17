@@ -11,7 +11,7 @@
 | ----------- | ---------- | ---------- | ---------- |
 |23rd Nov 2023  13:00-14:00|Laura O'Rourke - Business Intelligence Manager, & Matt Thomas Head of Strategic Insight & Foresight The British Red Cross|TBC|
 |30th Nov 2023  13:00-14:00|Gabriel Diaz Cantareira - King's College London (KCL)|TBC|
-|07th Dec 2023  13:00-14:00|Mike Brondbjerg - Data Visualization & Information Desigh Lead, City Intelligence Unit, London City Hall|TBC|
+|07th Dec 2023  13:00-14:00|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|TBC|
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
                                      
