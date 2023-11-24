@@ -4,6 +4,7 @@
 
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- 
+|23rd Nov 2023  14:00-15:00|Matt Thomas Head of Strategic Insight & Foresight & Mathura Kugan, Senior Policy Data Analyst-The British Red Cross|Data stories to counter misinformation about refugees in the UK|
 |16th Nov 2023  13:00-14:00|Maria Teresa Ortoleva - Artist in Residence KCL|Mindscapes - Visualising the mind with sculptures and installation art ||
 |09th Nov 2023  13:00-14:00|Camilla Siggaard Andersen, Hassell Studio|Between variables and values|
 |1st Nov 2023 12:00-16:30|CUSP London PhD Conference|13 speakers Presented their work||
