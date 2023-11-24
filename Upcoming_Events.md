@@ -9,8 +9,7 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|23rd Nov 2023  14:00-15:00|Matt Thomas Head of Strategic Insight & Foresight & Mathura Kugan, Senior Policy Data Analyst-The British Red Cross|Data stories to counter misinformation about refugees in the UK|
-|30th Nov 2023  14:00-15:00|Gabriel Diaz Cantareira - King's College London (KCL)|TBC|
+|30th Nov 2023  14:00-15:00|Gabriel Diaz Cantareira - King's College London (KCL)|Applied Visualization Research: A guide for application-focused research in Information Visualization and Visual Analytics|
 |07th Dec 2023  14:00-15:00|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|TBC|
 
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
