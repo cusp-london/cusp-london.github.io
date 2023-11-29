@@ -9,10 +9,9 @@
 
 | Date        | Speaker    | Title      | Watch recording here |
 | ----------- | ---------- | ---------- | ---------- |
-|20th-23rd Feb 2024|CUSP London Data Dive - 4 day Event|By Invitation|
 |30th Nov 2023  14:00-15:00|Gabriel Diaz Cantareira - King's College London (KCL)|Applied Visualization Research: A guide for application-focused research in Information Visualization and Visual Analytics|
 |07th Dec 2023  14:00-15:00|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|Data Visualisation in London’s City Intelligence Unit|
-
+|20th-23rd Feb 2024|CUSP London Data Dive - 4 day Event|By Invitation|
 **If you would like to attend, please email me at CUSP-London@kcl.ac.uk**
                                      
 
