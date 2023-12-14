@@ -3,7 +3,9 @@
 -------------------------------- 
 
 | Date        | Event    | Title      | Watch recording here |
-| ------------- | ---------- | ---------- | ---------- 
+| ------------- | ---------- | ---------- | ---------- |
+|07th Dec 2023  14:00-15:00|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|Data Visualisation in London’s City Intelligence Unit|
+|30th Nov 2023  14:00-15:00|Gabriel Diaz Cantareira - King's College London (KCL)|Applied Visualization Research: A guide for application-focused research in Information Visualization and Visual Analytics|
 |23rd Nov 2023  14:00-15:00|Matt Thomas Head of Strategic Insight & Foresight & Mathura Kugan, Senior Policy Data Analyst-The British Red Cross|Data stories to counter misinformation about refugees in the UK|
 |16th Nov 2023  13:00-14:00|Maria Teresa Ortoleva - Artist in Residence KCL|Mindscapes - Visualising the mind with sculptures and installation art ||
 |09th Nov 2023  13:00-14:00|Camilla Siggaard Andersen, Hassell Studio|Between variables and values|
