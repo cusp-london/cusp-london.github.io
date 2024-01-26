@@ -12,7 +12,7 @@
 |1st Nov 2023 12:00-16:30|CUSP London PhD Conference|13 speakers Presented their work||
 |19th Oct 2023  13:00-14:00|Bjorn Sommer - Royal College of Art|Exploring the Oceans from a Design Perspective|
 |12th Oct 2023  13:00-14:00|Paul Dawson - Head of Evience & Insight Mayors Office for Policing & Crime London (MOPAC)|Telling Stories with Data – Reflections from City Hall||
-|05th Oct 2023  13:00-14:00|Tom Calver - Data Projects Editor Times & Sunday Times|Telling Stories with Data||
+|05th Oct 2023  13:00-14:00|Tom Calver - Data Projects Editor Times & Sunday Times|Telling Stories with Data|[Tom Calver](https://media.kcl.ac.uk/media/tom-calver-2023/1_hr17lkyl)|
 |14th Sept 2023 11:20-16:15|#VizTig Symposium|Welcome, Introduction to CUSP London & Partnership talks|[Nick Holliman, Shane Conneely, Patty Holley](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London+14th+Sept+2023+/1_vvwgtzvy)|| 
 |14th Sept 2023|#VizTIG Symposium|Using set visualization to investigate diagnostic persistence in hospital health records for autism parents|[Roy Ruddle](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London+Roy+Ruddle/1_funewjc2)||
 |14th Sept 2023|#VizTIG Symposium|More or less: Interpretations of absolute Magnitude in Data Visualizations|[Duncan Bradley](https://media.kcl.ac.uk/media/VizTig+Symposium+hosted+by+CUSP+London-Duncan+Bradley/1_ux9xgpco)||
