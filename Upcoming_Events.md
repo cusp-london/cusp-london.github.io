@@ -6,7 +6,6 @@
 
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- |
-|20th-23rd Feb 2024|CUSP London Data Dive - 4 day Event|By Invitation|
 |27th Apr 2024|SatRday Event|Tickets on [Eventbrite](https://www.eventbrite.co.uk/e/satrdays-london-2024-registration-758588196717)| 
                                    
 
