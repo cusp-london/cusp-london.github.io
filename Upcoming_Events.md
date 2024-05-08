@@ -6,6 +6,7 @@
 
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- |
+|Sept 2024|CUSP London Seminar Series Begins again||
 
                                    
 
