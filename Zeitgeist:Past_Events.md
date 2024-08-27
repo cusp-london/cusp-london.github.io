@@ -10,7 +10,7 @@
 27th Apr 2024|SatRdays|Myles Mitchell-Using R to teach R|[Myles Mitchell](https://media.kcl.ac.uk/media/myles_mitchell_using_r_to_teach_r/1_bwr62i2g)|
 27th Apr 2024|SatRdays|Matt Thomas Data meets disaster|[Matt Thomas](https://media.kcl.ac.uk/media/matt_thomas_where_data_meets_disaster/1_1ty6lqhw)|
 27th Apr 2024|SatRdays|Nick Holliman - Welcome to CUSP London|[Nick Holliman](https://media.kcl.ac.uk/media/prof_nick_holliman_strategy%2Bprocesses/1_kxvwth5i)|
-27th Apr 2024|SatRdays
+27th Apr 2024|SatRdays|Charlie Gao Mirai|[Charlie Gao](https://media.kcl.ac.uk/media/charlie_gao_mirai_for_shiny%2Bplumber_apps/1_33ozwzlg)|
 |20th-23rd Feb 2024|CUSP London Data Dive - 4 day Event|By Invitation|
 |07th Dec 2023  14:00-15:00|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|Data Visualisation in London’s City Intelligence Unit|[Mike Brondbjerg](https://media.kcl.ac.uk/media/mike-brondbjerg-2023/1_yudt563y)|
 |30th Nov 2023  14:00-15:00|Gabriel Diaz Cantareira - King's College London (KCL)|Applied Visualization Research: A guide for application-focused research in Information Visualization and Visual Analytics|[Gabriel Diaz Cantareira](https://media.kcl.ac.uk/media/gabriel-diaz-cantareira-2023/1_hckbt0i8)|
