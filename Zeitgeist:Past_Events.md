@@ -5,6 +5,7 @@
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- |
 |27th Apr 2024|SatRday Event|Welcome by Colin Gillespie|[Colin Gillespie](https://media.kcl.ac.uk/media/colin_gillespie_welcome+%281%29/1_i8y2vons)|
+27th Apr 2024| SatRday Event|andrie de vries -lessons learned from product management applied to data science|[Adrrie de vries](https://media.kcl.ac.uk/media/andrie_de_vries_lessons_learned_from_product_management_applied_to_data_science+%281%29/1_i1f2t1zq)|
 |20th-23rd Feb 2024|CUSP London Data Dive - 4 day Event|By Invitation|
 |07th Dec 2023  14:00-15:00|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|Data Visualisation in London’s City Intelligence Unit|[Mike Brondbjerg](https://media.kcl.ac.uk/media/mike-brondbjerg-2023/1_yudt563y)|
 |30th Nov 2023  14:00-15:00|Gabriel Diaz Cantareira - King's College London (KCL)|Applied Visualization Research: A guide for application-focused research in Information Visualization and Visual Analytics|[Gabriel Diaz Cantareira](https://media.kcl.ac.uk/media/gabriel-diaz-cantareira-2023/1_hckbt0i8)|
