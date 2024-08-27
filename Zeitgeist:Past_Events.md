@@ -8,8 +8,7 @@
 27th Apr 2024| SatRday Event|Andrie de Vries lessons learned from product management applied to data science|[Andrie de vries](https://media.kcl.ac.uk/media/andrie_de_vries_lessons_learned_from_product_management_applied_to_data_science+%281%29/1_i1f2t1zq)|
 27th Apr 2024|SatRday Event|Nicola Rennie Typst or LaTeX?|[Nicola Rennie](https://media.kcl.ac.uk/media/nicola_rennie_styling_pdf_documents_with_quatro_extentions+%281%29/1_ig8lnvw6)|
 27th Apr 2024|SatRday Event|Myles Mitchell-Using R to teach R|[Myles Mitchell](https://media.kcl.ac.uk/media/myles_mitchell_using_r_to_teach_r/1_bwr62i2g)|
-27th Apr 2024|SatRday Event|Matt Thomas Where data meets disaster
-|[Matt Thomas](https://media.kcl.ac.uk/media/matt_thomas_where_data_meets_disaster/1_1ty6lqhw)|
+27th Apr 2024|SatRday Event|Matt Thomas data meets disaster|[Matt Thomas](https://media.kcl.ac.uk/media/matt_thomas_where_data_meets_disaster/1_1ty6lqhw)|
 27th Apr 2024|SatRday Event|Nick Holliman - Welcome to CUSP London|[Nick Holliman](https://media.kcl.ac.uk/media/prof_nick_holliman_strategy%2Bprocesses/1_kxvwth5i)|
 |20th-23rd Feb 2024|CUSP London Data Dive - 4 day Event|By Invitation|
 |07th Dec 2023  14:00-15:00|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|Data Visualisation in London’s City Intelligence Unit|[Mike Brondbjerg](https://media.kcl.ac.uk/media/mike-brondbjerg-2023/1_yudt563y)|
