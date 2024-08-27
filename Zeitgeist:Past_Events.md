@@ -13,6 +13,7 @@
 27th Apr 2024|SatRdays|Charlie Gao-Mirai|[Charlie Gao](https://media.kcl.ac.uk/media/charlie_gao_mirai_for_shiny%2Bplumber_apps/1_33ozwzlg)|
 27th Apr 2024|SatRdays|Michael Hogers-Modular Shiny|[Michael Hogers](https://media.kcl.ac.uk/media/michael_hogers_modular_shiny_a_saas_setup/1_tt0lrnf0)|
 27th Apr 2024|SatRdays|Matthew Lam & Matthew Law|[Matthew Lam Matthew Law](https://media.kcl.ac.uk/media/matthew_law_how_mott_macdonald_unlocks_the_power_of_geospatial_with_r/1_4q2nofac)|
+27th Apr 2024|SatRdays|Hannah Frick-Survival Analysis|[Hannah Frick](https://media.kcl.ac.uk/media/hanna_frick_survival_analysis_is_coming_to_tidymodels/1_4kc00l9q)|
 |20th-23rd Feb 2024|CUSP London Data Dive - 4 day Event|By Invitation|
 |07th Dec 2023  14:00-15:00|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|Data Visualisation in London’s City Intelligence Unit|[Mike Brondbjerg](https://media.kcl.ac.uk/media/mike-brondbjerg-2023/1_yudt563y)|
 |30th Nov 2023  14:00-15:00|Gabriel Diaz Cantareira - King's College London (KCL)|Applied Visualization Research: A guide for application-focused research in Information Visualization and Visual Analytics|[Gabriel Diaz Cantareira](https://media.kcl.ac.uk/media/gabriel-diaz-cantareira-2023/1_hckbt0i8)|
