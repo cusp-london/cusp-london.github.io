@@ -14,9 +14,10 @@ Below: A comparison of how different groups of people interpret different types 
 <br>
 ![CUSP London tracker](./assets/page-3-2-2024.jpg)
 <br>
-<be>
+<br>
 
 **2023 research:** <br>
+
 How do we know visual representations are understood universally?<br>
 ![CUSP London 3D](./assets/Page3-1.PNG)
 
