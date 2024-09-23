@@ -3,28 +3,28 @@
 
 <table>
   <tr>
-    <td> <img src="./assets/Page6-1-a.png" alt="page6-1-2024.jpg" > </td>
+    <td> <img src="./assets/page6-1-2024.jpg" alt="page6-1-2024.jpg" > </td>
     <td> 
       CUSP London produces many forms of output, including traditional academic work and software (such as Vizent), influencing groups across the city and the world.
     </td>
    </tr> 
   
    <tr>
-    <td> <img src="./assets/Page6-2.png" alt="page6-2-2024.jpg" > </td>
+    <td> <img src="./assets/page6-2-2024.jpg" alt="page6-2-2024.jpg" > </td>
     <td> 
       Academic outputs including articles with research funding from EPSRC, The Alan Turing Institute, UKRI, KCL and industry funders.
     </td>
    </tr> 
   
    <tr>
-    <td> <img src="./assets/Page6-3.jpg" alt="page6-3-2024.jpg" > </td>
+    <td> <img src="./assets/page6-3-2024.jpg" alt="page6-3-2024.jpg" > </td>
     <td> 
 Skills and knowledge transfer for our partners.  Including the Data Dive, on-site one-day courses, free online training courses and consultancy.
     </td>
    </tr> 
   
    <tr>
-    <td> <img src="./assets/Page6-4.jpeg" alt="page6-4-2024.jpg" > </td>
+    <td> <img src="./assets/page6-4-2024.jpg" alt="page6-4-2024.jpg" > </td>
     <td> 
       Multidisciplinary engagement with eternal partners, eg via the KHP EPSRC Digital Health Hub at King's.
     </td>
