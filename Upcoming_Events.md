@@ -8,7 +8,9 @@
 | ------------- | ---------- | ---------- | ---------- |
 |3rd Oct 2024|CUSP London Seminar Series|Dr Paul Dawson - Head of Evidence & Insight MOPAC|
 |10th Oct 2024|CUSP London Seminar Series|Tom Calver - Data Projects Editor The Times & Sunday Times|
-
+|24th Oct 2024|CUSP London Seminar Series|Yiwen Xing - King's College London|
+|7th Nov 2024|CUSP London Seminar Series|Dr Björn Sommer - Royal College of Art|
+|14th Nov 2024|CUSP London Seminar Series|MAria Teresa Ortoleva - King's College London|
                                    
 
 ## More Information
