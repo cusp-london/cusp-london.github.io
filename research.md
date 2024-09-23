@@ -5,10 +5,16 @@ Ensuring the clarity of visual communications for decision-makers and the public
 <br>
 
 ![CUSP London 3D](./assets/page-3-1-2024.jpg)
+<br>
+<br>
 Above: How can we visualize complex data relating to transport congestion in London so that it is easy to act on in a control room?
 
 Below: A comparison of how different groups of people interpret different types of visualization, finding artists have good statistical skills.
+<br>
+<br>
 ![CUSP London tracker](./assets/page-3-2-2024.jpg)
+<br>
+<be>
 
 **2023 research:** <br>
 How do we know visual representations are understood universally?<br>
