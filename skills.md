@@ -3,10 +3,8 @@
 CUSP London founded the King’s MSc in Urban Informatics which attracts students internationally. They work on projects with external partners including consultancy companies, local government and the emergency services.
 
 A highlight of the CUSP London year is the annual Data Dive, a week-long event bringing together trans-global students and mentors. This year again from three continents, to experience working in teams on real-world data challenges. 
-![image](https://github.com/user-attachments/assets/87275002-42d4-4437-8d0b-38972c7c8c2a)
 
-The 2024 challenge investigated Urban traffic and air quality data and its relation to safety and health. Team members joined live and virtually from the UK, NYU New York and NYU Abu Dhabi. The challenge questions were set by staff from Imperial College and Transport for London.
-![image](https://github.com/user-attachments/assets/367a328c-0ef0-48c2-86cf-ab9b75d4c331)
+The 2024 challenge investigated Urban traffic and air quality data and its relation to safety and health. Team members joined live and virtually from the UK, NYU New York and NYU Abu Dhabi. The challenge questions were set by staff from Imperial College and Transport for London
 
 
 ![Data Dive 2023](./assets/page4-1-2024.jpg)
