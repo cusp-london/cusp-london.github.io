@@ -7,7 +7,7 @@ A highlight of the CUSP London year is the annual Data Dive, a week-long event b
 The 2024 challenge investigated Urban traffic and air quality data and its relation to safety and health. Team members joined live and virtually from the UK, NYU New York and NYU Abu Dhabi. The challenge questions were set by staff from Imperial College and Transport for London
 
 
-![Data Dive 2023](./assets/page4-1-2024.jpg)
+![Data Dive 2023](./assets/page-4-1-2024.jpg)
 *"Loved the event, met a lot of students from other universities and learnt a lot."* Data Dive 2022 
 <br>
 <br>
