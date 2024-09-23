@@ -1,7 +1,15 @@
 # Interdisciplinary Research
 
+Ensuring the clarity of visual communications for decision-makers and the public is a core part of CUSP London’s mission.
+![CUSP London 3D](./assets/page3-1-2-2024.PNG)
+Above: How can we visualize complex data relating to transport congestion in London so that it is easy to act on in a control room?
+
+Below: A comparison of how different groups of people interpret different types of visualization, finding artists have good statistical skills.
+![CUSP London tracker](./assets/page3-2-2024.png)
+
+**2023 research:** <br>
 How do we know visual representations are understood universally?<br>
-![CUSP London 3D](./assets/Page3-1.PNG)
+![CUSP London 3D](./assets/Page3-1-2.PNG)
 
 We are investigating the use of 3D Digital Twins to engage and inform everyone about their urban environment and how it changes.
 <br>
