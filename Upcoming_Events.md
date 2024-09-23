@@ -6,7 +6,8 @@
 
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- |
-|Sept 2024|CUSP London Seminar Series Begins again||
+|3rd Oct 2024|CUSP London Seminar Series|Dr Paul Dawson - Head of Evidence & Insight MOPAC|
+|10th Oct 2024|CUSP London Seminar Series|Tom Calver - Data Projects Editor The Times & Sunday Times|
 
                                    
 
