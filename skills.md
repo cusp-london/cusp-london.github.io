@@ -8,7 +8,7 @@ The 2024 challenge investigated Urban traffic and air quality data and its relat
 
 
 ![Data Dive 2023](./assets/page-4-1-2024.jpg)
-*"Loved the event, met a lot of students from other universities and learnt a lot."* Data Dive 2022 
+*"Loved the event, met a lot of students from other universities and learnt a lot."* Data Dive attendee.
 <br>
 <br>
 
