@@ -15,7 +15,8 @@
 |28th Nov 2024|CUSP London Seminar Series|Camilla Siggaard Andersen - Hassell Studio|
 5th Dec 2024|CUSP London Seminar Series|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|
 
-|Please contact us if you wish to come along to any of the above seminars CUSP-London@kcl.ac.uk.|
+
+Please contact us if you wish to come along to any of the above seminars CUSP-London@kcl.ac.uk.
 
 ## More Information
 
