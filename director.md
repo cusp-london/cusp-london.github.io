@@ -1,4 +1,4 @@
-# Director's Message 2023
+# Director's Message 2024
 
 As always, everyone at CUSP London collaborated to maintain and extend our vibrant pipeline of multidisciplinary research. Our main priority continues to be producing tangible results that have a real-world impact on our academic associates and partners. From one-hour seminars to multi-million-pound funding bids, it has been inspiring to see how CUSP London melds our thinking across the College to address today’s critical urban and extra-urban challenges.
 
