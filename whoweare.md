@@ -19,21 +19,20 @@ CUSP London brings together a multi-disciplinary teams of academics, a group of 
 |-----------------------|------------|
 |Alfie Abdul-Rahman|Informatics|
 |Rita Borgo|Informatics|
-|Elena Simperl|Informatics|
+|Georgia Panagiotidou|Informatics|
 |Daniele Quercia|Informatics|
-|Mike Cook|Informatics|
-|Dimitrios Letsios|Informatics|
+|Tim Neate|Informatics|
+|Hector Menendez Benito|Informatics|
 |Grazia Todeschini|Engineering|
 |Rym M'Hallah|Engineering|
 |Miao Guo|Engineering|
 |Yansha Deng|Engineering|
+|Wei he|Engineering|
 |Zara Shabrina|Geography|
-|Rob Stewart|Institute of Psychiatry, Psychology and Neuroscience|
 |Angus Roberts|Institute of Psychiatry, Psychology and Neuroscience|
-|Alexandru Dregan|Institute of Psychiatry, Psychology and Neuroscience|
 |Andrew Meso|Institute of Psychiatry, Psychology and Neuroscience|
-Jayati Das-Munshi|Institute of Psychiatry, Psychology and Neuroscience|
-|Kalliopi Mylona|Mathematics|
+|Yu Luo|Mathematics|
+|Maria Kalli|Mathematics|
 |Simon Miles - Founding Director|Alumni|
 |Mark Kleinman|Alumni|
 
