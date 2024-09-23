@@ -1,8 +1,8 @@
 # Partnerships and Engagement
 
-![Engagement](./assets/Engagement2023.jpg)
+![Engagement](./assets/NESO_collab_2024.jpg)
 
-Engagement with external partners is central to CUSP London activities, this provides real world context for research projects, supports placements, leads to employment opportunities and delivers value to our partners including access to the latest digital skills.
+Engagement with external partners, such as Neo4j, NESO, Nokia and many others, is central to CUSP London activities, this provides real world context for research projects, supports placements, leads to employment opportunities and delivers value to our partners including access to the latest data science skills.
 <br>
 
 > "As Nokia, we cherish our partnership with CUSP, where cutting-edge technology meets brilliant minds, fostering co-creation, innovation, and a cuture of transformative ideas.  Together, we shape the future of connectivity, revolutionizing how people experience and interact with technology in the cities of tomorrow"
