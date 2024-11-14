@@ -4,8 +4,12 @@
 
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- |
+|3rd Oct 2024|CUSP London Seminar Series|Dr Paul Dawson - Head of Evidence & Insight MOPAC|
+|10th Oct 2024|CUSP London Seminar Series|Tom Calver - Data Projects Editor The Times & Sunday Times|
+|24th Oct 2024|CUSP London Seminar Series|Yiwen Xing - King's College London|
+|7th Nov 2024|CUSP London Seminar Series|Dr Björn Sommer - Royal College of Art|
 |27th Apr 2024|SatRday Event|Welcome by Colin Gillespie|[Colin Gillespie](https://media.kcl.ac.uk/media/colin_gillespie_welcome+%281%29/1_i8y2vons)|
-27th Apr 2024| SatRdays|Andrie de Vries-lessons learned product management & data science|[Andrie de vries](https://media.kcl.ac.uk/media/andrie_de_vries_lessons_learned_from_product_management_applied_to_data_science+%281%29/1_i1f2t1zq)|
+|27th Apr 2024| SatRdays|Andrie de Vries-lessons learned product management & data science|[Andrie de vries](https://media.kcl.ac.uk/media/andrie_de_vries_lessons_learned_from_product_management_applied_to_data_science+%281%29/1_i1f2t1zq)|
 27th Apr 2024|SatRdays|Nicola Rennie-Typst or LaTeX?|[Nicola Rennie](https://media.kcl.ac.uk/media/nicola_rennie_styling_pdf_documents_with_quatro_extentions+%281%29/1_ig8lnvw6)|
 27th Apr 2024|SatRdays|Myles Mitchell-Using R to teach R|[Myles Mitchell](https://media.kcl.ac.uk/media/myles_mitchell_using_r_to_teach_r/1_bwr62i2g)|
 27th Apr 2024|SatRdays|Matt Thomas-Data meets disaster|[Matt Thomas](https://media.kcl.ac.uk/media/matt_thomas_where_data_meets_disaster/1_1ty6lqhw)|
