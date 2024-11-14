@@ -7,6 +7,7 @@
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- |
 |14th Nov 2024|CUSP London Seminar Series|Maria Teresa Ortoleva - King's College London|
+|20th Nov 2024|CUSP London 3D Modelling Workshop|Peter Baudains & AccuCities|
 |21st Nov 2024|CUSP London Seminar Series|Dr Matt Thomas - Head of Strategic Insight & Foresight The British Red Cross|                                 
 |28th Nov 2024|CUSP London Seminar Series|Camilla Siggaard Andersen - Hassell Studio|
 5th Dec 2024|CUSP London Seminar Series|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall|
