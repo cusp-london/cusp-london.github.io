@@ -8,6 +8,7 @@
 | ------------- | ---------- | ---------- | ---------- |                             
 |28th Nov 2024|CUSP London Seminar Series|Camilla Siggaard Andersen - Expert in urban research, strategy, and innovation|
 5th Dec 2024|CUSP London Seminar Series|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall - City Intelligence: London Through the data Lens|
+18-21st Feb 2025|CUSP London Data Dive| Invitation Only - Please contact us to join|
 
 
 Please contact us if you wish to come along to any of the above seminars CUSP-London@kcl.ac.uk.
