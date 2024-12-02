@@ -1,8 +1,16 @@
 # Partnerships and Engagement
 
-![Engagement](./assets/NESO_collab_2024.jpg)
 
-Engagement with external partners, such as Neo4j, NESO, Nokia and many others, is central to CUSP London activities, this provides real world context for research projects, supports placements, leads to employment opportunities and delivers value to our partners including access to the latest data science skills.
+
+Engagement with external partners, such as MOPAC, The Crown Estate, Nokia, WSP and many others, is central to CUSP London activities, this provides real world context for research projects, supports placements, leads to employment opportunities and delivers value to our partners including access to the latest data science skills.
+
+<br>
+
+> For example, King’s MSc Urban Informatics student, under our partnership with Westminster City Council, have helped achieve a 22% reduction in car use around Westminster schools, leading to CO₂ savings of about 3.5 tonnes. Read the detailed stories at [Student project helps reduce car use around schools in London borough](https://www.kcl.ac.uk/news/student-project-helps-reduce-car-use-around-schools-in-london-borough)
+
+*Dr Yijing Li, Interim Director for CUSP London*
+<br>
+
 <br>
 
 > "As Nokia, we cherish our partnership with CUSP, where cutting-edge technology meets brilliant minds, fostering co-creation, innovation, and a cuture of transformative ideas.  Together, we shape the future of connectivity, revolutionizing how people experience and interact with technology in the cities of tomorrow"
