@@ -6,7 +6,7 @@ Engagement with external partners, such as MOPAC, The Crown Estate, Nokia, WSP a
 
 <br>
 
-> For example, King’s MSc Urban Informatics student, under our partnership with Westminster City Council, have helped achieve a 22% reduction in car use around Westminster schools, leading to CO₂ savings of about 3.5 tonnes. Read the detailed stories at [Student project helps reduce car use around schools in London borough](https://www.kcl.ac.uk/news/student-project-helps-reduce-car-use-around-schools-in-london-borough)
+> For example, King’s MSc Urban Informatics student, under our partnership with Westminster City Council, have helped achieve a 22% reduction in car use around Westminster schools, leading to CO₂ savings of about 3.5 tonnes. Read the detailed stories at [Student project helps reduce car use around schools in London borough.](https://www.kcl.ac.uk/news/student-project-helps-reduce-car-use-around-schools-in-london-borough)
 
 *Dr Yijing Li, Interim Director for CUSP London*
 <br>
