@@ -10,8 +10,21 @@
 5th Dec 2024|CUSP London Seminar Series|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall - City Intelligence: London Through the data Lens|
 18-21st Feb 2025|CUSP London Data Dive| Invitation Only - Please contact us to join|
 
-
 Please contact us if you wish to come along to any of the above seminars CUSP-London@kcl.ac.uk.
+
+The CUSP London Data-Dive-2025 brings together global student teams to address urban data challenges, to consider relationships between urban data variables in the domains of **Sustainability**, in cities such as: London, Glasgow, Warwick, New York & Peking, under the partnerships with [The Crown Estate](https://www.thecrownestate.co.uk/) and [Geolytix](https://geolytix.com/). Groups will be able to address challenges including:
+
+- Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors?
+
+- Are urban parks or trees really playing a role promoting citizens' health, either physical health or mental health?
+
+- How the climate risks affect urban livability? Could greenspace or trees help out?
+
+- How the urban transportation modes can better support sustainable economy development in metropolitan cities?
+
+- How the urban waste management contribute to cities' sustainability goals towards 2030 and 2050?
+
+**Please [contact us to join](CUSP-London@kcl.ac.uk)**
 
 ## More Information
 
