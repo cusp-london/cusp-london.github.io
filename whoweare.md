@@ -4,11 +4,11 @@ CUSP London brings together a multi-disciplinary teams of academics, a group of 
 
 <table>
   <tr>
-    <td> <img src="./assets/nick.jpg" alt="1" width = 260px height = 260px > <div class="caption"> Nick Holliman <br> Director </div> </td>
+    <td> <img src="./assets/yijingli.jpg" alt="1" width = 260px height = 260px > <div class="caption"> Yijing Li <br> Interim Director </div> </td>
     <td> <img src="./assets/claire-2024.jpg" alt="2" width = 260px height = 260px> <div class="caption"> Claire Crowther <br> Centre Manager </div> </td>
   </tr> 
   <tr>
-    <td> <img src="./assets/yijing.png" alt="1" width = 260px height = 260px > <div class="caption"> Yijing Li <br> Deputy Director Skills & Knowledge </div> </td>
+    <td> </td>
     <td> <img src="./assets/peter.jpg" alt="1" width = 260px height = 260px > <div class="caption"> Peter Baudains <br> Research Software Engineer </div> </td>
   </tr>
 </table>
@@ -34,6 +34,7 @@ CUSP London brings together a multi-disciplinary teams of academics, a group of 
 |Yu Luo|Mathematics|
 |Maria Kalli|Mathematics|
 |Simon Miles - Founding Director|Alumni|
+|Nick Holliman - Director (2022-24) |Alumni|
 |Mark Kleinman|Alumni|
 
 ## More Information
