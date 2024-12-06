@@ -6,7 +6,7 @@ We are adding our CUSP research-partnership Tree Map to the 2024 Christmas atmos
 
 <br>
 <br>
-![CUSP London Research Map](./assets/Screenshot 2024-12-06 at 19.06.45.png)
+![CUSP London Research Map](./assets/researchtree.png)
 <br>
 <br>
 
