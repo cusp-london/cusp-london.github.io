@@ -11,7 +11,7 @@ Here are the details of our diverse external partnerships and collaborators, as 
 <br>
 <b>CUSP London Impact Stories:</b>
 <b></b>Pioneering Data Driven Humanitarian Aid</B> - Student Placement with The British Red Cross.<br>
-Overview:<br>
+<b>Overview:</b><br>
 Ruonan Zhang, an MSc student from King’s College London, interned with the Strategic Insight & Foresight team at the British Red Cross (BRC). Under Michael Page’s guidance, she contributed to the development of the Resilience Index, a tool to identify UK local authorities vulnerable in crises.<br>
 Key Contributions:<br>
 Data Integration and Workflow Design:<br>
@@ -28,7 +28,7 @@ Personal and Professional Growth:<br>
 Gained practical experience in large-scale project management and real-world application of data science.<br>
 Enhanced technical skills, including coding and data analysis, while refining her understanding of humanitarian operations.
 Left a lasting impact on the BRC’s resilience strategy and fortified her readiness for future roles, including her current position as a Data Scientist at Lynchpin.<br>
-Legacy:<br>
+<b>Legacy:</b><br>
 Ruonan’s work demonstrates how academic training can drive meaningful humanitarian outcomes, exemplifying KCL’s ethos of transforming knowledge into action.<br>
 
 
