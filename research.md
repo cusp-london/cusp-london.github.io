@@ -10,7 +10,7 @@ Here are the details of our diverse external partnerships and collaborators, as 
 <br>
 <br>
 <b>CUSP London Impact Stories:</b>
-<b></b>Pioneering Data Driven Humanitarian Aid</B> - Student Placement with The British Red Cross.<br>
+<b>Pioneering Data Driven Humanitarian Aid</B> - Student Placement with The British Red Cross.<br>
 <b>Overview:</b><br>
 Ruonan Zhang, an MSc student from King’s College London, interned with the Strategic Insight & Foresight team at the British Red Cross (BRC). Under Michael Page’s guidance, she contributed to the development of the Resilience Index, a tool to identify UK local authorities vulnerable in crises.<br>
 Key Contributions:<br>
