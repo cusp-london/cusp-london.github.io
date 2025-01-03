@@ -1,8 +1,8 @@
 # Interdisciplinary Research & Impact
 
-CUSP London is highly featured by our interdisciplinary research community, with diverse skillsets and expertise; and importantly, in great support of our dedicated partners!
+CUSP London thrives on its vibrant interdisciplinary research community, bringing together diverse skills and expertise, and is strongly supported by our committed partners!
 
-Please see below details of our extensive and varied external Partnerships and collaborators shown here on the CUSP London research-partnership Tree Map
+Here are the details of our diverse external partnerships and collaborators, as represented on the CUSP London Research-Partnership Tree Map.
 
 <br>
 <br>
