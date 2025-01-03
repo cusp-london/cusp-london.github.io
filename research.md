@@ -9,7 +9,7 @@ Here are the details of our diverse external partnerships and collaborators, as 
 ![CUSP London Research Map](./assets/researchtree.png)
 <br>
 <br>
-<b>CUSP London Impact Stories:</b>
+<b>CUSP London Impact Stories:</b><br>
 <b>Pioneering Data Driven Humanitarian Aid - Student Placement with The British Red Cross.</B><br>
 <b>Overview:</b><br>
 Ruonan Zhang, an MSc student from King’s College London, interned with the Strategic Insight & Foresight team at the British Red Cross (BRC). Under Michael Page’s guidance, she contributed to the development of the Resilience Index, a tool to identify UK local authorities vulnerable in crises.<br>
@@ -31,7 +31,47 @@ Left a lasting impact on the BRC’s resilience strategy and fortified her readi
 <b>Legacy:</b><br>
 Ruonan’s work demonstrates how academic training can drive meaningful humanitarian outcomes, exemplifying KCL’s ethos of transforming knowledge into action.<br>
 <br>
-<BR>
+<br>
+<b>Unlocking The Power of Urban Informatics to Improve Information Visualisations in Haringey, London.</b><br>
+<b>Overview:</b>
+Songchen Yao, an MSc Urban Informatics student, completed a 10-week placement at the London Borough of Haringey.  Supervised by Dr. Yijing Li (KCL) and Mr. Edurado Lopez Salas (Haringey Council), he worked on unveiling key sociodemographic data for the borough.<br>
+
+Key Contributions:<br>
+Interactive Web Page for Data Visualisation:<br>
+Designed an interactive web page showcasing Haringey's sociodemographic data using advanced visualisation techniques.
+Made data accessible and engaging for the council and citizens, leveraging skills from KCL courses like “Telling the Story of Data.”<br>
+Promoting Data Openness and Engagement:<br>
+Addressed the need for clear communication of government data to a diverse population of over 260,000 residents.<br>
+Transformed raw statistics into visually appealing and user-friendly narratives, fostering greater public understanding.
+Empowering Community Participation:<br>
+
+<b>Impact:</B><br>
+Songchen’s work lays the foundation for a more informed, engaged, and environmentally aware community in Haringey. His placement showcases the real-world impact of urban informatics, empowering both his professional aspirations and the borough’s development efforts.<br>
+He gained practical experience in data visualisation, problem-solving, and working in a dynamic local government setting.
+Overcame challenges such as data discrepancies, strengthening his resilience and adaptability.
+<b>Legacy:</B><br>
+This project breaks down barriers and encourages public engagement. Local residents, community leaders, and visitors alike find themselves empowered with easy access to vital data, bridging the gap between the Haringey council and its citizens.<br>
+Through his data visualizations and cartograms, Songchen effectively communicates complex environmental issues, sparking a collective understanding of the borough's realities, such as demonstrating the local carbon emissions.<BR> 
+The web page becomes a catalyst for dialogue, encouraging open discussions and empowering the community to actively participate in decision-making processes. As environmental awareness flourishes, local residents and stakeholders collaborate with renewed vigour, coming together to address pressing issues and co-create sustainable solutions. The work hence not only strengthens community bonds but also lays the foundation for a more informed and engaged society, where individuals feel a sense of ownership and responsibility for their environment.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **2024 research:** <br>
 
 Ensuring the clarity of visual communications for decision-makers and the public is a core part of CUSP London’s mission.
