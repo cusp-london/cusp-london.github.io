@@ -1,8 +1,8 @@
-# Interdisciplinary Research & IOmpact
+# Interdisciplinary Research & Impact
 
 CUSP London is highly featured by our interdisciplinary research community, with diverse skillsets and expertise; and importantly, in great support of our dedicated partners!
 
-We are adding our CUSP London research-partnership Tree Map to the 2024 Christmas atmosphere!
+Please see below details of our extensive and varied external Partnerships and collaborators shown here on the CUSP London research-partnership Tree Map
 
 <br>
 <br>
