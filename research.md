@@ -31,7 +31,7 @@ Left a lasting impact on the BRC’s resilience strategy and fortified her readi
 <b>Legacy:</b><br>
 Ruonan’s work demonstrates how academic training can drive meaningful humanitarian outcomes, exemplifying KCL’s ethos of transforming knowledge into action.<br>
 <br>
-,BR>
+<BR>
 **2024 research:** <br>
 
 Ensuring the clarity of visual communications for decision-makers and the public is a core part of CUSP London’s mission.
