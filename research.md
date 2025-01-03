@@ -9,27 +9,27 @@ Here are the details of our diverse external partnerships and collaborators, as 
 ![CUSP London Research Map](./assets/researchtree.png)
 <br>
 <br>
-**CUSP London Impact Stories:**
-**Pioneering Data Driven Humanitarian Aid** - Student Placement with The British Red Cross.
-Overview:
-Ruonan Zhang, an MSc student from King’s College London, interned with the Strategic Insight & Foresight team at the British Red Cross (BRC). Under Michael Page’s guidance, she contributed to the development of the Resilience Index, a tool to identify UK local authorities vulnerable in crises.
-Key Contributions:
-Data Integration and Workflow Design:
-Utilised skills from the MSc Urban Informatics programme to source, process, and integrate data from diverse repositories across four nations.
-Employed R programming to structure and simplify data for actionable insights.
-Designed a user-friendly and comprehensive workflow for the Resilience Index.
-Enhancing Resilience Planning:
-Developed a tool combining multiple indicators to pinpoint vulnerable regions.
-Ensured data-driven decisions were complemented by community engagement to align aid with real needs.
-**Impact:**
-Improved the BRC’s resource allocation and preparedness strategies.
-Enabled timely, targeted humanitarian interventions with optimized response times.
-Personal and Professional Growth:
-Gained practical experience in large-scale project management and real-world application of data science.
+<b>CUSP London Impact Stories:</b>
+<b></b>Pioneering Data Driven Humanitarian Aid</B> - Student Placement with The British Red Cross.<br>
+Overview:<br>
+Ruonan Zhang, an MSc student from King’s College London, interned with the Strategic Insight & Foresight team at the British Red Cross (BRC). Under Michael Page’s guidance, she contributed to the development of the Resilience Index, a tool to identify UK local authorities vulnerable in crises.<br>
+Key Contributions:<br>
+Data Integration and Workflow Design:<br>
+Utilised skills from the MSc Urban Informatics programme to source, process, and integrate data from diverse repositories across four nations.<br>
+Employed R programming to structure and simplify data for actionable insights.<br>
+Designed a user-friendly and comprehensive workflow for the Resilience Index.<br>
+Enhancing Resilience Planning:<br>
+Developed a tool combining multiple indicators to pinpoint vulnerable regions.<br>
+Ensured data-driven decisions were complemented by community engagement to align aid with real needs.<br>
+<b>Impact:</b><br>
+Improved the BRC’s resource allocation and preparedness strategies.<br>
+Enabled timely, targeted humanitarian interventions with optimized response times.<br>
+Personal and Professional Growth:<br>
+Gained practical experience in large-scale project management and real-world application of data science.<br>
 Enhanced technical skills, including coding and data analysis, while refining her understanding of humanitarian operations.
-Left a lasting impact on the BRC’s resilience strategy and fortified her readiness for future roles, including her current position as a Data Scientist at Lynchpin.
-Legacy:
-Ruonan’s work demonstrates how academic training can drive meaningful humanitarian outcomes, exemplifying KCL’s ethos of transforming knowledge into action.
+Left a lasting impact on the BRC’s resilience strategy and fortified her readiness for future roles, including her current position as a Data Scientist at Lynchpin.<br>
+Legacy:<br>
+Ruonan’s work demonstrates how academic training can drive meaningful humanitarian outcomes, exemplifying KCL’s ethos of transforming knowledge into action.<br>
 
 
 **2024 research:** <br>
