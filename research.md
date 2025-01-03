@@ -1,8 +1,8 @@
 # Interdisciplinary Research
 
-CUSP is highly featured by our interdisciplinary research community, with diverse skillsets and expertises; and most of importantly, in great supports of our dedicated partners!
+CUSP London is highly featured by our interdisciplinary research community, with diverse skillsets and expertises; and most importantly, in great support of our dedicated partners!
 
-We are adding our CUSP research-partnership Tree Map to the 2024 Christmas atmosphere!
+We are adding our CUSP London research-partnership Tree Map to the 2024 Christmas atmosphere!
 
 <br>
 <br>
