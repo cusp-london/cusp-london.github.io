@@ -51,6 +51,7 @@ He gained practical experience in data visualisation, problem-solving, and worki
 Overcame challenges such as data discrepancies, strengthening his resilience and adaptability.
 <b>Legacy:</B><br>
 This project breaks down barriers and encourages public engagement. Local residents, community leaders, and visitors alike find themselves empowered with easy access to vital data, bridging the gap between the Haringey council and its citizens.<br>
+<b>Legacy: </B><br>
 Through his data visualizations and cartograms, Songchen effectively communicates complex environmental issues, sparking a collective understanding of the borough's realities, such as demonstrating the local carbon emissions.<BR> 
 The web page becomes a catalyst for dialogue, encouraging open discussions and empowering the community to actively participate in decision-making processes. As environmental awareness flourishes, local residents and stakeholders collaborate with renewed vigour, coming together to address pressing issues and co-create sustainable solutions. The work hence not only strengthens community bonds but also lays the foundation for a more informed and engaged society, where individuals feel a sense of ownership and responsibility for their environment.<br>
 
