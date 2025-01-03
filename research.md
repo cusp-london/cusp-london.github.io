@@ -30,8 +30,8 @@ Enhanced technical skills, including coding and data analysis, while refining he
 Left a lasting impact on the BRC’s resilience strategy and fortified her readiness for future roles, including her current position as a Data Scientist at Lynchpin.<br>
 <b>Legacy:</b><br>
 Ruonan’s work demonstrates how academic training can drive meaningful humanitarian outcomes, exemplifying KCL’s ethos of transforming knowledge into action.<br>
-
-
+<br>
+,BR>
 **2024 research:** <br>
 
 Ensuring the clarity of visual communications for decision-makers and the public is a core part of CUSP London’s mission.
