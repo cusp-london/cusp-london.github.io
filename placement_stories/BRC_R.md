@@ -1,4 +1,6 @@
-Pioneering Data-Driven Humanitarian Aid ---- R, 2021/22 MSc Urban Informatics (UI) student with Placement at British Red Cross
+**Pioneering Data-Driven Humanitarian Aid**
+
+---- R, 2021/22 MSc Urban Informatics (UI) student with Placement at British Red Cross
 
 R, a dedicated MSc UI student from King’s College London (KCL), undertook an internship with the Strategic Insight & Foresight team at the British Red Cross (BRC) during the academic year 2021/22. Under the guidance of the team, R was entrusted with the crucial task of assisting to develop the Resilience Index, a tool aimed at identifying local authorities in the UK that might be more vulnerable during challenging situations. Drawing upon the rigorous training and education they had received from MSc UI programme, the student was instrumental in the design and formulation of the Resilience Index. 
 
