@@ -2,7 +2,7 @@
 
 CUSP London founded the King’s MSc in Urban Informatics which attracts students internationally. They work on projects with external partners including consultancy companies, local government and the emergency services.
 <br>
-> For example, King’s MSc Urban Informatics student, under our partnership with British Red Cross (BRC), have contributed to the BRC's Resilience Index design and visualisation through their placement module. Read the testimonials of the placement story at [BRC's Placement Story.](placement_stories) 
+> For example, King’s MSc Urban Informatics student, under our partnership with British Red Cross (BRC), have contributed to the BRC's Resilience Index design and visualisation through their placement module. Read the testimonials of the placement story at [BRC's Placement Story.](./placement_stories/BRC_R.md) 
 <br>
 
 A highlight of the CUSP London year is the annual Data Dive, a week-long event bringing together trans-global students and mentors. This year again from three continents, to experience working in teams on real-world data challenges. 
