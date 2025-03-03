@@ -11,7 +11,7 @@
 
 Please contact us if you wish to come along to any of the above seminars CUSP-London@kcl.ac.uk.
 
-The CUSP London Data-Dive-2025 brings together global student teams to address urban data challenges, to consider relationships between urban data variables in the domains of **Sustainability**, in cities such as: London, Glasgow, Warwick, New York & Peking, under the partnerships with [The Crown Estate](https://www.thecrownestate.co.uk/) and [Geolytix](https://geolytix.com/). The successful event report could be found at ![Data Dive Report](./assets/Data Dive 2025 report v2.pdf)
+The CUSP London Data-Dive-2025 brings together global student teams to address urban data challenges, to consider relationships between urban data variables in the domains of **Sustainability**, in cities such as: London, Glasgow, Warwick, New York & Peking, under the partnerships with [The Crown Estate](https://www.thecrownestate.co.uk/) and [Geolytix](https://geolytix.com/). The successful event report could be found at ![Data_Dive_2025_Report](./assets/Data Dive 2025 report v2.pdf)
 
 - Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors?
 
