@@ -16,9 +16,13 @@ The CUSP London Data-Dive-2025 brings together global student teams to address u
   <img src="./assets/dd_r2.jpg" width="100" />
   <img src="./assets/dd_r3.jpg" width="100" /> 
   <img src="./assets/dd_r4.jpg" width="100" />
+  <img src="./assets/dd_r5.jpg" width="100" />
+  <img src="./assets/dd_r6.jpg" width="100" /> 
+  <img src="./assets/dd_r7.jpg" width="100" />
+  <img src="./assets/dd_r8.jpg" width="100" />
+  <img src="./assets/dd_r9.jpg" width="100" /> 
+  <img src="./assets/dd_r10.jpg" width="100" />
 </p>
-
-(./assets/dd_r5.jpg)(./assets/dd_r6.jpg)(./assets/dd_r7.jpg)(./assets/dd_r8.jpg)(./assets/dd_r9.jpg)(./assets/dd_r10.jpg)
 
 - Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors?
 
