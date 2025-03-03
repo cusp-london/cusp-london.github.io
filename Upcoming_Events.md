@@ -11,7 +11,14 @@
 
 Please contact us if you wish to come along to any of the above seminars CUSP-London@kcl.ac.uk.
 
-The CUSP London Data-Dive-2025 brings together global student teams to address urban data challenges, to consider relationships between urban data variables in the domains of **Sustainability**, in cities such as: London, Glasgow, Warwick, New York & Peking, under the partnerships with [The Crown Estate](https://www.thecrownestate.co.uk/) and [Geolytix](https://geolytix.com/). The successful event report could be found at ![Data_Dive_2025_Report](./assets/dd_r1.jpg)(./assets/dd_r2.jpg)(./assets/dd_r3.jpg)(./assets/dd_r4.jpg)(./assets/dd_r5.jpg)(./assets/dd_r6.jpg)(./assets/dd_r7.jpg)(./assets/dd_r8.jpg)(./assets/dd_r9.jpg)(./assets/dd_r10.jpg)
+The CUSP London Data-Dive-2025 brings together global student teams to address urban data challenges, to consider relationships between urban data variables in the domains of **Sustainability**, in cities such as: London, Glasgow, Warwick, New York & Peking, under the partnerships with [The Crown Estate](https://www.thecrownestate.co.uk/) and [Geolytix](https://geolytix.com/). The successful event report could be found at ![Data_Dive_2025_Report](./assets/dd_r1.jpg)
+<p float="left">
+  <img src="./assets/dd_r2.jpg" width="100" />
+  <img src="./assets/dd_r3.jpg" width="100" /> 
+  <img src="./assets/dd_r4.jpg" width="100" />
+</p>
+
+(./assets/dd_r5.jpg)(./assets/dd_r6.jpg)(./assets/dd_r7.jpg)(./assets/dd_r8.jpg)(./assets/dd_r9.jpg)(./assets/dd_r10.jpg)
 
 - Are buildings' energy efficiency performance affected by certain features, or any other exogenous environment factors?
 
