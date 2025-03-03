@@ -6,7 +6,7 @@
 
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- |                             
-18-21st Feb 2025|CUSP London Data Dive| Invitation Only - Please contact us to join|
+18-21st Feb 2025|CUSP London Data Dive| Invitation Only - Please contact us to join|[Data Dive Report]!(./assets/Data Dive 2025 report v2.pdf)
 
 Please contact us if you wish to come along to any of the above seminars CUSP-London@kcl.ac.uk.
 
