@@ -4,7 +4,7 @@
 
 | Date        | Event    | Title      | Watch recording here |
 | ------------- | ---------- | ---------- | ---------- |
-|16th Jun 2025|CUSP London Seminar|Hedonic Price Models, Social Media & AI, plus Analysing Mobility using phone data|Prof. John Osth [John Osth](https://media.kcl.ac.uk/media/CUSPLondon_Seminar_Prof+John+Osth/1_kexysuw7)|
+|16th Jun 2025|CUSP London Seminar|Hedonic Price Models, Social Media & AI, plus Analysing Mobility using phone data| [Prof. John Osth](https://media.kcl.ac.uk/media/CUSPLondon_Seminar_Prof+John+Osth/1_kexysuw7)|
 |5th Dec 2024|CUSP London Seminar Series|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall - City Intelligence: London Through the data Lens|
 |28th Nov 2024|CUSP London Seminar Series|Camilla Siggaard Andersen - Expert in urban research, strategy, and innovation|
 |21st Nov 2024|CUSP London Seminar Series|Dr Matt Thomas - Head of Strategic Insight & Foresight The British Red Cross|
