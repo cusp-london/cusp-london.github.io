@@ -7,7 +7,7 @@
 |16th Jun 2025|CUSP London Seminar|Hedonic Price Models, Social Media & AI, plus Analysing Mobility using phone data| [Prof. John Osth](https://media.kcl.ac.uk/media/CUSPLondon_Seminar_Prof+John+Osth/1_kexysuw7)|
 |5th Dec 2024|CUSP London Seminar Series|Mike Brondbjerg - Data Visualization & Information Design Lead, City Intelligence Unit, London City Hall - City Intelligence: London Through the data Lens|
 |28th Nov 2024|CUSP London Seminar Series|Camilla Siggaard Andersen - Expert in urban research, strategy, and innovation|
-|21st Nov 2024|CUSP London Seminar Series|Dr Matt Thomas - Head of Strategic Insight & Foresight The British Red Cross|
+|21st Nov 2024|CUSP London Seminar Series|From Numbers to Narratives: Data Science is Storytelling & Design|[Dr Matt Thomas - Head of Strategic Insight & Foresight The British Red Cross](https://media.kcl.ac.uk/media/t/1_qdnyfi03)|
 |10th Oct 2024|CUSP London Seminar Series|Tom Calver - Data Projects Editor The Times & Sunday Times|
 |20th Nov 2024|CUSP London 3D Modelling Workshop|Peter Baudains & AccuCities|
 |14th Nov 2024|CUSP London Seminar Series|Mindscapes|[Maria Teresa Ortoleva](https://media.kcl.ac.uk/media/t/1_30q6rrld)|
