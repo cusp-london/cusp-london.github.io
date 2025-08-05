@@ -10,7 +10,7 @@
 |21st Nov 2024|CUSP London Seminar Series|Dr Matt Thomas - Head of Strategic Insight & Foresight The British Red Cross|
 |10th Oct 2024|CUSP London Seminar Series|Tom Calver - Data Projects Editor The Times & Sunday Times|
 |20th Nov 2024|CUSP London 3D Modelling Workshop|Peter Baudains & AccuCities|
-|14th Nov 2024|CUSP London Seminar Series|Maria Teresa Ortoleva - King's College London|
+|14th Nov 2024|CUSP London Seminar Series|Mindscapes|[Maria Teresa Ortoleva](https://media.kcl.ac.uk/media/t/1_30q6rrld)|
 |7th Nov 2024|CUSP London Seminar Series|Dr Björn Sommer - Royal College of Art|
 |24th Oct 2024|CUSP London Seminar Series|Yiwen Xing - King's College London|
 |3rd Oct 2024|CUSP London Seminar Series|Dr Paul Dawson - Head of Evidence & Insight MOPAC|
