@@ -16,10 +16,8 @@
       <br><br>
       Or follow us on:
       <br><br>
-      twitter : <a href = "https://twitter.com/cusplondon">@CUSPLondon</a>
-      <br>
-      insta : <a href = "https://www.instagram.com/cusplondon/">@CUSPLondon</a>
-    </td>
+      LinkedIn: <a href = "https://www.LinkedIn.com/Centre for Urban Science and Progress London (CUSP London), King's College London/">@CUSPLondon</a>
+          </td>
     <td> <img src="./assets/bushHouse.png" alt="Bush House" width = 433px > </td>
  </tr>
 </table>
